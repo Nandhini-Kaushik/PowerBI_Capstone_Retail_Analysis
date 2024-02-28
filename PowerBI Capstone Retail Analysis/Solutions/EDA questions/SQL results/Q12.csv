@@ -1,0 +1,2962 @@
+Order_Month,customerNumber,country,productLine,productName,Purchase_count,Total_Spent
+May,141,Spain,"Classic Cars","1992 Ferrari 360 Spider red",2,14692
+August,124,USA,"Classic Cars","2001 Ferrari Enzo",2,12728
+December,141,Spain,"Classic Cars","1992 Ferrari 360 Spider red",2,11949
+May,141,Spain,"Classic Cars","1998 Chrysler Plymouth Prowler",2,11939
+August,124,USA,"Classic Cars","1969 Ford Falcon",2,11790
+April,201,UK,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,11503
+August,124,USA,"Vintage Cars","1903 Ford Model A",2,11385
+April,209,France,"Classic Cars","1969 Dodge Charger",1,11171
+May,141,Spain,"Trucks and Buses","1962 Volkswagen Microbus",2,11139
+December,141,Spain,"Classic Cars","1956 Porsche 356A Coupe",2,11004
+April,450,USA,"Vintage Cars","1917 Grand Touring Sedan",1,10724
+April,323,"New Zealand","Classic Cars","1968 Ford Mustang",1,10460
+October,124,USA,"Classic Cars","1952 Alpine Renault 1300",1,10286
+May,141,Spain,"Classic Cars","1952 Alpine Renault 1300",1,10072
+January,141,Spain,"Classic Cars","1992 Ferrari 360 Spider red",2,10048
+May,141,Spain,"Trucks and Buses","1957 Chevy Pickup",2,10018
+November,458,Spain,"Classic Cars","2001 Ferrari Enzo",1,9974
+April,209,France,"Classic Cars","1956 Porsche 356A Coupe",1,9712
+November,455,USA,"Classic Cars","2001 Ferrari Enzo",1,9571
+December,202,Canada,"Classic Cars","1952 Alpine Renault 1300",1,9569
+October,256,France,"Classic Cars","1952 Alpine Renault 1300",1,9468
+December,129,USA,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,9394
+February,114,Australia,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,9300
+August,204,USA,"Classic Cars","1968 Ford Mustang",1,9242
+May,141,Spain,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,9110
+May,141,Spain,"Trucks and Buses","1964 Mercedes Tour Bus",2,8950
+June,151,USA,"Classic Cars","2001 Ferrari Enzo",1,8890
+November,382,Austria,"Classic Cars","1968 Ford Mustang",1,8668
+April,450,USA,"Classic Cars","1972 Alfa Romeo GTA",1,8617
+September,249,Italy,"Classic Cars","2001 Ferrari Enzo",1,8603
+May,334,Finland,"Classic Cars","2001 Ferrari Enzo",1,8595
+November,146,France,"Classic Cars","1952 Alpine Renault 1300",1,8551
+August,124,USA,"Classic Cars","1969 Corvair Monza",2,8471
+February,145,Denmark,"Classic Cars","2001 Ferrari Enzo",1,8435
+April,328,USA,Planes,"America West Airlines B757-200",1,8391
+January,458,Spain,"Vintage Cars","1928 Mercedes-Benz SSK",1,8353
+February,119,France,"Classic Cars","1968 Ford Mustang",1,8318
+June,357,"New Zealand","Classic Cars","2001 Ferrari Enzo",1,8316
+July,386,Italy,"Classic Cars","1968 Ford Mustang",1,8304
+September,148,Singapore,"Classic Cars","1952 Alpine Renault 1300",1,8197
+November,167,"Norway  ",Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,8192
+April,172,France,"Classic Cars","1992 Ferrari 360 Spider red",1,8128
+April,357,"New Zealand","Vintage Cars","1928 Mercedes-Benz SSK",1,8127
+January,146,France,"Classic Cars","2001 Ferrari Enzo",1,8125
+March,344,Spain,"Classic Cars","2001 Ferrari Enzo",1,8116
+November,121,Norway,"Classic Cars","2001 Ferrari Enzo",1,8116
+April,209,France,"Classic Cars","1992 Ferrari 360 Spider red",1,8103
+April,201,UK,Motorcycles,"2002 Suzuki XREO",1,8052
+November,386,Italy,"Classic Cars","1969 Ford Falcon",1,8046
+May,141,Spain,"Classic Cars","1992 Porsche Cayenne Turbo Silver",2,7998
+January,379,USA,"Classic Cars","1952 Alpine Renault 1300",1,7995
+December,353,France,"Classic Cars","1969 Ford Falcon",1,7969
+June,175,USA,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,7940
+December,151,USA,"Classic Cars","1992 Ferrari 360 Spider red",1,7884
+May,382,Austria,"Classic Cars","1956 Porsche 356A Coupe",1,7864
+June,141,Spain,Planes,"1928 British Royal Navy Airplane",2,7835
+May,458,Spain,"Classic Cars","1952 Alpine Renault 1300",1,7818
+September,448,Sweden,"Classic Cars","1952 Alpine Renault 1300",1,7770
+September,379,USA,"Classic Cars","1968 Ford Mustang",1,7752
+October,321,USA,"Classic Cars","1968 Ford Mustang",1,7738
+June,141,Spain,Planes,"1980s Black Hawk Helicopter",1,7727
+September,249,Italy,"Classic Cars","1969 Ford Falcon",1,7708
+October,259,Germany,"Classic Cars","1992 Ferrari 360 Spider red",1,7641
+September,141,Spain,"Classic Cars","1969 Ford Falcon",1,7630
+April,145,Denmark,"Classic Cars","1948 Porsche Type 356 Roadster",1,7622
+April,145,Denmark,"Classic Cars","1993 Mazda RX-7",1,7598
+December,353,France,"Classic Cars","2001 Ferrari Enzo",1,7593
+November,350,France,"Vintage Cars","1917 Grand Touring Sedan",1,7574
+March,128,Germany,"Classic Cars","1998 Chrysler Plymouth Prowler",1,7542
+November,172,France,"Classic Cars","1998 Chrysler Plymouth Prowler",1,7542
+November,319,USA,"Classic Cars","1992 Ferrari 360 Spider red",1,7536
+October,321,USA,"Vintage Cars","1928 Mercedes-Benz SSK",1,7533
+November,114,Australia,"Classic Cars","1976 Ford Gran Torino",1,7518
+November,131,USA,"Classic Cars","1968 Ford Mustang",1,7499
+December,323,"New Zealand",Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,7483
+June,357,"New Zealand","Classic Cars","1969 Ford Falcon",1,7461
+May,328,USA,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,7411
+October,148,Singapore,"Classic Cars","2001 Ferrari Enzo",1,7406
+March,486,USA,"Classic Cars","1992 Ferrari 360 Spider red",1,7400
+February,119,France,Motorcycles,"2002 Suzuki XREO",1,7380
+July,124,USA,"Classic Cars","1998 Chrysler Plymouth Prowler",1,7368
+March,412,"New Zealand",Planes,"1980s Black Hawk Helicopter",1,7332
+February,141,Spain,"Classic Cars","1992 Ferrari 360 Spider red",1,7322
+April,114,Australia,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,7305
+July,124,USA,"Classic Cars","1968 Ford Mustang",1,7273
+May,175,USA,"Classic Cars","2001 Ferrari Enzo",1,7257
+October,148,Singapore,"Classic Cars","1992 Ferrari 360 Spider red",1,7243
+March,344,Spain,"Classic Cars","1969 Ford Falcon",1,7206
+January,475,USA,"Classic Cars","1952 Alpine Renault 1300",1,7201
+November,363,USA,"Classic Cars","1952 Alpine Renault 1300",1,7200
+October,201,UK,"Vintage Cars","1917 Grand Touring Sedan",1,7164
+August,205,USA,Motorcycles,"2002 Suzuki XREO",1,7159
+June,151,USA,"Classic Cars","1969 Ford Falcon",1,7122
+November,333,Australia,"Classic Cars","1952 Alpine Renault 1300",1,7068
+April,145,Denmark,"Classic Cars","1976 Ford Gran Torino",1,7058
+August,112,USA,"Classic Cars","1992 Ferrari 360 Spider red",1,7041
+November,124,USA,"Vintage Cars","1917 Grand Touring Sedan",1,7031
+August,124,USA,"Classic Cars","1970 Triumph Spitfire",2,7026
+November,157,USA,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,7022
+January,406,France,"Classic Cars","1968 Ford Mustang",1,7020
+October,124,USA,"Vintage Cars","1917 Grand Touring Sedan",1,7018
+August,249,Italy,"Classic Cars","1952 Alpine Renault 1300",1,6995
+February,298,Switzerland,"Classic Cars","1992 Ferrari 360 Spider red",1,6991
+November,172,France,"Classic Cars","1969 Ford Falcon",1,6952
+November,398,Japan,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,6949
+March,124,USA,"Classic Cars","1962 LanciaA Delta 16V",1,6944
+July,242,France,"Classic Cars","1992 Ferrari 360 Spider red",1,6943
+July,161,USA,"Classic Cars","1952 Alpine Renault 1300",1,6898
+May,334,Finland,"Classic Cars","1970 Triumph Spitfire",1,6894
+July,386,Italy,"Classic Cars","1995 Honda Civic",1,6831
+May,175,USA,"Classic Cars","1969 Corvair Monza",1,6817
+November,386,Italy,"Classic Cars","1969 Corvair Monza",1,6817
+November,486,USA,"Vintage Cars","1917 Grand Touring Sedan",1,6807
+December,141,Spain,"Classic Cars","1976 Ford Gran Torino",2,6797
+March,250,France,"Classic Cars","2001 Ferrari Enzo",1,6789
+March,124,USA,"Classic Cars","1976 Ford Gran Torino",1,6761
+April,450,USA,"Classic Cars","1965 Aston Martin DB5",1,6754
+November,171,France,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,6749
+April,148,Singapore,"Classic Cars","1969 Ford Falcon",1,6748
+June,323,"New Zealand","Vintage Cars","1917 Grand Touring Sedan",1,6747
+February,239,USA,Planes,"1980s Black Hawk Helicopter",1,6722
+November,175,USA,"Classic Cars","1948 Porsche Type 356 Roadster",1,6714
+October,227,Denmark,"Classic Cars","2001 Ferrari Enzo",1,6712
+July,282,Australia,"Vintage Cars","1913 Ford Model T Speedster",2,6707
+November,484,Spain,"Classic Cars","1998 Chrysler Plymouth Prowler",1,6703
+November,385,Philippines,"Classic Cars","1957 Corvette Convertible",1,6696
+November,181,USA,"Classic Cars","1998 Chrysler Plymouth Prowler",1,6695
+October,227,Denmark,"Classic Cars","1995 Honda Civic",1,6692
+May,450,USA,Planes,"1980s Black Hawk Helicopter",1,6670
+August,124,USA,Ships,"The Mayflower",2,6666
+November,167,"Norway  ","Classic Cars","1992 Ferrari 360 Spider red",1,6630
+May,455,USA,"Classic Cars","1952 Alpine Renault 1300",1,6630
+November,382,Austria,Motorcycles,"2002 Suzuki XREO",1,6628
+February,321,USA,"Classic Cars","1952 Alpine Renault 1300",1,6558
+September,311,Finland,"Classic Cars","1998 Chrysler Plymouth Prowler",1,6548
+July,157,USA,"Classic Cars","2001 Ferrari Enzo",1,6546
+May,175,USA,"Classic Cars","1970 Triumph Spitfire",1,6545
+May,350,France,"Classic Cars","1968 Ford Mustang",1,6538
+July,124,USA,"Classic Cars","1956 Porsche 356A Coupe",1,6534
+February,239,USA,"Classic Cars","1972 Alfa Romeo GTA",1,6531
+August,320,USA,"Classic Cars","1972 Alfa Romeo GTA",1,6531
+November,363,USA,"Classic Cars","1962 LanciaA Delta 16V",1,6524
+April,382,Austria,Planes,"1980s Black Hawk Helicopter",1,6509
+November,172,France,"Vintage Cars","1903 Ford Model A",1,6491
+November,171,France,"Classic Cars","1957 Corvette Convertible",1,6482
+April,357,"New Zealand","Vintage Cars","1937 Lincoln Berline",1,6478
+August,204,USA,Motorcycles,"2002 Suzuki XREO",1,6477
+April,424,USA,"Classic Cars","1998 Chrysler Plymouth Prowler",1,6477
+November,233,Canada,"Classic Cars","1992 Ferrari 360 Spider red",1,6472
+June,151,USA,"Classic Cars","1969 Corvair Monza",1,6463
+January,177,Japan,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,6453
+April,148,Singapore,"Classic Cars","2001 Ferrari Enzo",1,6446
+March,187,UK,"Vintage Cars","1917 Grand Touring Sedan",1,6426
+August,286,USA,Motorcycles,"2002 Suzuki XREO",1,6421
+April,145,Denmark,"Classic Cars","1995 Honda Civic",1,6419
+February,145,Denmark,"Classic Cars","1972 Alfa Romeo GTA",1,6392
+May,382,Austria,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,6389
+February,166,Singapore,"Classic Cars","1962 LanciaA Delta 16V",1,6383
+December,124,USA,"Classic Cars","1952 Alpine Renault 1300",1,6378
+April,148,Singapore,"Classic Cars","1969 Corvair Monza",1,6367
+April,311,Finland,"Classic Cars","1992 Ferrari 360 Spider red",1,6367
+December,141,Spain,"Classic Cars","1969 Corvair Monza",1,6367
+June,151,USA,"Classic Cars","1998 Chrysler Plymouth Prowler",1,6336
+May,282,Australia,"Classic Cars","1952 Citroen-15CV",1,6330
+May,353,France,Motorcycles,"2002 Suzuki XREO",1,6326
+November,320,USA,"Classic Cars","1969 Ford Falcon",1,6324
+February,141,Spain,"Classic Cars","1976 Ford Gran Torino",1,6321
+February,189,Ireland,"Classic Cars","1970 Triumph Spitfire",1,6320
+December,496,"New Zealand",Planes,"1980s Black Hawk Helicopter",1,6308
+January,276,Australia,"Trucks and Buses","1958 Setra Bus",1,6295
+November,385,Philippines,Planes,"1980s Black Hawk Helicopter",1,6292
+April,209,France,"Vintage Cars","1917 Grand Touring Sedan",1,6273
+May,119,France,"Trucks and Buses","1962 Volkswagen Microbus",1,6262
+August,334,Finland,"Classic Cars","1998 Chrysler Plymouth Prowler",1,6258
+October,259,Germany,"Classic Cars","1956 Porsche 356A Coupe",1,6256
+July,412,"New Zealand","Vintage Cars","1932 Model A Ford J-Coupe",1,6230
+July,282,Australia,"Vintage Cars","1928 Mercedes-Benz SSK",1,6227
+November,455,USA,"Vintage Cars","1903 Ford Model A",1,6224
+March,173,USA,"Classic Cars","1952 Alpine Renault 1300",1,6215
+April,450,USA,"Classic Cars","1949 Jaguar XK 120",1,6215
+December,495,USA,"Classic Cars","1998 Chrysler Plymouth Prowler",1,6196
+April,181,USA,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,6193
+August,299,"Norway  ",Planes,"1980s Black Hawk Helicopter",1,6174
+March,385,Philippines,"Classic Cars","1957 Corvette Convertible",1,6154
+October,299,"Norway  ","Classic Cars","1956 Porsche 356A Coupe",1,6108
+October,227,Denmark,"Classic Cars","1969 Ford Falcon",1,6104
+October,448,Sweden,Planes,"1980s Black Hawk Helicopter",1,6103
+January,406,France,"Classic Cars","1957 Corvette Convertible",1,6101
+February,141,Spain,"Vintage Cars","1917 Grand Touring Sedan",1,6100
+October,128,Germany,"Classic Cars","1968 Ford Mustang",1,6100
+April,141,Spain,"Vintage Cars","1928 Mercedes-Benz SSK",1,6095
+September,167,"Norway  ","Vintage Cars","1928 Mercedes-Benz SSK",1,6095
+February,171,France,Motorcycles,"2002 Suzuki XREO",1,6088
+April,323,"New Zealand","Classic Cars","1969 Dodge Super Bee",1,6079
+July,124,USA,"Trucks and Buses","1964 Mercedes Tour Bus",1,6075
+March,124,USA,"Classic Cars","1956 Porsche 356A Coupe",1,6066
+February,189,Ireland,"Classic Cars","2001 Ferrari Enzo",1,6051
+July,471,Australia,"Classic Cars","1976 Ford Gran Torino",1,6050
+January,205,USA,"Classic Cars","1948 Porsche Type 356 Roadster",1,6044
+November,363,USA,"Vintage Cars","1932 Model A Ford J-Coupe",1,6038
+November,382,Austria,"Classic Cars","1969 Dodge Charger",1,6017
+November,363,USA,"Classic Cars","1995 Honda Civic",1,6017
+April,323,"New Zealand","Classic Cars","1957 Corvette Convertible",1,6000
+March,124,USA,"Classic Cars","1957 Corvette Convertible",1,5979
+February,141,Spain,"Classic Cars","1957 Corvette Convertible",1,5979
+October,259,Germany,"Classic Cars","1976 Ford Gran Torino",1,5978
+April,496,"New Zealand",Motorcycles,"1997 BMW R 1100 S",1,5974
+March,128,Germany,"Classic Cars","1970 Triumph Spitfire",1,5972
+January,334,Finland,"Classic Cars","1968 Ford Mustang",1,5971
+May,406,France,"Classic Cars","1976 Ford Gran Torino",1,5966
+May,141,Spain,"Trucks and Buses","1958 Setra Bus",1,5960
+October,452,Austria,"Trucks and Buses","1958 Setra Bus",1,5960
+May,328,USA,Motorcycles,"2002 Suzuki XREO",1,5958
+October,286,USA,"Classic Cars","1992 Ferrari 360 Spider red",1,5952
+December,141,Spain,"Vintage Cars","1903 Ford Model A",1,5950
+March,462,USA,Motorcycles,"1996 Moto Guzzi 1100i",1,5947
+June,175,USA,Motorcycles,"2002 Suzuki XREO",1,5928
+November,181,USA,"Classic Cars","1970 Triumph Spitfire",1,5911
+March,486,USA,"Classic Cars","1948 Porsche Type 356 Roadster",1,5910
+May,131,USA,Ships,"18th century schooner",1,5899
+December,495,USA,"Trucks and Buses","1962 Volkswagen Microbus",1,5878
+December,353,France,"Classic Cars","1972 Alfa Romeo GTA",1,5875
+October,462,USA,"Vintage Cars","1903 Ford Model A",1,5873
+July,124,USA,"Classic Cars","1976 Ford Gran Torino",1,5865
+June,141,Spain,"Vintage Cars","1928 Ford Phaeton Deluxe",2,5862
+January,398,Japan,"Classic Cars","1969 Corvair Monza",1,5862
+May,141,Spain,"Trucks and Buses","1940 Ford Pickup Truck",1,5859
+May,350,France,"Classic Cars","1956 Porsche 356A Coupe",1,5857
+August,157,USA,"Classic Cars","1962 LanciaA Delta 16V",1,5851
+May,124,USA,"Vintage Cars","1928 Mercedes-Benz SSK",1,5847
+December,124,USA,"Classic Cars","1962 LanciaA Delta 16V",1,5845
+September,186,Finland,"Classic Cars","1957 Corvette Convertible",1,5833
+November,172,France,"Classic Cars","2001 Ferrari Enzo",1,5829
+June,201,UK,"Classic Cars","1992 Ferrari 360 Spider red",1,5825
+July,250,France,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,5823
+April,450,USA,"Classic Cars","1952 Citroen-15CV",1,5820
+May,382,Austria,"Classic Cars","1992 Ferrari 360 Spider red",1,5808
+November,319,USA,"Trucks and Buses","1957 Chevy Pickup",1,5806
+July,157,USA,"Classic Cars","1969 Ford Falcon",1,5803
+August,204,USA,"Classic Cars","1957 Corvette Convertible",1,5785
+January,141,Spain,"Classic Cars","1956 Porsche 356A Coupe",1,5780
+November,344,Spain,Ships,"18th century schooner",1,5776
+October,227,Denmark,"Classic Cars","1969 Corvair Monza",1,5768
+February,256,France,"Trucks and Buses","1958 Setra Bus",1,5759
+November,458,Spain,"Classic Cars","1969 Corvair Monza",1,5751
+December,495,USA,"Classic Cars","1970 Triumph Spitfire",1,5745
+November,144,Sweden,"Classic Cars","1968 Ford Mustang",1,5730
+January,398,Japan,"Classic Cars","1970 Triumph Spitfire",1,5722
+January,124,USA,"Classic Cars","2001 Ferrari Enzo",1,5719
+March,144,Sweden,"Classic Cars","1952 Alpine Renault 1300",1,5718
+November,363,USA,"Vintage Cars","1928 Mercedes-Benz SSK",1,5711
+October,227,Denmark,"Classic Cars","1998 Chrysler Plymouth Prowler",1,5708
+June,166,Singapore,"Trucks and Buses","1962 Volkswagen Microbus",1,5706
+February,487,USA,"Classic Cars","1998 Chrysler Plymouth Prowler",1,5703
+June,398,Japan,"Classic Cars","1952 Alpine Renault 1300",1,5692
+March,412,"New Zealand","Classic Cars","1972 Alfa Romeo GTA",1,5679
+October,202,Canada,"Classic Cars","1962 LanciaA Delta 16V",1,5673
+October,187,UK,"Classic Cars","2001 Ferrari Enzo",1,5669
+April,328,USA,Planes,"F/A 18 Hornet 1/72",1,5667
+May,282,Australia,"Vintage Cars","1917 Grand Touring Sedan",1,5661
+November,363,USA,"Classic Cars","1948 Porsche Type 356 Roadster",1,5658
+November,114,Australia,"Classic Cars","1952 Alpine Renault 1300",1,5657
+February,239,USA,"Classic Cars","1948 Porsche Type 356 Roadster",1,5654
+February,124,USA,"Classic Cars","2001 Ferrari Enzo",1,5652
+February,186,Finland,"Classic Cars","1969 Dodge Charger",1,5643
+December,495,USA,"Trucks and Buses","1940s Ford truck",1,5634
+November,381,Belgium,Planes,"1980s Black Hawk Helicopter",1,5625
+November,484,Spain,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,5622
+October,299,"Norway  ","Classic Cars","1995 Honda Civic",1,5616
+February,186,Finland,"Classic Cars","1992 Ferrari 360 Spider red",1,5614
+July,412,"New Zealand","Vintage Cars","1917 Grand Touring Sedan",1,5607
+May,362,USA,"Classic Cars","1972 Alfa Romeo GTA",1,5598
+December,324,UK,Planes,"1980s Black Hawk Helicopter",1,5596
+November,353,France,"Classic Cars","1948 Porsche Type 356 Roadster",1,5595
+November,455,USA,"Classic Cars","1969 Ford Falcon",1,5589
+July,161,USA,"Trucks and Buses","1962 Volkswagen Microbus",1,5585
+July,119,France,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,5577
+April,209,France,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,5576
+March,462,USA,Planes,"ATA: B757-300",1,5576
+January,121,Norway,"Classic Cars","1952 Alpine Renault 1300",1,5572
+February,314,Belgium,Ships,"18th century schooner",1,5540
+December,141,Spain,"Vintage Cars","1928 Mercedes-Benz SSK",1,5535
+May,328,USA,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,5534
+November,486,USA,"Classic Cars","1993 Mazda RX-7",1,5534
+October,148,Singapore,"Trucks and Buses","1964 Mercedes Tour Bus",1,5533
+March,128,Germany,"Classic Cars","1969 Corvair Monza",1,5522
+June,175,USA,Planes,"ATA: B757-300",1,5521
+March,124,USA,"Trucks and Buses","1962 Volkswagen Microbus",1,5520
+December,151,USA,"Trucks and Buses","1957 Chevy Pickup",1,5518
+November,146,France,"Trucks and Buses","1962 Volkswagen Microbus",1,5511
+March,462,USA,Motorcycles,"2002 Suzuki XREO",1,5500
+June,398,Japan,"Trucks and Buses","1958 Setra Bus",1,5492
+February,321,USA,"Trucks and Buses","1940 Ford Pickup Truck",1,5488
+November,386,Italy,"Classic Cars","2001 Ferrari Enzo",1,5486
+January,141,Spain,"Classic Cars","1995 Honda Civic",1,5483
+November,167,"Norway  ","Classic Cars","1993 Mazda RX-7",1,5481
+August,157,USA,"Trucks and Buses","1964 Mercedes Tour Bus",1,5479
+November,484,Spain,"Trucks and Buses","1964 Mercedes Tour Bus",1,5476
+November,452,Austria,"Classic Cars","1968 Dodge Charger",1,5465
+March,385,Philippines,"Classic Cars","1968 Ford Mustang",1,5458
+September,148,Singapore,"Trucks and Buses","1940s Ford truck",1,5458
+October,259,Germany,"Classic Cars","1968 Ford Mustang",1,5458
+October,448,Sweden,"Classic Cars","1972 Alfa Romeo GTA",1,5445
+March,146,France,"Vintage Cars","1932 Model A Ford J-Coupe",1,5439
+November,456,USA,"Classic Cars","1957 Corvette Convertible",1,5424
+November,462,USA,"Classic Cars","1992 Ferrari 360 Spider red",1,5421
+December,151,USA,"Classic Cars","1998 Chrysler Plymouth Prowler",1,5413
+December,141,Spain,"Classic Cars","1969 Dodge Charger",1,5413
+April,450,USA,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,5412
+November,131,USA,"Classic Cars","1968 Dodge Charger",1,5402
+June,166,Singapore,"Trucks and Buses","1957 Chevy Pickup",1,5397
+September,141,Spain,"Classic Cars","1969 Corvair Monza",1,5394
+September,166,Singapore,"Vintage Cars","1917 Grand Touring Sedan",1,5386
+December,357,"New Zealand","Classic Cars","1957 Corvette Convertible",1,5375
+February,124,USA,"Classic Cars","1969 Corvair Monza",1,5366
+November,242,France,Planes,"1980s Black Hawk Helicopter",1,5365
+December,124,USA,"Trucks and Buses","1958 Setra Bus",1,5358
+October,259,Germany,"Classic Cars","1957 Corvette Convertible",1,5357
+April,406,France,Motorcycles,"1996 Moto Guzzi 1100i",1,5352
+June,141,Spain,Planes,"American Airlines: B767-300",2,5349
+January,205,USA,"Vintage Cars","1917 Grand Touring Sedan",1,5346
+November,167,"Norway  ","Classic Cars","1948 Porsche Type 356 Roadster",1,5345
+October,299,"Norway  ","Classic Cars","1948 Porsche Type 356 Roadster",1,5345
+November,216,Spain,"Classic Cars","1972 Alfa Romeo GTA",1,5324
+March,124,USA,"Trucks and Buses","1958 Setra Bus",2,5322
+September,487,USA,"Vintage Cars","1917 Grand Touring Sedan",1,5318
+November,462,USA,"Classic Cars","1965 Aston Martin DB5",1,5311
+April,145,Denmark,"Classic Cars","1957 Corvette Convertible",1,5303
+August,124,USA,Trains,"Collectable Wooden Train",2,5302
+July,379,USA,Planes,"1980s Black Hawk Helicopter",1,5302
+July,124,USA,"Classic Cars","1968 Dodge Charger",1,5299
+July,282,Australia,"Vintage Cars","18th Century Vintage Horse Carriage",2,5295
+July,314,Belgium,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,5294
+October,339,USA,Planes,"1980s Black Hawk Helicopter",1,5289
+August,298,Switzerland,"Classic Cars","1968 Dodge Charger",1,5285
+May,103,France,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,5283
+March,385,Philippines,"Classic Cars","1956 Porsche 356A Coupe",1,5280
+September,415,Germany,Planes,"1980s Black Hawk Helicopter",1,5279
+July,124,USA,"Trucks and Buses","1962 Volkswagen Microbus",1,5275
+September,448,Sweden,"Trucks and Buses","1962 Volkswagen Microbus",1,5275
+November,216,Spain,Motorcycles,"1997 BMW F650 ST",1,5274
+October,186,Finland,Planes,"1980s Black Hawk Helicopter",1,5273
+May,362,USA,"Vintage Cars","1903 Ford Model A",1,5264
+May,282,Australia,"Vintage Cars","1932 Model A Ford J-Coupe",1,5263
+April,495,USA,"Vintage Cars","1932 Model A Ford J-Coupe",1,5258
+May,141,Spain,Motorcycles,"1996 Moto Guzzi 1100i",1,5245
+September,166,Singapore,"Classic Cars","1952 Citroen-15CV",1,5243
+March,486,USA,"Classic Cars","1995 Honda Civic",1,5243
+November,171,France,Motorcycles,"2002 Suzuki XREO",1,5242
+May,141,Spain,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,5242
+November,121,Norway,"Classic Cars","1972 Alfa Romeo GTA",1,5241
+October,473,Italy,Planes,"ATA: B757-300",1,5240
+December,141,Spain,"Trucks and Buses","1962 Volkswagen Microbus",1,5239
+January,381,Belgium,"Classic Cars","1992 Ferrari 360 Spider red",1,5239
+February,141,Spain,"Classic Cars","1970 Triumph Spitfire",1,5239
+May,141,Spain,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",2,5234
+October,148,Singapore,"Trucks and Buses","1957 Chevy Pickup",1,5233
+September,311,Finland,"Trucks and Buses","1964 Mercedes Tour Bus",1,5232
+November,167,"Norway  ","Classic Cars","1965 Aston Martin DB5",1,5226
+February,298,Switzerland,"Classic Cars","1956 Porsche 356A Coupe",1,5224
+January,141,Spain,"Classic Cars","1948 Porsche Type 356 Roadster",1,5213
+November,333,Australia,"Trucks and Buses","1940 Ford Pickup Truck",1,5208
+March,240,UK,Ships,"18th century schooner",1,5201
+August,286,USA,Motorcycles,"1996 Moto Guzzi 1100i",1,5199
+February,114,Australia,Motorcycles,"1996 Moto Guzzi 1100i",1,5199
+July,412,"New Zealand","Vintage Cars","1928 Mercedes-Benz SSK",1,5198
+April,382,Austria,"Classic Cars","1972 Alfa Romeo GTA",1,5192
+March,187,UK,"Classic Cars","1952 Citroen-15CV",1,5186
+October,161,USA,Motorcycles,"1997 BMW R 1100 S",1,5184
+January,205,USA,"Classic Cars","1965 Aston Martin DB5",1,5183
+February,473,Italy,"Classic Cars","1992 Ferrari 360 Spider red",1,5182
+November,114,Australia,"Trucks and Buses","1940s Ford truck",1,5176
+January,381,Belgium,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,5174
+December,250,France,"Classic Cars","1993 Mazda RX-7",1,5173
+April,177,Japan,"Classic Cars","1993 Mazda RX-7",1,5165
+April,323,"New Zealand","Classic Cars","1970 Plymouth Hemi Cuda",1,5161
+April,450,USA,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,5158
+May,458,Spain,"Trucks and Buses","1940s Ford truck",1,5146
+March,124,USA,"Classic Cars","1969 Ford Falcon",1,5139
+February,321,USA,"Classic Cars","1962 LanciaA Delta 16V",1,5139
+June,151,USA,"Trucks and Buses","1964 Mercedes Tour Bus",1,5136
+August,141,Spain,"Classic Cars","1952 Citroen-15CV",1,5130
+April,424,USA,"Trucks and Buses","1957 Chevy Pickup",1,5124
+August,298,Switzerland,"Classic Cars","1976 Ford Gran Torino",1,5115
+August,205,USA,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,5113
+June,151,USA,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,5112
+October,148,Singapore,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,5112
+January,124,USA,"Trucks and Buses","1957 Chevy Pickup",1,5110
+November,157,USA,Planes,"ATA: B757-300",1,5102
+April,496,"New Zealand",Motorcycles,"1996 Moto Guzzi 1100i",1,5095
+July,353,France,"Classic Cars","1965 Aston Martin DB5",1,5092
+November,471,Australia,"Vintage Cars","1932 Model A Ford J-Coupe",1,5090
+September,276,Australia,"Classic Cars","1965 Aston Martin DB5",1,5088
+June,324,UK,Ships,"18th century schooner",1,5088
+December,151,USA,"Classic Cars","1995 Honda Civic",1,5081
+May,328,USA,Motorcycles,"1996 Moto Guzzi 1100i",1,5076
+March,323,"New Zealand","Classic Cars","1969 Corvair Monza",1,5076
+March,187,UK,"Vintage Cars","1928 Mercedes-Benz SSK",1,5074
+February,145,Denmark,Ships,"18th century schooner",1,5073
+March,448,Sweden,Motorcycles,"1997 BMW R 1100 S",1,5072
+November,386,Italy,"Classic Cars","1970 Triumph Spitfire",1,5067
+November,424,USA,"Classic Cars","1970 Triumph Spitfire",1,5067
+November,385,Philippines,"Classic Cars","1976 Ford Gran Torino",1,5058
+September,131,USA,"Classic Cars","1970 Triumph Spitfire",1,5056
+November,363,USA,"Classic Cars","1956 Porsche 356A Coupe",1,5055
+April,177,Japan,"Classic Cars","1995 Honda Civic",1,5053
+August,298,Switzerland,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,5053
+November,462,USA,"Classic Cars","1993 Mazda RX-7",1,5049
+December,151,USA,"Vintage Cars","1917 Grand Touring Sedan",1,5049
+November,121,Norway,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,5048
+September,448,Sweden,"Trucks and Buses","1958 Setra Bus",1,5043
+January,347,USA,"Classic Cars","1972 Alfa Romeo GTA",1,5039
+December,151,USA,"Classic Cars","2002 Chevy Corvette",1,5037
+September,186,Finland,Motorcycles,"1997 BMW R 1100 S",1,5032
+November,242,France,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,5031
+November,114,Australia,"Classic Cars","1992 Ferrari 360 Spider red",1,5030
+April,201,UK,Motorcycles,"1997 BMW R 1100 S",1,5029
+January,121,Norway,"Classic Cars","1962 LanciaA Delta 16V",1,5026
+May,412,"New Zealand",Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,5000
+October,141,Spain,"Classic Cars","1952 Citroen-15CV",1,5000
+January,458,Spain,"Vintage Cars","1917 Grand Touring Sedan",1,4998
+May,119,France,"Classic Cars","1962 LanciaA Delta 16V",1,4997
+November,320,USA,"Classic Cars","1970 Triumph Spitfire",1,4985
+June,323,"New Zealand","Classic Cars","2002 Chevy Corvette",1,4985
+November,144,Sweden,"Trucks and Buses","1940s Ford truck",1,4984
+October,321,USA,Motorcycles,"2002 Suzuki XREO",1,4980
+January,311,Finland,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,4976
+March,124,USA,"Trucks and Buses","1940 Ford Pickup Truck",1,4974
+November,144,Sweden,"Trucks and Buses","1964 Mercedes Tour Bus",1,4968
+April,177,Japan,"Classic Cars","1948 Porsche Type 356 Roadster",1,4966
+December,323,"New Zealand",Motorcycles,"2002 Suzuki XREO",1,4955
+August,298,Switzerland,"Classic Cars","1956 Porsche 356A Coupe",1,4954
+October,286,USA,"Classic Cars","1962 LanciaA Delta 16V",1,4940
+November,144,Sweden,"Trucks and Buses","1962 Volkswagen Microbus",1,4938
+November,144,Sweden,Ships,"18th century schooner",1,4938
+August,298,Switzerland,"Classic Cars","1992 Ferrari 360 Spider red",1,4938
+October,141,Spain,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,4938
+March,124,USA,Ships,"18th century schooner",1,4938
+November,496,"New Zealand",Planes,"1928 British Royal Navy Airplane",1,4937
+July,496,"New Zealand","Vintage Cars","1917 Grand Touring Sedan",1,4937
+February,333,Australia,Planes,"1928 British Royal Navy Airplane",1,4933
+October,187,UK,"Classic Cars","1969 Corvair Monza",1,4931
+June,141,Spain,"Vintage Cars","1903 Ford Model A",1,4928
+May,382,Austria,"Classic Cars","1948 Porsche Type 356 Roadster",1,4921
+November,276,Australia,"Classic Cars","1976 Ford Gran Torino",1,4921
+March,124,USA,"Trucks and Buses","1940s Ford truck",1,4915
+August,204,USA,"Classic Cars","1968 Dodge Charger",1,4912
+February,141,Spain,"Classic Cars","1952 Citroen-15CV",1,4909
+November,382,Austria,"Classic Cars","1968 Dodge Charger",1,4909
+November,129,USA,"Classic Cars","1952 Alpine Renault 1300",1,4903
+November,276,Australia,"Classic Cars","1968 Ford Mustang",1,4903
+May,233,Canada,"Trucks and Buses","1940s Ford truck",1,4901
+July,119,France,Planes,"ATA: B757-300",1,4898
+August,334,Finland,"Classic Cars","1992 Ferrari 360 Spider red",1,4894
+November,324,UK,"Trucks and Buses","1964 Mercedes Tour Bus",1,4890
+April,148,Singapore,Ships,"18th century schooner",1,4887
+December,323,"New Zealand","Classic Cars","1968 Ford Mustang",1,4886
+October,256,France,"Trucks and Buses","1940 Ford Pickup Truck",1,4884
+February,124,USA,"Classic Cars","1969 Ford Falcon",1,4883
+November,333,Australia,"Trucks and Buses","1958 Setra Bus",1,4878
+May,282,Australia,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,4859
+October,452,Austria,"Trucks and Buses","1940s Ford truck",1,4849
+August,334,Finland,"Trucks and Buses","1964 Mercedes Tour Bus",1,4845
+November,324,UK,"Trucks and Buses","1940s Ford truck",1,4837
+November,320,USA,"Classic Cars","1969 Corvair Monza",1,4836
+February,278,Italy,Planes,"1980s Black Hawk Helicopter",1,4825
+March,448,Sweden,"Classic Cars","1969 Dodge Charger",1,4817
+December,151,USA,"Classic Cars","1993 Mazda RX-7",1,4815
+September,379,USA,"Classic Cars","1976 Ford Gran Torino",1,4786
+December,151,USA,"Classic Cars","1970 Triumph Spitfire",1,4786
+October,227,Denmark,"Classic Cars","1948 Porsche Type 356 Roadster",1,4781
+November,398,Japan,Ships,"HMS Bounty",1,4780
+February,141,Spain,"Vintage Cars","1932 Model A Ford J-Coupe",1,4780
+September,186,Finland,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,4774
+April,357,"New Zealand","Vintage Cars","1936 Chrysler Airflow",1,4772
+January,334,Finland,"Classic Cars","1969 Dodge Charger",1,4767
+January,475,USA,"Vintage Cars","1913 Ford Model T Speedster",1,4766
+October,259,Germany,"Classic Cars","1993 Mazda RX-7",1,4766
+January,398,Japan,"Classic Cars","1969 Ford Falcon",1,4765
+November,319,USA,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,4764
+December,250,France,"Vintage Cars","1928 Mercedes-Benz SSK",1,4759
+November,114,Australia,"Classic Cars","1993 Mazda RX-7",1,4756
+March,448,Sweden,"Classic Cars","1968 Ford Mustang",1,4755
+November,187,UK,"Classic Cars","1952 Citroen-15CV",1,4754
+November,114,Australia,"Trucks and Buses","1940 Ford Pickup Truck",1,4753
+December,282,Australia,Planes,"ATA: B757-300",1,4751
+November,114,Australia,"Classic Cars","1957 Corvette Convertible",1,4750
+February,298,Switzerland,"Classic Cars","1957 Corvette Convertible",1,4739
+December,151,USA,"Classic Cars","1952 Citroen-15CV",1,4735
+May,233,Canada,"Classic Cars","1952 Alpine Renault 1300",1,4732
+December,447,USA,Planes,"ATA: B757-300",1,4727
+November,146,France,"Trucks and Buses","1958 Setra Bus",1,4726
+November,114,Australia,"Classic Cars","1956 Porsche 356A Coupe",1,4718
+November,398,Japan,Motorcycles,"1996 Moto Guzzi 1100i",1,4710
+November,339,USA,"Trucks and Buses","1958 Setra Bus",1,4707
+November,171,France,Motorcycles,"1997 BMW R 1100 S",1,4706
+November,233,Canada,"Classic Cars","1993 Mazda RX-7",1,4706
+May,114,Australia,"Vintage Cars","1928 Mercedes-Benz SSK",1,4705
+October,201,UK,"Classic Cars","1952 Citroen-15CV",1,4703
+May,112,USA,"Vintage Cars","1932 Model A Ford J-Coupe",1,4699
+January,141,Spain,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,4699
+July,314,Belgium,"Vintage Cars","1903 Ford Model A",1,4699
+December,495,USA,"Trucks and Buses","1964 Mercedes Tour Bus",1,4697
+March,240,UK,Trains,"Collectable Wooden Train",1,4695
+October,121,Norway,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,4694
+April,424,USA,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,4684
+March,276,Australia,"Classic Cars","1952 Alpine Renault 1300",1,4680
+November,124,USA,"Classic Cars","2002 Chevy Corvette",1,4670
+May,362,USA,"Vintage Cars","1904 Buick Runabout",1,4669
+January,124,USA,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,4667
+September,448,Sweden,"Vintage Cars","1913 Ford Model T Speedster",1,4666
+October,347,USA,"Classic Cars","1969 Dodge Charger",1,4664
+May,157,USA,"Vintage Cars","1937 Lincoln Berline",1,4663
+February,131,USA,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,4654
+July,282,Australia,"Classic Cars","1982 Camaro Z28",1,4653
+September,131,USA,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,4651
+May,362,USA,Ships,"18th century schooner",1,4650
+September,448,Sweden,"Trucks and Buses","1940s Ford truck",1,4649
+December,151,USA,"Classic Cars","1948 Porsche Type 356 Roadster",1,4648
+January,146,France,Trains,"Collectable Wooden Train",1,4647
+November,484,Spain,"Classic Cars","1992 Ferrari 360 Spider red",1,4647
+November,320,USA,Trains,"Collectable Wooden Train",1,4645
+January,334,Finland,Motorcycles,"1997 BMW F650 ST",1,4645
+August,298,Switzerland,"Classic Cars","1993 Mazda RX-7",1,4642
+June,398,Japan,"Trucks and Buses","1940 Ford Pickup Truck",1,4640
+January,141,Spain,"Classic Cars","2002 Chevy Corvette",1,4630
+August,260,Canada,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,4627
+March,141,Spain,"Classic Cars","1970 Triumph Spitfire",1,4623
+October,286,USA,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,4618
+January,475,USA,"Trucks and Buses","1940 Ford Pickup Truck",1,4616
+September,311,Finland,"Trucks and Buses","1962 Volkswagen Microbus",1,4616
+January,311,Finland,"Classic Cars","1972 Alfa Romeo GTA",1,4614
+November,333,Australia,"Vintage Cars","1913 Ford Model T Speedster",1,4614
+June,450,USA,"Vintage Cars","1913 Ford Model T Speedster",1,4610
+December,124,USA,"Vintage Cars","18th Century Vintage Horse Carriage",1,4608
+September,276,Australia,"Classic Cars","1992 Ferrari 360 Spider red",1,4606
+December,141,Spain,"Classic Cars","1971 Alpine Renault 1600s",2,4603
+November,157,USA,Motorcycles,"1996 Moto Guzzi 1100i",1,4603
+November,187,UK,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,4602
+November,175,USA,"Classic Cars","1965 Aston Martin DB5",1,4599
+November,167,"Norway  ",Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,4594
+August,286,USA,Planes,"ATA: B757-300",1,4592
+June,175,USA,Motorcycles,"1997 BMW R 1100 S",1,4591
+October,256,France,"Trucks and Buses","1958 Setra Bus",1,4584
+November,175,USA,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,4582
+August,112,USA,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,4582
+July,382,Austria,"Vintage Cars","1936 Chrysler Airflow",1,4581
+July,412,"New Zealand","Vintage Cars","1937 Lincoln Berline",1,4581
+December,353,France,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,4579
+February,239,USA,"Classic Cars","2002 Chevy Corvette",1,4574
+August,141,Spain,"Classic Cars","2002 Chevy Corvette",1,4574
+November,486,USA,"Classic Cars","1992 Ferrari 360 Spider red",1,4572
+October,347,USA,"Classic Cars","1956 Porsche 356A Coupe",1,4571
+October,321,USA,"Classic Cars","1957 Corvette Convertible",1,4571
+May,455,USA,"Trucks and Buses","1958 Setra Bus",1,4570
+January,141,Spain,"Trucks and Buses","1957 Chevy Pickup",1,4567
+May,328,USA,Motorcycles,"1997 BMW R 1100 S",1,4564
+January,161,USA,Motorcycles,"1997 BMW R 1100 S",1,4564
+October,161,USA,Planes,"1928 British Royal Navy Airplane",1,4557
+January,406,France,Motorcycles,"2002 Suzuki XREO",1,4555
+November,128,Germany,"Trucks and Buses","1940s Ford truck",1,4552
+March,124,USA,"Classic Cars","1982 Camaro Z28",1,4552
+February,487,USA,"Trucks and Buses","1957 Chevy Pickup",1,4550
+March,124,USA,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,4546
+May,382,Austria,"Classic Cars","1995 Honda Civic",1,4546
+February,189,Ireland,"Classic Cars","1969 Corvair Monza",1,4532
+May,334,Finland,"Classic Cars","1969 Ford Falcon",1,4531
+January,141,Spain,"Classic Cars","1970 Triumph Spitfire",1,4530
+December,151,USA,"Classic Cars","1965 Aston Martin DB5",1,4530
+November,489,UK,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,4529
+January,276,Australia,"Classic Cars","1992 Ferrari 360 Spider red",1,4527
+March,250,France,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,4526
+April,145,Denmark,"Classic Cars","1968 Ford Mustang",1,4522
+October,256,France,"Vintage Cars","1913 Ford Model T Speedster",1,4520
+July,161,USA,"Trucks and Buses","1958 Setra Bus",1,4518
+July,386,Italy,"Classic Cars","1969 Dodge Charger",1,4514
+February,166,Singapore,"Trucks and Buses","1940s Ford truck",1,4509
+February,186,Finland,"Classic Cars","1995 Honda Civic",1,4506
+February,333,Australia,Motorcycles,"1996 Moto Guzzi 1100i",1,4499
+January,276,Australia,"Classic Cars","1962 LanciaA Delta 16V",1,4499
+March,124,USA,"Classic Cars","1995 Honda Civic",1,4498
+November,216,Spain,Planes,"America West Airlines B757-200",1,4497
+August,286,USA,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,4497
+June,201,UK,"Classic Cars","1956 Porsche 356A Coupe",1,4491
+November,157,USA,Motorcycles,"1997 BMW R 1100 S",1,4490
+December,211,"Hong Kong",Planes,"ATA: B757-300",1,4489
+February,124,USA,"Trucks and Buses","1940s Ford truck",1,4486
+February,189,Ireland,"Classic Cars","1969 Ford Falcon",1,4485
+June,201,UK,"Classic Cars","1969 Dodge Charger",1,4485
+November,216,Spain,Ships,"18th century schooner",1,4484
+March,276,Australia,"Classic Cars","1962 LanciaA Delta 16V",1,4483
+January,205,USA,"Vintage Cars","1928 Mercedes-Benz SSK",1,4482
+November,233,Canada,"Classic Cars","1995 Honda Civic",1,4481
+May,119,France,"Trucks and Buses","1964 Mercedes Tour Bus",1,4477
+December,151,USA,"Trucks and Buses","1964 Mercedes Tour Bus",1,4477
+September,141,Spain,Ships,"18th century schooner",1,4473
+March,128,Germany,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,4471
+January,141,Spain,"Classic Cars","1969 Corvair Monza",1,4469
+May,382,Austria,"Classic Cars","1993 Mazda RX-7",1,4464
+August,205,USA,Motorcycles,"1997 BMW R 1100 S",1,4458
+October,424,USA,"Classic Cars","1952 Alpine Renault 1300",1,4455
+August,124,USA,Trains,"1962 City of Detroit Streetcar",2,4443
+November,452,Austria,"Classic Cars","1956 Porsche 356A Coupe",1,4440
+May,458,Spain,"Trucks and Buses","1940 Ford Pickup Truck",1,4433
+October,347,USA,"Classic Cars","1968 Dodge Charger",1,4430
+November,211,"Hong Kong",Planes,"1928 British Royal Navy Airplane",1,4429
+November,276,Australia,Motorcycles,"2002 Suzuki XREO",1,4428
+May,233,Canada,"Trucks and Buses","1958 Setra Bus",1,4428
+May,471,Australia,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,4427
+September,204,USA,Ships,"The Queen Mary",1,4424
+October,339,USA,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,4421
+June,233,Canada,Ships,"The Queen Mary",1,4420
+June,166,Singapore,"Trucks and Buses","1940s Ford truck",1,4418
+October,124,USA,"Vintage Cars","1937 Lincoln Berline",1,4418
+February,314,Belgium,"Vintage Cars","1903 Ford Model A",1,4417
+August,124,USA,Trains,"1950's Chicago Surface Lines Streetcar",2,4415
+April,209,France,"Classic Cars","1948 Porsche 356-A Roadster",1,4415
+October,321,USA,Motorcycles,"1997 BMW R 1100 S",1,4413
+January,177,Japan,Planes,"1980s Black Hawk Helicopter",1,4400
+April,450,USA,Planes,"1980s Black Hawk Helicopter",1,4397
+April,323,"New Zealand","Classic Cars","1968 Dodge Charger",1,4393
+February,321,USA,"Classic Cars","1972 Alfa Romeo GTA",1,4393
+November,489,UK,Planes,"1980s Black Hawk Helicopter",1,4390
+October,227,Denmark,"Classic Cars","1965 Aston Martin DB5",1,4388
+April,357,"New Zealand","Vintage Cars","1913 Ford Model T Speedster",1,4381
+September,148,Singapore,"Vintage Cars","1913 Ford Model T Speedster",1,4381
+November,129,USA,"Vintage Cars","1917 Maxwell Touring Car",1,4381
+November,259,Germany,"Classic Cars","1957 Corvette Convertible",1,4381
+November,486,USA,"Classic Cars","1965 Aston Martin DB5",1,4380
+April,450,USA,"Classic Cars","2002 Chevy Corvette",1,4374
+November,278,Italy,"Vintage Cars","1937 Lincoln Berline",1,4374
+March,187,UK,"Classic Cars","1965 Aston Martin DB5",1,4374
+May,112,USA,"Classic Cars","2002 Chevy Corvette",1,4374
+April,496,"New Zealand",Motorcycles,"1960 BSA Gold Star DBD34",1,4374
+November,324,UK,"Classic Cars","1992 Ferrari 360 Spider red",1,4371
+May,458,Spain,"Classic Cars","1982 Camaro Z28",1,4370
+December,124,USA,"Trucks and Buses","1940 Ford Pickup Truck",1,4368
+August,249,Italy,"Vintage Cars","1937 Lincoln Berline",1,4366
+September,487,USA,"Vintage Cars","1937 Lincoln Berline",1,4366
+January,475,USA,"Vintage Cars","18th Century Vintage Horse Carriage",1,4361
+February,186,Finland,"Classic Cars","1993 Mazda RX-7",1,4360
+September,141,Spain,Ships,"The Titanic",1,4358
+May,362,USA,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,4355
+August,124,USA,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,4354
+July,242,France,"Classic Cars","1995 Honda Civic",1,4353
+July,496,"New Zealand","Vintage Cars","1932 Model A Ford J-Coupe",1,4348
+January,128,Germany,"Vintage Cars","1928 Mercedes-Benz SSK",1,4344
+June,201,UK,"Classic Cars","1948 Porsche Type 356 Roadster",1,4336
+March,385,Philippines,"Classic Cars","1968 Dodge Charger",1,4334
+May,450,USA,Planes,"ATA: B757-300",1,4333
+March,353,France,Planes,"1928 British Royal Navy Airplane",1,4329
+November,172,France,"Classic Cars","1982 Camaro Z28",1,4327
+November,363,USA,"Vintage Cars","18th Century Vintage Horse Carriage",1,4323
+October,227,Denmark,"Trucks and Buses","1957 Chevy Pickup",1,4320
+April,172,France,"Trucks and Buses","1940s Ford truck",1,4319
+June,201,UK,"Classic Cars","1995 Honda Civic",1,4319
+December,151,USA,"Classic Cars","1969 Ford Falcon",1,4319
+March,353,France,Planes,"1980s Black Hawk Helicopter",1,4319
+March,276,Australia,"Trucks and Buses","1958 Setra Bus",1,4317
+August,299,"Norway  ",Planes,"America West Airlines B757-200",1,4308
+January,146,France,Ships,"18th century schooner",1,4301
+October,321,USA,"Vintage Cars","1932 Model A Ford J-Coupe",1,4300
+December,198,USA,Planes,"America West Airlines B757-200",1,4300
+October,141,Spain,"Classic Cars","1948 Porsche Type 356 Roadster",1,4295
+February,141,Spain,"Classic Cars","1948 Porsche Type 356 Roadster",1,4295
+October,202,Canada,"Trucks and Buses","1962 Volkswagen Microbus",1,4294
+April,114,Australia,Planes,"American Airlines: B767-300",1,4293
+June,166,Singapore,"Trucks and Buses","1980â€™s GM Manhattan Express",1,4291
+November,114,Australia,"Vintage Cars","18th Century Vintage Horse Carriage",1,4288
+November,363,USA,"Classic Cars","2002 Chevy Corvette",1,4285
+May,131,USA,"Vintage Cars","1903 Ford Model A",1,4284
+February,333,Australia,Motorcycles,"1997 BMW R 1100 S",1,4283
+March,124,USA,"Vintage Cars","1903 Ford Model A",1,4282
+June,175,USA,Motorcycles,"1996 Moto Guzzi 1100i",1,4282
+November,131,USA,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,4280
+May,386,Italy,Planes,"1928 British Royal Navy Airplane",1,4269
+February,141,Spain,"Classic Cars","1956 Porsche 356A Coupe",1,4264
+October,286,USA,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,4258
+March,146,France,"Vintage Cars","1928 Mercedes-Benz SSK",1,4257
+February,298,Switzerland,"Classic Cars","1968 Ford Mustang",1,4255
+September,448,Sweden,"Classic Cars","1962 LanciaA Delta 16V",1,4255
+June,201,UK,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,4249
+November,167,"Norway  ",Motorcycles,"1996 Moto Guzzi 1100i",1,4248
+November,455,USA,Ships,"The Mayflower",1,4244
+October,286,USA,"Trucks and Buses","1964 Mercedes Tour Bus",1,4242
+October,299,"Norway  ","Classic Cars","1993 Mazda RX-7",1,4242
+October,124,USA,"Vintage Cars","1936 Chrysler Airflow",1,4242
+October,148,Singapore,Trains,"Collectable Wooden Train",1,4236
+July,151,USA,"Classic Cars","2002 Chevy Corvette",1,4236
+April,450,USA,"Classic Cars","1957 Ford Thunderbird",1,4233
+November,240,UK,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,4230
+March,124,USA,"Classic Cars","1993 Mazda RX-7",1,4229
+September,131,USA,"Trucks and Buses","1964 Mercedes Tour Bus",1,4227
+October,227,Denmark,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,4225
+June,323,"New Zealand","Vintage Cars","1932 Model A Ford J-Coupe",1,4222
+February,124,USA,"Vintage Cars","1917 Maxwell Touring Car",1,4216
+May,350,France,"Classic Cars","1968 Dodge Charger",1,4215
+June,357,"New Zealand","Classic Cars","1969 Corvair Monza",1,4215
+November,363,USA,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,4213
+January,379,USA,"Vintage Cars","1913 Ford Model T Speedster",1,4213
+March,124,USA,"Vintage Cars","1928 Mercedes-Benz SSK",1,4212
+November,211,"Hong Kong",Planes,"America West Airlines B757-200",1,4212
+October,148,Singapore,"Classic Cars","1969 Corvair Monza",1,4212
+November,167,"Norway  ","Classic Cars","1968 Ford Mustang",1,4203
+August,249,Italy,"Vintage Cars","1917 Grand Touring Sedan",1,4199
+November,171,France,Motorcycles,"1996 Moto Guzzi 1100i",1,4196
+July,386,Italy,"Classic Cars","1948 Porsche Type 356 Roadster",1,4196
+November,381,Belgium,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,4193
+October,321,USA,"Vintage Cars","1937 Lincoln Berline",1,4192
+August,204,USA,"Classic Cars","1976 Ford Gran Torino",1,4189
+November,172,France,"Classic Cars","1969 Corvair Monza",1,4188
+October,141,Spain,"Classic Cars","2002 Chevy Corvette",1,4187
+April,209,France,"Classic Cars","1949 Jaguar XK 120",1,4185
+August,260,Canada,Ships,"18th century schooner",1,4181
+November,259,Germany,"Classic Cars","1968 Dodge Charger",1,4181
+August,334,Finland,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,4176
+November,240,UK,"Classic Cars","1972 Alfa Romeo GTA",1,4174
+September,166,Singapore,"Classic Cars","2002 Chevy Corvette",1,4171
+November,484,Spain,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,4167
+April,172,France,"Trucks and Buses","1964 Mercedes Tour Bus",1,4164
+August,334,Finland,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,4164
+December,495,USA,"Trucks and Buses","1980â€™s GM Manhattan Express",1,4153
+September,487,USA,"Vintage Cars","1932 Model A Ford J-Coupe",1,4153
+July,124,USA,"Classic Cars","1957 Corvette Convertible",1,4152
+February,141,Spain,"Classic Cars","1965 Aston Martin DB5",1,4146
+March,353,France,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,4145
+April,181,USA,Motorcycles,"2002 Suzuki XREO",1,4145
+November,339,USA,"Classic Cars","1952 Alpine Renault 1300",1,4140
+May,455,USA,"Classic Cars","1962 LanciaA Delta 16V",1,4137
+March,242,France,Ships,"The Titanic",1,4135
+March,240,UK,Ships,"The Titanic",1,4135
+October,186,Finland,"Classic Cars","1972 Alfa Romeo GTA",1,4134
+December,141,Spain,"Trucks and Buses","1957 Chevy Pickup",1,4131
+February,131,USA,Motorcycles,"1996 Moto Guzzi 1100i",1,4129
+September,103,France,Motorcycles,"1996 Moto Guzzi 1100i",1,4129
+May,119,France,"Classic Cars","1998 Chrysler Plymouth Prowler",1,4126
+November,320,USA,"Vintage Cars","1904 Buick Runabout",1,4125
+July,314,Belgium,Trains,"Collectable Wooden Train",1,4123
+September,333,Australia,"Classic Cars","1970 Triumph Spitfire",1,4122
+February,145,Denmark,"Classic Cars","1969 Ford Falcon",1,4115
+June,166,Singapore,"Classic Cars","1992 Ferrari 360 Spider red",1,4115
+February,239,USA,"Classic Cars","1965 Aston Martin DB5",1,4114
+November,278,Italy,Planes,"1928 British Royal Navy Airplane",1,4114
+May,362,USA,Trains,"Collectable Wooden Train",1,4114
+February,321,USA,"Vintage Cars","1913 Ford Model T Speedster",1,4112
+November,187,UK,"Vintage Cars","1937 Lincoln Berline",1,4111
+October,148,Singapore,"Classic Cars","1969 Ford Falcon",1,4111
+December,250,France,"Vintage Cars","1937 Lincoln Berline",1,4110
+July,353,France,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,4103
+November,320,USA,"Classic Cars","2001 Ferrari Enzo",1,4102
+October,286,USA,"Trucks and Buses","1957 Chevy Pickup",1,4098
+July,282,Australia,"Trucks and Buses","1940s Ford truck",1,4095
+May,119,France,"Trucks and Buses","1940s Ford truck",1,4095
+November,187,UK,"Vintage Cars","1932 Model A Ford J-Coupe",1,4094
+October,321,USA,"Vintage Cars","1917 Grand Touring Sedan",1,4092
+May,173,USA,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,4091
+June,166,Singapore,"Trucks and Buses","1964 Mercedes Tour Bus",1,4090
+June,324,UK,"Classic Cars","1972 Alfa Romeo GTA",1,4084
+May,350,France,"Classic Cars","1957 Corvette Convertible",1,4083
+July,314,Belgium,"Classic Cars","1972 Alfa Romeo GTA",1,4080
+January,363,USA,"Vintage Cars","1917 Grand Touring Sedan",1,4080
+May,141,Spain,"Trucks and Buses","1926 Ford Fire Engine",2,4074
+February,171,France,Motorcycles,"2002 Yamaha YZR M1",1,4068
+December,496,"New Zealand","Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,4066
+July,282,Australia,"Trucks and Buses","1940 Ford Pickup Truck",1,4064
+October,424,USA,"Vintage Cars","18th Century Vintage Horse Carriage",1,4063
+September,148,Singapore,"Trucks and Buses","1958 Setra Bus",1,4059
+November,486,USA,"Classic Cars","1995 Honda Civic",1,4054
+March,129,USA,"Vintage Cars","18th Century Vintage Horse Carriage",1,4053
+October,424,USA,"Vintage Cars","1936 Chrysler Airflow",1,4050
+August,298,Switzerland,"Classic Cars","1957 Corvette Convertible",1,4047
+March,412,"New Zealand",Ships,"1999 Yamaha Speed Boat",1,4046
+August,249,Italy,"Vintage Cars","1932 Model A Ford J-Coupe",1,4045
+November,398,Japan,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,4040
+July,151,USA,"Classic Cars","1952 Citroen-15CV",1,4040
+November,278,Italy,"Vintage Cars","1917 Grand Touring Sedan",1,4039
+May,386,Italy,Planes,"ATA: B757-300",1,4038
+August,320,USA,Planes,"1980s Black Hawk Helicopter",1,4037
+November,114,Australia,"Vintage Cars","1913 Ford Model T Speedster",1,4036
+August,157,USA,"Trucks and Buses","1957 Chevy Pickup",1,4033
+September,141,Spain,"Classic Cars","2001 Ferrari Enzo",1,4031
+June,166,Singapore,"Classic Cars","1998 Chrysler Plymouth Prowler",1,4028
+June,141,Spain,"Vintage Cars","1940 Ford Delivery Sedan",1,4027
+July,314,Belgium,"Vintage Cars","1940 Ford Delivery Sedan",1,4025
+May,131,USA,Trains,"Collectable Wooden Train",1,4024
+April,148,Singapore,Ships,"The Queen Mary",1,4022
+November,456,USA,Motorcycles,"2002 Suzuki XREO",1,4022
+November,187,UK,"Vintage Cars","18th Century Vintage Horse Carriage",1,4021
+July,161,USA,"Trucks and Buses","1940s Ford truck",1,4020
+January,141,Spain,"Classic Cars","1965 Aston Martin DB5",1,4019
+January,311,Finland,Planes,"1980s Black Hawk Helicopter",1,4018
+November,129,USA,"Trucks and Buses","1958 Setra Bus",1,4014
+April,328,USA,Motorcycles,"1997 BMW F650 ST",1,4014
+January,124,USA,"Classic Cars","1998 Chrysler Plymouth Prowler",1,4012
+February,124,USA,"Classic Cars","1998 Chrysler Plymouth Prowler",1,4012
+January,161,USA,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,4005
+March,250,France,"Classic Cars","1972 Alfa Romeo GTA",1,4004
+August,298,Switzerland,"Classic Cars","1968 Ford Mustang",1,4004
+February,239,USA,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,4002
+November,181,USA,"Classic Cars","1969 Corvair Monza",1,3998
+December,447,USA,Motorcycles,"1997 BMW F650 ST",1,3997
+November,131,USA,"Classic Cars","1969 Dodge Charger",1,3997
+April,201,UK,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,3995
+May,103,France,"Classic Cars","1948 Porsche Type 356 Roadster",1,3987
+October,321,USA,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,3986
+April,141,Spain,"Vintage Cars","1937 Lincoln Berline",1,3986
+November,121,Norway,"Classic Cars","1969 Ford Falcon",1,3986
+April,172,France,"Classic Cars","1962 LanciaA Delta 16V",1,3984
+November,385,Philippines,Planes,"America West Airlines B757-200",1,3979
+July,386,Italy,"Classic Cars","1992 Ferrari 360 Spider red",1,3978
+November,276,Australia,"Classic Cars","1957 Corvette Convertible",1,3977
+November,363,USA,"Vintage Cars","1937 Lincoln Berline",1,3976
+February,119,France,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,3975
+March,146,France,"Classic Cars","1949 Jaguar XK 120",1,3972
+November,458,Spain,"Trucks and Buses","1962 Volkswagen Microbus",1,3972
+November,363,USA,"Classic Cars","1949 Jaguar XK 120",1,3971
+July,282,Australia,"Classic Cars","1962 LanciaA Delta 16V",1,3971
+January,121,Norway,"Vintage Cars","1917 Maxwell Touring Car",1,3970
+September,448,Sweden,"Trucks and Buses","1940 Ford Pickup Truck",1,3970
+January,381,Belgium,"Classic Cars","1995 Honda Civic",1,3966
+March,323,"New Zealand","Trucks and Buses","1964 Mercedes Tour Bus",1,3964
+May,141,Spain,"Classic Cars","1982 Camaro Z28",1,3955
+November,319,USA,"Trucks and Buses","1964 Mercedes Tour Bus",1,3952
+January,121,Norway,"Classic Cars","1982 Camaro Z28",1,3951
+November,324,UK,"Classic Cars","1962 LanciaA Delta 16V",1,3949
+November,216,Spain,"Vintage Cars","1904 Buick Runabout",1,3949
+November,353,France,"Classic Cars","1965 Aston Martin DB5",1,3942
+November,278,Italy,"Vintage Cars","1932 Model A Ford J-Coupe",1,3941
+May,119,France,"Classic Cars","1992 Ferrari 360 Spider red",1,3935
+June,141,Spain,Planes,"P-51-D Mustang",1,3933
+January,379,USA,"Vintage Cars","1937 Lincoln Berline",1,3933
+December,202,Canada,"Trucks and Buses","1940 Ford Pickup Truck",1,3927
+October,319,USA,Motorcycles,"1996 Moto Guzzi 1100i",1,3923
+June,398,Japan,"Classic Cars","1982 Camaro Z28",1,3915
+October,119,France,Ships,"18th century schooner",1,3914
+September,276,Australia,"Classic Cars","1952 Citroen-15CV",1,3913
+November,496,"New Zealand",Motorcycles,"1997 BMW F650 ST",1,3911
+May,386,Italy,Motorcycles,"1997 BMW F650 ST",1,3911
+November,216,Spain,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,3910
+May,233,Canada,"Classic Cars","1962 LanciaA Delta 16V",1,3909
+January,177,Japan,Motorcycles,"1997 BMW F650 ST",1,3906
+September,189,Ireland,Planes,"ATA: B757-300",1,3904
+November,484,Spain,"Trucks and Buses","1957 Chevy Pickup",1,3902
+December,475,USA,Planes,"American Airlines: B767-300",1,3902
+August,112,USA,"Classic Cars","1993 Mazda RX-7",1,3898
+May,350,France,"Classic Cars","1993 Mazda RX-7",1,3898
+November,484,Spain,"Trucks and Buses","1980â€™s GM Manhattan Express",1,3898
+April,141,Spain,"Vintage Cars","1936 Chrysler Airflow",1,3896
+September,141,Spain,"Vintage Cars","1903 Ford Model A",1,3895
+October,148,Singapore,"Classic Cars","1998 Chrysler Plymouth Prowler",1,3894
+December,495,USA,"Classic Cars","1962 LanciaA Delta 16V",1,3893
+January,141,Spain,"Classic Cars","1968 Dodge Charger",1,3893
+June,357,"New Zealand","Vintage Cars","1903 Ford Model A",1,3890
+December,141,Spain,Trains,"Collectable Wooden Train",1,3886
+October,121,Norway,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,3884
+April,328,USA,"Vintage Cars","1928 Ford Phaeton Deluxe",1,3881
+November,205,USA,Motorcycles,"2002 Suzuki XREO",1,3880
+November,344,Spain,Ships,"The Titanic",1,3879
+February,239,USA,Ships,"1999 Yamaha Speed Boat",1,3878
+November,462,USA,"Classic Cars","1948 Porsche Type 356 Roadster",1,3877
+November,278,Italy,Planes,"ATA: B757-300",1,3876
+November,157,USA,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,3874
+August,205,USA,Motorcycles,"1996 Moto Guzzi 1100i",1,3873
+March,124,USA,"Vintage Cars","1939 Cadillac Limousine",2,3871
+April,311,Finland,"Classic Cars","1956 Porsche 356A Coupe",1,3869
+January,406,France,"Classic Cars","1976 Ford Gran Torino",1,3869
+September,362,USA,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,3868
+April,114,Australia,Motorcycles,"1997 BMW R 1100 S",1,3866
+January,121,Norway,"Trucks and Buses","1962 Volkswagen Microbus",1,3864
+November,145,Denmark,Planes,"1980s Black Hawk Helicopter",1,3864
+February,278,Italy,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,3863
+November,167,"Norway  ","Classic Cars","1969 Dodge Charger",1,3856
+March,385,Philippines,"Classic Cars","1969 Dodge Charger",1,3856
+March,141,Spain,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,3851
+November,157,USA,Motorcycles,"1997 BMW F650 ST",1,3850
+November,339,USA,"Vintage Cars","1936 Chrysler Airflow",1,3845
+November,114,Australia,"Trucks and Buses","1958 Setra Bus",1,3845
+September,487,USA,"Vintage Cars","1928 Mercedes-Benz SSK",1,3842
+November,216,Spain,Ships,"1999 Yamaha Speed Boat",1,3838
+March,385,Philippines,"Classic Cars","1976 Ford Gran Torino",1,3836
+May,141,Spain,Motorcycles,"1997 BMW R 1100 S",1,3826
+November,452,Austria,"Classic Cars","1969 Dodge Charger",1,3824
+January,124,USA,"Classic Cars","1969 Chevrolet Camaro Z28",1,3820
+March,187,UK,"Vintage Cars","1932 Model A Ford J-Coupe",1,3818
+June,324,UK,"Vintage Cars","1940 Ford Delivery Sedan",1,3816
+May,175,USA,"Classic Cars","1969 Ford Falcon",1,3806
+June,233,Canada,Ships,"18th century schooner",1,3805
+November,458,Spain,"Trucks and Buses","1980â€™s GM Manhattan Express",1,3802
+April,328,USA,Planes,"Corsair F4U ( Bird Cage)",1,3800
+September,276,Australia,"Classic Cars","1948 Porsche Type 356 Roadster",1,3798
+September,447,USA,"Classic Cars","1957 Corvette Convertible",1,3797
+October,259,Germany,"Classic Cars","1970 Plymouth Hemi Cuda",1,3793
+April,450,USA,Ships,"HMS Bounty",1,3789
+November,240,UK,Planes,"1980s Black Hawk Helicopter",1,3789
+July,282,Australia,"Trucks and Buses","1958 Setra Bus",1,3788
+June,324,UK,Ships,"The Titanic",1,3786
+October,299,"Norway  ","Classic Cars","1965 Aston Martin DB5",1,3783
+August,124,USA,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,3783
+November,121,Norway,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,3783
+June,201,UK,"Classic Cars","1968 Ford Mustang",1,3782
+January,141,Spain,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,3781
+August,298,Switzerland,"Classic Cars","1948 Porsche Type 356 Roadster",1,3776
+August,249,Italy,"Vintage Cars","1913 Ford Model T Speedster",1,3775
+July,496,"New Zealand","Classic Cars","1969 Chevrolet Camaro Z28",1,3775
+February,145,Denmark,"Vintage Cars","1940 Ford Delivery Sedan",1,3774
+January,398,Japan,Ships,"18th century schooner",1,3774
+October,141,Spain,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,3773
+August,124,USA,Ships,"18th century schooner",1,3772
+November,141,Spain,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,3772
+May,412,"New Zealand","Classic Cars","1976 Ford Gran Torino",1,3770
+September,198,USA,"Vintage Cars","1936 Chrysler Airflow",1,3769
+February,189,Ireland,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,3764
+June,450,USA,"Vintage Cars","1936 Chrysler Airflow",1,3763
+October,148,Singapore,"Trucks and Buses","1962 Volkswagen Microbus",1,3762
+October,121,Norway,Motorcycles,"2002 Suzuki XREO",1,3760
+December,357,"New Zealand","Classic Cars","1961 Chevrolet Impala",1,3759
+November,319,USA,"Classic Cars","1998 Chrysler Plymouth Prowler",1,3758
+October,319,USA,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,3757
+December,141,Spain,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,3756
+October,124,USA,"Vintage Cars","1928 Mercedes-Benz SSK",1,3755
+July,412,"New Zealand","Vintage Cars","1917 Maxwell Touring Car",1,3753
+March,124,USA,"Vintage Cars","1904 Buick Runabout",1,3752
+September,487,USA,"Vintage Cars","1917 Maxwell Touring Car",1,3750
+October,227,Denmark,"Classic Cars","1970 Triumph Spitfire",1,3749
+October,321,USA,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,3749
+October,321,USA,Motorcycles,"1996 Moto Guzzi 1100i",1,3741
+March,141,Spain,Ships,"The Titanic",1,3741
+January,379,USA,"Vintage Cars","1936 Chrysler Airflow",1,3740
+August,141,Spain,"Classic Cars","1949 Jaguar XK 120",1,3740
+December,124,USA,"Vintage Cars","1913 Ford Model T Speedster",1,3738
+October,452,Austria,"Trucks and Buses","1940 Ford Pickup Truck",1,3738
+May,112,USA,"Classic Cars","1969 Chevrolet Camaro Z28",1,3733
+November,398,Japan,Planes,"1900s Vintage Bi-Plane",1,3730
+May,382,Austria,"Classic Cars","1965 Aston Martin DB5",1,3730
+July,250,France,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,3728
+January,406,France,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,3728
+October,141,Spain,Planes,"American Airlines: B767-300",1,3727
+April,260,Canada,Motorcycles,"1997 BMW F650 ST",1,3727
+January,181,USA,"Vintage Cars","1937 Lincoln Berline",1,3726
+November,240,UK,Planes,"F/A 18 Hornet 1/72",1,3725
+November,129,USA,"Vintage Cars","1936 Chrysler Airflow",1,3722
+May,362,USA,"Vintage Cars","1940 Ford Delivery Sedan",1,3721
+July,496,"New Zealand","Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,3720
+December,151,USA,"Classic Cars","1949 Jaguar XK 120",1,3716
+February,298,Switzerland,"Classic Cars","1993 Mazda RX-7",1,3714
+March,323,"New Zealand","Trucks and Buses","1962 Volkswagen Microbus",1,3711
+November,112,USA,"Vintage Cars","1937 Lincoln Berline",1,3711
+November,181,USA,"Classic Cars","1992 Ferrari 360 Spider red",1,3704
+October,201,UK,"Classic Cars","1949 Jaguar XK 120",1,3696
+July,151,USA,"Classic Cars","1969 Chevrolet Camaro Z28",1,3692
+March,353,France,Planes,"American Airlines: B767-300",1,3692
+November,363,USA,"Trucks and Buses","1958 Setra Bus",1,3690
+November,144,Sweden,"Vintage Cars","1904 Buick Runabout",1,3686
+May,131,USA,"Vintage Cars","1904 Buick Runabout",1,3686
+October,259,Germany,"Classic Cars","1961 Chevrolet Impala",1,3684
+January,475,USA,"Vintage Cars","1936 Chrysler Airflow",1,3684
+June,323,"New Zealand","Classic Cars","1952 Citroen-15CV",1,3682
+January,141,Spain,"Classic Cars","1949 Jaguar XK 120",1,3680
+July,353,France,"Classic Cars","1948 Porsche Type 356 Roadster",1,3679
+October,187,UK,"Vintage Cars","1903 Ford Model A",1,3672
+January,398,Japan,"Vintage Cars","1903 Ford Model A",1,3672
+October,186,Finland,Ships,"1999 Yamaha Speed Boat",1,3671
+November,320,USA,Ships,"The Titanic",1,3669
+June,141,Spain,Ships,"HMS Bounty",1,3664
+September,131,USA,"Classic Cars","1998 Chrysler Plymouth Prowler",1,3661
+November,145,Denmark,Ships,"The Titanic",1,3661
+July,119,France,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,3661
+October,448,Sweden,Ships,"18th century schooner",1,3650
+January,141,Spain,"Classic Cars","1969 Dodge Charger",1,3648
+December,129,USA,Motorcycles,"1997 BMW R 1100 S",1,3648
+November,172,France,"Trucks and Buses","1957 Chevy Pickup",1,3648
+July,314,Belgium,Ships,"The Titanic",1,3646
+February,278,Italy,Planes,"ATA: B757-300",1,3645
+August,124,USA,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,3643
+November,146,France,"Trucks and Buses","1940s Ford truck",1,3642
+July,161,USA,"Classic Cars","1982 Camaro Z28",1,3641
+November,131,USA,Motorcycles,"1997 BMW F650 ST",1,3641
+April,406,France,Motorcycles,"1960 BSA Gold Star DBD34",1,3640
+December,202,Canada,"Vintage Cars","1913 Ford Model T Speedster",1,3636
+January,334,Finland,"Classic Cars","1968 Dodge Charger",1,3634
+December,141,Spain,"Vintage Cars","1936 Chrysler Airflow",1,3633
+November,276,Australia,Motorcycles,"2002 Yamaha YZR M1",1,3632
+April,114,Australia,Planes,"1928 British Royal Navy Airplane",1,3627
+November,455,USA,"Classic Cars","1969 Corvair Monza",1,3626
+December,141,Spain,Ships,"1999 Yamaha Speed Boat",1,3625
+October,256,France,"Vintage Cars","1917 Maxwell Touring Car",1,3619
+January,379,USA,"Vintage Cars","1917 Maxwell Touring Car",1,3616
+May,282,Australia,"Classic Cars","1970 Chevy Chevelle SS 454",1,3616
+October,141,Spain,"Classic Cars","1965 Aston Martin DB5",1,3609
+August,204,USA,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,3607
+May,455,USA,"Classic Cars","1982 Camaro Z28",1,3605
+November,167,"Norway  ",Motorcycles,"1997 BMW F650 ST",1,3604
+July,282,Australia,"Classic Cars","1952 Alpine Renault 1300",1,3600
+October,202,Canada,"Classic Cars","1992 Ferrari 360 Spider red",1,3598
+March,276,Australia,"Vintage Cars","1937 Lincoln Berline",1,3596
+February,145,Denmark,Ships,"The Titanic",1,3594
+November,114,Australia,"Classic Cars","1962 LanciaA Delta 16V",1,3590
+October,473,Italy,Planes,"1928 British Royal Navy Airplane",1,3589
+November,456,USA,Motorcycles,"2002 Yamaha YZR M1",1,3588
+February,239,USA,"Vintage Cars","1940 Ford Delivery Sedan",1,3588
+March,141,Spain,Planes,"1900s Vintage Tri-Plane",1,3586
+November,344,Spain,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,3585
+July,386,Italy,"Classic Cars","1965 Aston Martin DB5",1,3584
+April,496,"New Zealand",Motorcycles,"2002 Suzuki XREO",1,3582
+May,458,Spain,"Vintage Cars","1917 Maxwell Touring Car",1,3582
+October,286,USA,"Classic Cars","1998 Chrysler Plymouth Prowler",1,3581
+April,323,"New Zealand","Classic Cars","1976 Ford Gran Torino",1,3581
+April,357,"New Zealand","Vintage Cars","1917 Maxwell Touring Car",1,3579
+November,462,USA,"Classic Cars","1956 Porsche 356A Coupe",1,3578
+November,144,Sweden,"Classic Cars","1968 Dodge Charger",1,3576
+October,201,UK,"Classic Cars","1969 Chevrolet Camaro Z28",1,3575
+September,249,Italy,"Vintage Cars","1904 Buick Runabout",1,3570
+February,298,Switzerland,"Classic Cars","1961 Chevrolet Impala",1,3570
+January,124,USA,"Classic Cars","1952 Citroen-15CV",1,3568
+March,187,UK,"Classic Cars","2002 Chevy Corvette",1,3566
+November,363,USA,"Classic Cars","1992 Ferrari 360 Spider red",1,3566
+December,496,"New Zealand","Vintage Cars","1903 Ford Model A",1,3565
+November,278,Italy,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,3564
+May,458,Spain,"Trucks and Buses","1980â€™s GM Manhattan Express",1,3562
+March,129,USA,"Vintage Cars","1917 Maxwell Touring Car",1,3560
+January,141,Spain,"Trucks and Buses","1964 Mercedes Tour Bus",1,3559
+November,339,USA,"Classic Cars","1962 LanciaA Delta 16V",1,3558
+March,187,UK,"Classic Cars","1949 Jaguar XK 120",1,3556
+November,144,Sweden,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,3556
+November,462,USA,"Classic Cars","1995 Honda Civic",1,3556
+November,456,USA,"Classic Cars","1969 Dodge Super Bee",1,3551
+December,141,Spain,"Vintage Cars","1937 Lincoln Berline",1,3551
+August,112,USA,"Classic Cars","1948 Porsche Type 356 Roadster",1,3548
+November,350,France,"Vintage Cars","1932 Model A Ford J-Coupe",1,3547
+November,278,Italy,Planes,"America West Airlines B757-200",1,3542
+October,124,USA,"Vintage Cars","18th Century Vintage Horse Carriage",1,3542
+December,323,"New Zealand",Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,3537
+March,452,Austria,"Vintage Cars","1917 Maxwell Touring Car",1,3536
+March,146,France,"Vintage Cars","1917 Grand Touring Sedan",1,3536
+October,256,France,"Vintage Cars","1937 Lincoln Berline",1,3535
+June,362,USA,"Classic Cars","1961 Chevrolet Impala",1,3533
+December,250,France,"Classic Cars","1995 Honda Civic",1,3533
+January,121,Norway,"Trucks and Buses","1940s Ford truck",1,3531
+November,167,"Norway  ","Classic Cars","1999 Indy 500 Monte Carlo SS",1,3528
+May,350,France,"Classic Cars","1995 Honda Civic",1,3528
+January,334,Finland,"Classic Cars","1956 Porsche 356A Coupe",1,3526
+April,260,Canada,Planes,"America West Airlines B757-200",1,3524
+September,311,Finland,"Classic Cars","1992 Ferrari 360 Spider red",1,3521
+January,146,France,Ships,"The Titanic",1,3521
+November,172,France,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,3520
+March,148,Singapore,Motorcycles,"1997 BMW F650 ST",1,3516
+December,495,USA,"Classic Cars","1992 Ferrari 360 Spider red",1,3514
+September,167,"Norway  ","Vintage Cars","1937 Lincoln Berline",1,3514
+January,406,France,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,3512
+May,334,Finland,"Classic Cars","1969 Corvair Monza",1,3512
+November,187,UK,"Classic Cars","1969 Chevrolet Camaro Z28",1,3506
+August,205,USA,Planes,"1928 British Royal Navy Airplane",1,3502
+November,146,France,"Classic Cars","1962 LanciaA Delta 16V",1,3495
+February,239,USA,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,3494
+February,333,Australia,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,3494
+November,144,Sweden,"Classic Cars","1976 Ford Gran Torino",1,3491
+August,249,Italy,"Vintage Cars","1928 Mercedes-Benz SSK",1,3490
+April,172,France,"Classic Cars","1982 Camaro Z28",1,3483
+November,181,USA,"Trucks and Buses","1964 Mercedes Tour Bus",1,3483
+January,320,USA,"Classic Cars","1993 Mazda RX-7",1,3482
+February,321,USA,Ships,"The Mayflower",1,3480
+November,320,USA,"Vintage Cars","1903 Ford Model A",1,3480
+May,406,France,Motorcycles,"2002 Yamaha YZR M1",1,3476
+November,114,Australia,"Classic Cars","1948 Porsche 356-A Roadster",1,3473
+July,124,USA,Motorcycles,"2002 Yamaha YZR M1",1,3472
+August,124,USA,Ships,"The Queen Mary",1,3472
+June,447,USA,Planes,"America West Airlines B757-200",1,3470
+October,124,USA,"Vintage Cars","1932 Model A Ford J-Coupe",1,3468
+March,124,USA,"Classic Cars","1992 Ferrari 360 Spider red",1,3465
+October,148,Singapore,"Classic Cars","1970 Triumph Spitfire",1,3458
+January,334,Finland,"Classic Cars","1957 Corvette Convertible",1,3458
+January,475,USA,"Vintage Cars","1917 Maxwell Touring Car",1,3458
+November,424,USA,Ships,"18th century schooner",1,3457
+October,161,USA,Planes,"F/A 18 Hornet 1/72",1,3456
+March,124,USA,"Trucks and Buses","1957 Chevy Pickup",1,3456
+October,424,USA,"Vintage Cars","1917 Maxwell Touring Car",1,3455
+February,219,USA,"Classic Cars","1968 Dodge Charger",1,3453
+November,486,USA,"Classic Cars","1948 Porsche Type 356 Roadster",1,3453
+November,382,Austria,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,3453
+April,496,"New Zealand",Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,3451
+April,114,Australia,Motorcycles,"1996 Moto Guzzi 1100i",1,3449
+March,462,USA,Planes,"American Airlines: B767-300",1,3445
+August,286,USA,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,3445
+August,205,USA,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,3445
+May,173,USA,Ships,"HMS Bounty",1,3440
+February,124,USA,"Classic Cars","1982 Camaro Z28",1,3439
+November,216,Spain,Motorcycles,"1960 BSA Gold Star DBD34",1,3435
+May,119,France,"Trucks and Buses","1980â€™s GM Manhattan Express",1,3435
+September,189,Ireland,Planes,"1928 British Royal Navy Airplane",1,3431
+May,350,France,"Classic Cars","1992 Ferrari 360 Spider red",1,3429
+April,328,USA,Planes,"1900s Vintage Tri-Plane",1,3428
+February,189,Ireland,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,3426
+August,112,USA,"Classic Cars","1995 Honda Civic",1,3424
+March,128,Germany,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,3424
+January,177,Japan,Planes,"P-51-D Mustang",1,3422
+September,379,USA,"Classic Cars","1968 Dodge Charger",1,3422
+November,462,USA,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,3421
+July,161,USA,"Classic Cars","1962 LanciaA Delta 16V",1,3419
+October,161,USA,Planes,"ATA: B757-300",1,3417
+November,259,Germany,"Classic Cars","1961 Chevrolet Impala",1,3415
+September,276,Australia,"Classic Cars","1995 Honda Civic",1,3414
+November,455,USA,"Classic Cars","1970 Triumph Spitfire",1,3413
+October,161,USA,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,3411
+October,227,Denmark,"Classic Cars","1993 Mazda RX-7",1,3408
+January,141,Spain,"Classic Cars","1993 Mazda RX-7",1,3407
+May,362,USA,Ships,"1999 Yamaha Speed Boat",1,3406
+August,112,USA,"Classic Cars","1956 Porsche 356A Coupe",1,3406
+September,186,Finland,Motorcycles,"2002 Yamaha YZR M1",1,3401
+June,362,USA,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,3400
+November,324,UK,"Classic Cars","1982 Camaro Z28",1,3399
+November,324,UK,"Trucks and Buses","1962 Volkswagen Microbus",1,3399
+November,486,USA,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,3398
+January,458,Spain,"Vintage Cars","1932 Model A Ford J-Coupe",1,3398
+December,141,Spain,"Trucks and Buses","1980â€™s GM Manhattan Express",1,3396
+October,452,Austria,"Classic Cars","1982 Camaro Z28",1,3393
+February,141,Spain,"Classic Cars","1969 Chevrolet Camaro Z28",1,3390
+February,278,Italy,Planes,"America West Airlines B757-200",1,3390
+November,124,USA,"Trucks and Buses","1980â€™s GM Manhattan Express",1,3390
+December,151,USA,"Classic Cars","1969 Chevrolet Camaro Z28",1,3390
+August,124,USA,"Classic Cars","1998 Chrysler Plymouth Prowler",1,3389
+February,119,France,Motorcycles,"2002 Yamaha YZR M1",1,3389
+July,124,USA,"Classic Cars","1992 Ferrari 360 Spider red",1,3387
+August,157,USA,"Classic Cars","1992 Ferrari 360 Spider red",1,3387
+June,201,UK,"Classic Cars","1993 Mazda RX-7",1,3386
+August,320,USA,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,3384
+November,144,Sweden,"Classic Cars","1962 LanciaA Delta 16V",1,3380
+December,282,Australia,Planes,"F/A 18 Hornet 1/72",1,3379
+March,462,USA,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,3376
+February,278,Italy,Planes,"American Airlines: MD-11S",1,3376
+May,362,USA,Ships,"The Queen Mary",1,3376
+November,131,USA,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,3376
+May,412,"New Zealand","Classic Cars","1957 Corvette Convertible",1,3375
+November,339,USA,"Vintage Cars","1913 Ford Model T Speedster",1,3374
+October,124,USA,"Vintage Cars","1913 Ford Model T Speedster",1,3374
+October,321,USA,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,3374
+May,386,Italy,Planes,"1900s Vintage Tri-Plane",1,3373
+August,249,Italy,"Vintage Cars","1917 Maxwell Touring Car",1,3373
+November,456,USA,"Classic Cars","1961 Chevrolet Impala",1,3372
+March,146,France,"Classic Cars","1952 Citroen-15CV",1,3372
+October,128,Germany,"Classic Cars","1968 Dodge Charger",1,3372
+February,298,Switzerland,"Classic Cars","1948 Porsche 356-A Roadster",1,3366
+July,471,Australia,"Classic Cars","1969 Dodge Super Bee",1,3365
+January,205,USA,"Vintage Cars","1932 Model A Ford J-Coupe",1,3364
+February,239,USA,Planes,"America West Airlines B757-200",1,3358
+March,141,Spain,Planes,"1928 British Royal Navy Airplane",1,3358
+March,141,Spain,Planes,"America West Airlines B757-200",1,3358
+February,114,Australia,Motorcycles,"1997 BMW R 1100 S",1,3354
+May,412,"New Zealand",Motorcycles,"1982 Ducati 900 Monster",1,3349
+October,187,UK,Trains,"Collectable Wooden Train",1,3348
+November,145,Denmark,Planes,"P-51-D Mustang",1,3345
+July,157,USA,"Classic Cars","1969 Corvair Monza",1,3345
+May,450,USA,Planes,"F/A 18 Hornet 1/72",1,3344
+February,278,Italy,Planes,"F/A 18 Hornet 1/72",1,3344
+March,412,"New Zealand","Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,3344
+December,141,Spain,Ships,"18th century schooner",1,3343
+June,324,UK,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,3339
+January,146,France,"Classic Cars","1969 Corvair Monza",1,3339
+February,145,Denmark,Trains,"Collectable Wooden Train",1,3334
+November,398,Japan,Planes,"American Airlines: MD-11S",1,3332
+November,181,USA,"Trucks and Buses","1962 Volkswagen Microbus",1,3328
+May,406,France,"Classic Cars","1957 Corvette Convertible",1,3327
+April,328,USA,Planes,"1928 British Royal Navy Airplane",1,3327
+November,216,Spain,Ships,"The USS Constitution Ship",1,3325
+January,205,USA,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,3324
+June,141,Spain,"Vintage Cars","1904 Buick Runabout",1,3321
+November,187,UK,"Vintage Cars","1928 Mercedes-Benz SSK",1,3321
+October,187,UK,"Vintage Cars","1904 Buick Runabout",1,3320
+March,276,Australia,"Trucks and Buses","1940 Ford Pickup Truck",1,3316
+May,455,USA,"Trucks and Buses","1940 Ford Pickup Truck",1,3316
+February,278,Italy,Ships,"1999 Yamaha Speed Boat",1,3315
+February,141,Spain,"Classic Cars","1961 Chevrolet Impala",1,3314
+October,128,Germany,"Classic Cars","1976 Ford Gran Torino",1,3313
+July,250,France,Motorcycles,"1997 BMW R 1100 S",1,3313
+May,458,Spain,"Trucks and Buses","1962 Volkswagen Microbus",1,3312
+November,363,USA,"Vintage Cars","1913 Ford Model T Speedster",1,3310
+January,121,Norway,"Trucks and Buses","1940 Ford Pickup Truck",1,3308
+June,141,Spain,Trains,"Collectable Wooden Train",1,3307
+February,114,Australia,Planes,"ATA: B757-300",1,3303
+October,186,Finland,Planes,"F/A 18 Hornet 1/72",1,3302
+February,124,USA,"Trucks and Buses","1957 Chevy Pickup",1,3299
+November,240,UK,Ships,"HMS Bounty",1,3299
+November,424,USA,"Classic Cars","1972 Alfa Romeo GTA",1,3298
+February,141,Spain,"Vintage Cars","1928 Mercedes-Benz SSK",1,3296
+August,205,USA,Motorcycles,"1997 BMW F650 ST",1,3296
+November,187,UK,"Classic Cars","1949 Jaguar XK 120",1,3296
+March,486,USA,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,3295
+March,462,USA,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,3294
+February,141,Spain,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,3292
+December,141,Spain,"Classic Cars","1948 Porsche 356-A Roadster",1,3292
+April,209,France,"Classic Cars","1952 Citroen-15CV",1,3288
+December,211,"Hong Kong",Planes,"1928 British Royal Navy Airplane",1,3286
+February,314,Belgium,"Vintage Cars","1904 Buick Runabout",1,3286
+January,121,Norway,"Trucks and Buses","1958 Setra Bus",1,3284
+June,198,USA,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,3284
+December,496,"New Zealand",Ships,"1999 Yamaha Speed Boat",1,3284
+June,151,USA,"Classic Cars","1992 Ferrari 360 Spider red",1,3278
+January,146,France,"Vintage Cars","1904 Buick Runabout",1,3278
+January,398,Japan,Ships,"The Mayflower",1,3277
+March,146,France,"Vintage Cars","1917 Maxwell Touring Car",1,3274
+March,141,Spain,Planes,"1980s Black Hawk Helicopter",1,3272
+October,119,France,Ships,"The Queen Mary",1,3270
+November,259,Germany,"Classic Cars","1968 Ford Mustang",1,3269
+October,161,USA,Planes,"1900s Vintage Tri-Plane",1,3269
+January,334,Finland,"Classic Cars","1961 Chevrolet Impala",1,3268
+December,495,USA,"Trucks and Buses","1957 Chevy Pickup",1,3264
+September,362,USA,"Classic Cars","1972 Alfa Romeo GTA",1,3264
+August,260,Canada,"Classic Cars","1972 Alfa Romeo GTA",1,3264
+January,141,Spain,"Classic Cars","1998 Chrysler Plymouth Prowler",1,3262
+February,321,USA,"Vintage Cars","18th Century Vintage Horse Carriage",1,3262
+November,319,USA,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,3258
+May,131,USA,Ships,"The Mayflower",1,3256
+November,278,Italy,Planes,"1900s Vintage Bi-Plane",1,3255
+September,148,Singapore,"Trucks and Buses","1940 Ford Pickup Truck",1,3253
+June,324,UK,Ships,"The USS Constitution Ship",1,3253
+February,119,France,Motorcycles,"1997 BMW F650 ST",1,3252
+October,124,USA,"Trucks and Buses","1940 Ford Pickup Truck",1,3248
+April,209,France,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,3247
+August,260,Canada,Ships,"The Queen Mary",1,3246
+August,320,USA,Ships,"1999 Yamaha Speed Boat",1,3245
+July,250,France,Motorcycles,"1960 BSA Gold Star DBD34",1,3243
+October,227,Denmark,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,3241
+June,209,France,"Vintage Cars","1928 Mercedes-Benz SSK",1,3240
+January,398,Japan,"Vintage Cars","1904 Buick Runabout",1,3239
+October,256,France,"Classic Cars","1982 Camaro Z28",1,3237
+October,321,USA,"Classic Cars","1976 Ford Gran Torino",1,3234
+May,131,USA,Ships,"The Queen Mary",1,3233
+February,145,Denmark,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,3232
+October,128,Germany,"Classic Cars","1969 Dodge Super Bee",1,3231
+December,141,Spain,"Classic Cars","1968 Ford Mustang",1,3230
+September,379,USA,"Classic Cars","1969 Dodge Charger",1,3230
+December,141,Spain,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,3230
+July,119,France,Planes,"America West Airlines B757-200",1,3228
+November,458,Spain,"Vintage Cars","1936 Chrysler Airflow",1,3228
+November,240,UK,Ships,"The USS Constitution Ship",1,3227
+August,260,Canada,Ships,"The USS Constitution Ship",1,3227
+February,278,Italy,Planes,"1900s Vintage Bi-Plane",1,3223
+April,311,Finland,"Classic Cars","1948 Porsche 356-A Roadster",1,3223
+October,319,USA,Motorcycles,"1960 BSA Gold Star DBD34",1,3222
+August,204,USA,"Classic Cars","1961 Chevrolet Impala",1,3221
+March,323,"New Zealand","Trucks and Buses","1980â€™s GM Manhattan Express",1,3220
+September,186,Finland,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,3219
+January,489,UK,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,3217
+July,124,USA,"Classic Cars","1948 Porsche 356-A Roadster",1,3216
+October,161,USA,Motorcycles,"2003 Harley-Davidson Eagle Drag Bike",1,3215
+February,298,Switzerland,"Classic Cars","1976 Ford Gran Torino",1,3215
+February,124,USA,"Vintage Cars","1936 Chrysler Airflow",1,3214
+February,141,Spain,"Trucks and Buses","1964 Mercedes Tour Bus",1,3214
+November,129,USA,"Trucks and Buses","1940 Ford Pickup Truck",1,3214
+May,112,USA,"Vintage Cars","1917 Grand Touring Sedan",1,3213
+November,471,Australia,"Vintage Cars","1917 Grand Touring Sedan",1,3213
+March,173,USA,"Trucks and Buses","1940 Ford Pickup Truck",1,3211
+February,119,France,Planes,"American Airlines: B767-300",1,3210
+October,448,Sweden,Ships,"1999 Yamaha Speed Boat",1,3205
+November,458,Spain,"Classic Cars","1982 Camaro Z28",1,3204
+January,311,Finland,Ships,"The Titanic",1,3201
+November,486,USA,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,3200
+February,321,USA,Ships,"18th century schooner",1,3200
+December,447,USA,Planes,"F/A 18 Hornet 1/72",1,3199
+April,406,France,Motorcycles,"1936 Harley Davidson El Knucklehead",1,3198
+February,239,USA,Ships,"The Titanic",1,3197
+March,323,"New Zealand","Trucks and Buses","1940s Ford truck",1,3196
+March,124,USA,"Vintage Cars","1932 Model A Ford J-Coupe",1,3192
+September,166,Singapore,"Vintage Cars","1932 Model A Ford J-Coupe",1,3192
+November,167,"Norway  ","Classic Cars","1968 Dodge Charger",1,3190
+December,357,"New Zealand",Motorcycles,"2002 Yamaha YZR M1",1,3189
+November,363,USA,"Classic Cars","1948 Porsche 356-A Roadster",1,3188
+July,124,USA,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,3188
+May,353,France,Motorcycles,"2002 Yamaha YZR M1",1,3186
+March,323,"New Zealand","Trucks and Buses","1957 Chevy Pickup",1,3185
+September,415,Germany,Planes,"American Airlines: B767-300",1,3184
+November,124,USA,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,3181
+January,334,Finland,"Classic Cars","1969 Dodge Super Bee",1,3181
+June,145,Denmark,"Vintage Cars","1937 Lincoln Berline",1,3179
+August,157,USA,"Trucks and Buses","1958 Setra Bus",1,3178
+March,276,Australia,"Vintage Cars","1913 Ford Model T Speedster",1,3177
+May,450,USA,Planes,"America West Airlines B757-200",1,3176
+February,114,Australia,Planes,"P-51-D Mustang",1,3176
+June,362,USA,Motorcycles,"2002 Yamaha YZR M1",1,3174
+October,187,UK,Ships,"The Titanic",1,3173
+October,187,UK,Ships,"18th century schooner",1,3172
+November,462,USA,"Classic Cars","1969 Chevrolet Camaro Z28",1,3172
+June,357,"New Zealand","Classic Cars","1970 Triumph Spitfire",1,3171
+November,320,USA,Ships,"18th century schooner",1,3171
+August,298,Switzerland,"Classic Cars","1961 Chevrolet Impala",1,3169
+May,382,Austria,"Classic Cars","1969 Dodge Charger",1,3169
+May,119,France,"Trucks and Buses","1957 Chevy Pickup",1,3168
+October,202,Canada,"Trucks and Buses","1964 Mercedes Tour Bus",1,3168
+September,362,USA,Ships,"The Titanic",1,3167
+November,242,France,"Classic Cars","1972 Alfa Romeo GTA",1,3166
+December,129,USA,Motorcycles,"2002 Suzuki XREO",1,3163
+April,148,Singapore,"Vintage Cars","1903 Ford Model A",1,3161
+June,151,USA,"Classic Cars","1970 Triumph Spitfire",1,3160
+July,157,USA,"Classic Cars","1970 Triumph Spitfire",1,3160
+April,328,USA,Planes,"P-51-D Mustang",1,3158
+February,333,Australia,Planes,"P-51-D Mustang",1,3158
+June,233,Canada,"Classic Cars","1972 Alfa Romeo GTA",1,3158
+September,166,Singapore,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,3157
+October,319,USA,Planes,"1900s Vintage Tri-Plane",1,3156
+November,471,Australia,"Vintage Cars","1928 Mercedes-Benz SSK",1,3156
+November,211,"Hong Kong",Planes,"P-51-D Mustang",1,3155
+December,202,Canada,"Vintage Cars","1936 Chrysler Airflow",1,3150
+November,181,USA,"Vintage Cars","1936 Chrysler Airflow",1,3150
+June,166,Singapore,"Classic Cars","1962 LanciaA Delta 16V",1,3150
+March,146,France,"Classic Cars","1969 Chevrolet Camaro Z28",1,3150
+September,362,USA,Ships,"The USS Constitution Ship",1,3149
+October,201,UK,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,3148
+July,250,France,Motorcycles,"1996 Moto Guzzi 1100i",1,3147
+January,146,France,Ships,"The Queen Mary",1,3146
+November,131,USA,Motorcycles,"1997 BMW R 1100 S",1,3144
+April,141,Spain,"Vintage Cars","1917 Maxwell Touring Car",1,3143
+April,323,"New Zealand","Classic Cars","1961 Chevrolet Impala",1,3143
+December,151,USA,"Classic Cars","1957 Ford Thunderbird",1,3143
+November,124,USA,"Classic Cars","1949 Jaguar XK 120",1,3141
+October,424,USA,"Vintage Cars","1913 Ford Model T Speedster",1,3141
+May,103,France,"Classic Cars","1965 Aston Martin DB5",1,3138
+April,450,USA,"Vintage Cars","1940 Ford Delivery Sedan",1,3135
+April,496,"New Zealand",Motorcycles,"1997 BMW F650 ST",1,3132
+March,448,Sweden,"Classic Cars","1948 Porsche 356-A Roadster",1,3132
+May,450,USA,"Vintage Cars","1928 Ford Phaeton Deluxe",1,3130
+February,119,France,Planes,"America West Airlines B757-200",1,3126
+October,319,USA,Planes,"ATA: B757-300",1,3126
+December,141,Spain,"Classic Cars","1957 Corvette Convertible",1,3125
+December,496,"New Zealand",Ships,"18th century schooner",1,3124
+August,320,USA,Planes,"American Airlines: B767-300",1,3124
+November,496,"New Zealand",Planes,"F/A 18 Hornet 1/72",1,3120
+September,249,Italy,"Classic Cars","1969 Corvair Monza",1,3118
+March,173,USA,"Vintage Cars","18th Century Vintage Horse Carriage",1,3116
+October,299,"Norway  ","Classic Cars","1992 Ferrari 360 Spider red",1,3116
+November,398,Japan,Ships,"The USS Constitution Ship",1,3108
+June,141,Spain,Planes,"ATA: B757-300",1,3107
+February,239,USA,"Classic Cars","1995 Honda Civic",1,3107
+December,151,USA,"Vintage Cars","1932 Model A Ford J-Coupe",1,3107
+October,259,Germany,"Classic Cars","1995 Honda Civic",1,3107
+October,319,USA,Planes,"America West Airlines B757-200",1,3106
+August,286,USA,Motorcycles,"1997 BMW R 1100 S",1,3104
+May,386,Italy,Planes,"1980s Black Hawk Helicopter",1,3103
+April,496,"New Zealand",Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,3101
+April,216,Spain,Ships,"The Titanic",1,3101
+June,450,USA,"Vintage Cars","18th Century Vintage Horse Carriage",1,3100
+May,450,USA,Motorcycles,"1997 BMW F650 ST",1,3097
+December,250,France,"Vintage Cars","1932 Model A Ford J-Coupe",1,3097
+April,114,Australia,Planes,"F/A 18 Hornet 1/72",1,3096
+July,119,France,Planes,"F/A 18 Hornet 1/72",1,3096
+February,145,Denmark,"Vintage Cars","1904 Buick Runabout",1,3095
+November,211,"Hong Kong",Planes,"American Airlines: MD-11S",1,3095
+October,186,Finland,Planes,"American Airlines: MD-11S",1,3095
+February,141,Spain,"Classic Cars","2002 Chevy Corvette",1,3095
+November,216,Spain,Ships,"The Queen Mary",1,3094
+September,131,USA,"Classic Cars","1992 Ferrari 360 Spider red",1,3094
+November,145,Denmark,Ships,"The Queen Mary",1,3087
+October,319,USA,Planes,"1928 British Royal Navy Airplane",1,3087
+January,311,Finland,Ships,"The Queen Mary",1,3087
+July,124,USA,"Trucks and Buses","1957 Chevy Pickup",1,3086
+October,202,Canada,"Trucks and Buses","1940s Ford truck",1,3085
+November,363,USA,"Classic Cars","1993 Mazda RX-7",1,3083
+February,321,USA,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,3083
+November,278,Italy,"Vintage Cars","1928 Mercedes-Benz SSK",1,3081
+November,278,Italy,Ships,"HMS Bounty",1,3080
+December,202,Canada,"Vintage Cars","18th Century Vintage Horse Carriage",1,3079
+October,119,France,Ships,"The Titanic",1,3074
+November,131,USA,Motorcycles,"2002 Suzuki XREO",1,3073
+October,186,Finland,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,3070
+August,286,USA,Motorcycles,"1997 BMW F650 ST",1,3068
+October,187,UK,Ships,"The Schooner Bluenose",1,3067
+September,131,USA,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,3066
+November,242,France,Planes,"American Airlines: MD-11S",1,3065
+January,311,Finland,Planes,"American Airlines: MD-11S",1,3065
+September,276,Australia,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,3065
+November,398,Japan,"Vintage Cars","1940 Ford Delivery Sedan",1,3064
+February,119,France,Planes,"F/A 18 Hornet 1/72",1,3062
+December,202,Canada,"Trucks and Buses","1958 Setra Bus",1,3062
+July,161,USA,"Trucks and Buses","1940 Ford Pickup Truck",1,3061
+June,166,Singapore,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,3055
+January,276,Australia,"Trucks and Buses","1940s Ford truck",1,3055
+March,486,USA,"Classic Cars","1993 Mazda RX-7",1,3054
+December,496,"New Zealand","Vintage Cars","1904 Buick Runabout",1,3054
+November,167,"Norway  ","Classic Cars","1956 Porsche 356A Coupe",1,3054
+September,415,Germany,Ships,"HMS Bounty",1,3047
+December,495,USA,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,3047
+January,146,France,"Classic Cars","1969 Ford Falcon",1,3045
+August,298,Switzerland,"Classic Cars","1970 Plymouth Hemi Cuda",1,3043
+September,148,Singapore,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,3040
+May,141,Spain,Motorcycles,"2002 Suzuki XREO",1,3037
+November,144,Sweden,Trains,"Collectable Wooden Train",1,3033
+April,145,Denmark,"Classic Cars","1968 Dodge Charger",1,3031
+May,141,Spain,"Classic Cars","1970 Dodge Coronet",2,3030
+May,455,USA,"Trucks and Buses","1980â€™s GM Manhattan Express",1,3029
+August,299,"Norway  ","Vintage Cars","1928 Ford Phaeton Deluxe",1,3027
+May,233,Canada,"Classic Cars","1982 Camaro Z28",1,3026
+June,175,USA,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,3026
+June,141,Spain,"Vintage Cars","1937 Horch 930V Limousine",1,3024
+March,124,USA,"Classic Cars","1969 Dodge Super Bee",1,3024
+March,448,Sweden,Motorcycles,"1960 BSA Gold Star DBD34",1,3023
+February,141,Spain,"Vintage Cars","1903 Ford Model A",1,3016
+February,239,USA,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,3010
+October,452,Austria,"Classic Cars","1962 LanciaA Delta 16V",1,3010
+August,205,USA,Motorcycles,"1960 BSA Gold Star DBD34",1,3007
+January,320,USA,Motorcycles,"2002 Yamaha YZR M1",1,3007
+July,124,USA,"Classic Cars","1969 Dodge Charger",1,3006
+March,452,Austria,"Vintage Cars","18th Century Vintage Horse Carriage",1,3006
+February,145,Denmark,"Vintage Cars","1903 Ford Model A",1,3005
+November,424,USA,Ships,"The Queen Mary",1,3003
+December,447,USA,Planes,"1928 British Royal Navy Airplane",1,3002
+February,278,Italy,Planes,"1928 British Royal Navy Airplane",1,3002
+January,334,Finland,"Classic Cars","1976 Ford Gran Torino",1,2999
+November,240,UK,Planes,"American Airlines: MD-11S",1,2997
+November,278,Italy,Planes,"1900s Vintage Tri-Plane",1,2991
+July,282,Australia,"Trucks and Buses","1980â€™s GM Manhattan Express",1,2989
+January,347,USA,Ships,"HMS Bounty",1,2987
+August,286,USA,Motorcycles,"2002 Yamaha YZR M1",1,2983
+December,495,USA,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,2982
+March,141,Spain,"Classic Cars","1992 Ferrari 360 Spider red",1,2980
+June,447,USA,Planes,"1980s Black Hawk Helicopter",1,2980
+May,282,Australia,"Classic Cars","1949 Jaguar XK 120",1,2977
+August,249,Italy,"Vintage Cars","18th Century Vintage Horse Carriage",1,2976
+February,114,Australia,Planes,"1928 British Royal Navy Airplane",1,2976
+November,382,Austria,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,2974
+February,114,Australia,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,2974
+March,146,France,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,2973
+November,353,France,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,2970
+August,298,Switzerland,"Classic Cars","1995 Honda Civic",1,2970
+November,124,USA,"Classic Cars","1970 Chevy Chevelle SS 454",1,2970
+December,282,Australia,Motorcycles,"1996 Moto Guzzi 1100i",1,2969
+November,382,Austria,Motorcycles,"2002 Yamaha YZR M1",1,2968
+July,124,USA,"Classic Cars","1969 Dodge Super Bee",1,2967
+March,353,France,Planes,"1900s Vintage Tri-Plane",1,2967
+September,186,Finland,Motorcycles,"2002 Suzuki XREO",1,2964
+August,204,USA,"Classic Cars","1969 Dodge Super Bee",1,2964
+July,412,"New Zealand","Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,2963
+May,406,France,Motorcycles,"1982 Ducati 900 Monster",1,2962
+May,233,Canada,"Trucks and Buses","1940 Ford Pickup Truck",1,2961
+November,385,Philippines,Planes,"American Airlines: MD-11S",1,2961
+March,385,Philippines,"Classic Cars","1970 Plymouth Hemi Cuda",1,2957
+May,119,France,"Classic Cars","1970 Dodge Coronet",1,2956
+November,242,France,Ships,"HMS Bounty",1,2955
+March,412,"New Zealand",Planes,"1900s Vintage Bi-Plane",1,2954
+November,129,USA,"Vintage Cars","1913 Ford Model T Speedster",1,2952
+May,450,USA,Planes,"1928 British Royal Navy Airplane",1,2951
+November,386,Italy,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,2950
+December,124,USA,"Trucks and Buses","1940s Ford truck",1,2950
+January,205,USA,"Classic Cars","1957 Ford Thunderbird",1,2948
+November,144,Sweden,"Classic Cars","1992 Ferrari 360 Spider red",1,2947
+March,240,UK,"Vintage Cars","1903 Ford Model A",1,2945
+January,146,France,Ships,"The Mayflower",1,2945
+December,141,Spain,"Classic Cars","1970 Triumph Spitfire",1,2944
+January,124,USA,"Classic Cars","1949 Jaguar XK 120",1,2944
+August,298,Switzerland,"Classic Cars","1969 Dodge Super Bee",1,2939
+July,242,France,"Classic Cars","1993 Mazda RX-7",1,2937
+December,202,Canada,"Classic Cars","1982 Camaro Z28",1,2937
+April,450,USA,"Classic Cars","1966 Shelby Cobra 427 S/C",1,2930
+May,353,France,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,2928
+November,385,Philippines,Planes,"1900s Vintage Bi-Plane",1,2927
+January,146,France,Ships,"The USS Constitution Ship",1,2926
+March,124,USA,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",2,2924
+March,323,"New Zealand","Vintage Cars","1936 Chrysler Airflow",1,2924
+November,363,USA,"Classic Cars","1965 Aston Martin DB5",1,2923
+November,187,UK,"Classic Cars","2002 Chevy Corvette",1,2921
+November,486,USA,"Classic Cars","1956 Porsche 356A Coupe",1,2920
+February,124,USA,"Vintage Cars","1940 Ford Delivery Sedan",1,2917
+November,181,USA,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,2916
+June,141,Spain,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,2916
+November,128,Germany,"Vintage Cars","1917 Maxwell Touring Car",1,2914
+June,323,"New Zealand","Classic Cars","1969 Chevrolet Camaro Z28",1,2912
+June,175,USA,Motorcycles,"1997 BMW F650 ST",1,2911
+December,496,"New Zealand",Ships,"The Titanic",1,2910
+June,450,USA,"Vintage Cars","1934 Ford V8 Coupe",1,2908
+December,124,USA,"Vintage Cars","1934 Ford V8 Coupe",1,2908
+April,260,Canada,Planes,"ATA: B757-300",1,2907
+October,187,UK,"Classic Cars","1969 Ford Falcon",1,2907
+October,187,UK,"Classic Cars","1970 Triumph Spitfire",1,2907
+July,151,USA,"Classic Cars","1949 Jaguar XK 120",1,2901
+February,166,Singapore,"Trucks and Buses","1962 Volkswagen Microbus",1,2898
+May,412,"New Zealand",Motorcycles,"2002 Yamaha YZR M1",1,2896
+March,242,France,Ships,"The Queen Mary",1,2896
+May,382,Austria,"Classic Cars","1971 Alpine Renault 1600s",1,2896
+November,242,France,Ships,"1999 Yamaha Speed Boat",1,2892
+April,209,France,"Classic Cars","2002 Chevy Corvette",1,2891
+May,458,Spain,"Vintage Cars","1913 Ford Model T Speedster",1,2890
+July,496,"New Zealand","Classic Cars","1952 Citroen-15CV",1,2889
+September,415,Germany,Planes,"American Airlines: MD-11S",1,2888
+November,211,"Hong Kong",Planes,"American Airlines: B767-300",1,2888
+November,344,Spain,"Vintage Cars","1904 Buick Runabout",1,2888
+December,151,USA,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,2887
+March,124,USA,"Vintage Cars","1940 Ford Delivery Sedan",1,2886
+April,357,"New Zealand","Vintage Cars","18th Century Vintage Horse Carriage",1,2884
+November,486,USA,"Classic Cars","1961 Chevrolet Impala",1,2884
+October,227,Denmark,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,2884
+October,202,Canada,"Classic Cars","1982 Camaro Z28",1,2883
+January,161,USA,Motorcycles,"2002 Suzuki XREO",1,2883
+March,129,USA,"Vintage Cars","1937 Lincoln Berline",1,2882
+July,151,USA,"Classic Cars","1970 Chevy Chevelle SS 454",1,2881
+November,114,Australia,"Classic Cars","1971 Alpine Renault 1600s",1,2880
+June,323,"New Zealand",Planes,"F/A 18 Hornet 1/72",1,2880
+October,448,Sweden,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,2880
+October,424,USA,"Vintage Cars","1934 Ford V8 Coupe",1,2878
+April,382,Austria,"Vintage Cars","1940 Ford Delivery Sedan",1,2876
+November,114,Australia,"Vintage Cars","1928 Mercedes-Benz SSK",1,2870
+October,186,Finland,Ships,"HMS Bounty",1,2868
+January,121,Norway,"Trucks and Buses","1980â€™s GM Manhattan Express",1,2866
+July,314,Belgium,Ships,"1999 Yamaha Speed Boat",1,2866
+February,239,USA,Planes,"American Airlines: MD-11S",1,2865
+July,386,Italy,"Classic Cars","1956 Porsche 356A Coupe",1,2865
+December,141,Spain,"Classic Cars","1972 Alfa Romeo GTA",1,2864
+April,148,Singapore,Ships,"The Mayflower",1,2863
+December,496,"New Zealand",Ships,"The Queen Mary",1,2863
+September,166,Singapore,"Classic Cars","1949 Jaguar XK 120",1,2862
+December,323,"New Zealand","Classic Cars","1968 Dodge Charger",1,2861
+May,114,Australia,"Vintage Cars","1937 Lincoln Berline",1,2860
+November,455,USA,Trains,"Collectable Wooden Train",1,2859
+October,448,Sweden,Ships,"The USS Constitution Ship",1,2859
+January,347,USA,Planes,"1900s Vintage Bi-Plane",1,2857
+November,216,Spain,Planes,"ATA: B757-300",1,2856
+January,124,USA,"Classic Cars","1982 Camaro Z28",1,2854
+October,473,Italy,Motorcycles,"1997 BMW F650 ST",1,2853
+January,121,Norway,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,2851
+November,146,France,"Trucks and Buses","1980â€™s GM Manhattan Express",1,2851
+December,447,USA,Planes,"American Airlines: B767-300",1,2850
+March,240,UK,Ships,"The Queen Mary",1,2850
+December,141,Spain,"Classic Cars","1998 Chrysler Plymouth Prowler",1,2849
+September,276,Australia,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,2848
+November,124,USA,"Vintage Cars","1917 Maxwell Touring Car",1,2848
+May,458,Spain,"Vintage Cars","1936 Chrysler Airflow",1,2848
+February,171,France,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,2847
+January,311,Finland,Ships,"The USS Constitution Ship",1,2845
+November,276,Australia,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,2845
+May,458,Spain,"Vintage Cars","1934 Ford V8 Coupe",1,2845
+September,379,USA,"Classic Cars","1956 Porsche 356A Coupe",1,2842
+May,458,Spain,"Trucks and Buses","1958 Setra Bus",1,2841
+October,448,Sweden,Ships,"The Schooner Bluenose",1,2838
+April,172,France,"Trucks and Buses","1980â€™s GM Manhattan Express",1,2836
+August,204,USA,Motorcycles,"1982 Ducati 900 Monster",1,2835
+October,256,France,"Vintage Cars","1928 Mercedes-Benz SSK",1,2835
+November,124,USA,"Vintage Cars","1928 Mercedes-Benz SSK",1,2835
+November,324,UK,"Trucks and Buses","1957 Chevy Pickup",1,2835
+September,447,USA,Motorcycles,"1957 Vespa GS150",1,2834
+June,141,Spain,Planes,"1900s Vintage Tri-Plane",1,2833
+November,484,Spain,Trains,"1950's Chicago Surface Lines Streetcar",1,2833
+February,278,Italy,Planes,"American Airlines: B767-300",1,2832
+December,211,"Hong Kong",Motorcycles,"1997 BMW F650 ST",1,2832
+May,450,USA,Planes,"American Airlines: B767-300",1,2832
+March,328,USA,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,2832
+December,495,USA,"Classic Cars","1970 Dodge Coronet",1,2832
+January,406,France,Motorcycles,"2002 Yamaha YZR M1",1,2831
+June,324,UK,Ships,"The Queen Mary",1,2830
+September,311,Finland,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,2829
+November,489,UK,"Classic Cars","1972 Alfa Romeo GTA",1,2829
+October,227,Denmark,"Classic Cars","2002 Chevy Corvette",1,2827
+October,186,Finland,"Vintage Cars","1940 Ford Delivery Sedan",1,2823
+November,484,Spain,"Trucks and Buses","1962 Volkswagen Microbus",1,2822
+October,452,Austria,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,2819
+November,112,USA,"Classic Cars","1952 Citroen-15CV",1,2819
+January,146,France,"Vintage Cars","1903 Ford Model A",1,2819
+November,385,Philippines,Planes,"Corsair F4U ( Bird Cage)",1,2817
+June,141,Spain,Planes,"Corsair F4U ( Bird Cage)",1,2817
+October,319,USA,"Vintage Cars","1928 Ford Phaeton Deluxe",1,2816
+March,353,France,Planes,"P-51-D Mustang",1,2815
+August,157,USA,"Trucks and Buses","1962 Volkswagen Microbus",1,2812
+October,119,France,"Vintage Cars","1904 Buick Runabout",1,2812
+October,347,USA,"Classic Cars","1992 Ferrari 360 Spider red",1,2811
+December,141,Spain,"Classic Cars","1970 Plymouth Hemi Cuda",1,2809
+May,350,France,"Classic Cars","1976 Ford Gran Torino",1,2809
+December,496,"New Zealand",Planes,"P-51-D Mustang",1,2806
+June,362,USA,Motorcycles,"1957 Vespa GS150",1,2805
+December,357,"New Zealand",Motorcycles,"1982 Ducati 900 Monster",1,2805
+December,323,"New Zealand","Classic Cars","1969 Dodge Charger",1,2805
+April,145,Denmark,"Classic Cars","1969 Dodge Super Bee",1,2802
+October,187,UK,Ships,"The Mayflower",1,2798
+February,278,Italy,Planes,"Corsair F4U ( Bird Cage)",1,2798
+December,129,USA,Motorcycles,"1996 Moto Guzzi 1100i",1,2797
+March,173,USA,"Vintage Cars","1936 Chrysler Airflow",1,2796
+May,458,Spain,"Vintage Cars","18th Century Vintage Horse Carriage",1,2796
+February,166,Singapore,"Classic Cars","1982 Camaro Z28",1,2791
+August,260,Canada,Ships,"The Schooner Bluenose",1,2790
+November,382,Austria,"Classic Cars","1970 Plymouth Hemi Cuda",1,2787
+November,167,"Norway  ",Planes,"ATA: B757-300",1,2787
+November,386,Italy,"Classic Cars","1998 Chrysler Plymouth Prowler",1,2783
+October,124,USA,"Vintage Cars","1917 Maxwell Touring Car",1,2783
+August,205,USA,Motorcycles,"2002 Yamaha YZR M1",1,2782
+February,141,Spain,"Classic Cars","1949 Jaguar XK 120",1,2781
+February,131,USA,Motorcycles,"1960 BSA Gold Star DBD34",1,2779
+December,202,Canada,"Vintage Cars","1917 Maxwell Touring Car",1,2778
+January,406,France,Motorcycles,"1957 Vespa GS150",1,2774
+October,187,UK,Trains,"1950's Chicago Surface Lines Streetcar",1,2773
+January,141,Spain,Trains,"1950's Chicago Surface Lines Streetcar",1,2771
+July,282,Australia,"Vintage Cars","1937 Lincoln Berline",1,2771
+October,339,USA,Ships,"HMS Bounty",1,2770
+January,141,Spain,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,2768
+December,282,Australia,"Vintage Cars","1928 Ford Phaeton Deluxe",1,2764
+July,386,Italy,"Classic Cars","1993 Mazda RX-7",1,2764
+February,124,USA,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,2761
+September,311,Finland,"Trucks and Buses","1957 Chevy Pickup",1,2759
+March,448,Sweden,"Classic Cars","1970 Plymouth Hemi Cuda",1,2758
+February,278,Italy,Planes,"P-51-D Mustang",1,2757
+July,124,USA,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,2756
+June,141,Spain,"Vintage Cars","1930 Buick Marquette Phaeton",2,2755
+October,202,Canada,"Trucks and Buses","1958 Setra Bus",1,2755
+January,363,USA,"Vintage Cars","1911 Ford Town Car",1,2754
+November,121,Norway,"Vintage Cars","1903 Ford Model A",1,2754
+June,323,"New Zealand","Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,2754
+February,141,Spain,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,2753
+June,198,USA,Ships,"1999 Yamaha Speed Boat",1,2753
+March,323,"New Zealand","Classic Cars","1998 Chrysler Plymouth Prowler",1,2751
+November,181,USA,"Classic Cars","1982 Camaro Z28",1,2751
+December,496,"New Zealand",Trains,"Collectable Wooden Train",1,2749
+July,119,France,Planes,"American Airlines: B767-300",1,2748
+November,320,USA,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,2746
+December,211,"Hong Kong",Planes,"1900s Vintage Tri-Plane",1,2741
+May,386,Italy,Planes,"American Airlines: MD-11S",1,2738
+November,259,Germany,"Classic Cars","1976 Ford Gran Torino",1,2738
+August,260,Canada,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,2738
+November,462,USA,"Classic Cars","1948 Porsche 356-A Roadster",1,2735
+January,406,France,Motorcycles,"1997 BMW R 1100 S",1,2733
+June,447,USA,Planes,"Corsair F4U ( Bird Cage)",1,2730
+May,282,Australia,"Classic Cars","2002 Chevy Corvette",1,2728
+January,177,Japan,Planes,"1900s Vintage Tri-Plane",1,2724
+December,447,USA,"Vintage Cars","1928 Ford Phaeton Deluxe",1,2724
+March,385,Philippines,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,2721
+November,259,Germany,"Classic Cars","1969 Dodge Super Bee",1,2721
+October,161,USA,Planes,"America West Airlines B757-200",1,2720
+October,227,Denmark,"Classic Cars","1970 Chevy Chevelle SS 454",1,2719
+May,175,USA,Trains,"1962 City of Detroit Streetcar",1,2719
+December,496,"New Zealand",Planes,"1900s Vintage Bi-Plane",1,2719
+April,424,USA,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,2719
+November,167,"Norway  ","Classic Cars","1995 Honda Civic",1,2718
+January,177,Japan,Planes,"1928 British Royal Navy Airplane",1,2718
+May,112,USA,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,2717
+January,311,Finland,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,2716
+March,128,Germany,Trains,"1950's Chicago Surface Lines Streetcar",1,2715
+November,278,Italy,Planes,"American Airlines: MD-11S",1,2714
+March,124,USA,"Trucks and Buses","1964 Mercedes Tour Bus",1,2712
+July,282,Australia,"Vintage Cars","1936 Chrysler Airflow",1,2711
+August,298,Switzerland,"Classic Cars","1948 Porsche 356-A Roadster",1,2710
+January,276,Australia,"Trucks and Buses","1940 Ford Pickup Truck",1,2709
+August,249,Italy,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,2706
+September,131,USA,"Trucks and Buses","1954 Greyhound Scenicruiser",1,2706
+March,141,Spain,Ships,"1999 Yamaha Speed Boat",1,2705
+November,216,Spain,Ships,"The Titanic",1,2705
+March,353,France,Ships,"HMS Bounty",1,2705
+January,128,Germany,"Vintage Cars","1932 Model A Ford J-Coupe",1,2702
+December,141,Spain,Ships,"The Titanic",1,2702
+October,227,Denmark,"Classic Cars","1952 Citroen-15CV",1,2701
+November,112,USA,"Classic Cars","2002 Chevy Corvette",1,2701
+November,141,Spain,Motorcycles,"2002 Yamaha YZR M1",1,2701
+May,458,Spain,"Classic Cars","1962 LanciaA Delta 16V",1,2698
+June,141,Spain,Planes,"America West Airlines B757-200",1,2698
+November,124,USA,"Classic Cars","1957 Ford Thunderbird",1,2697
+May,282,Australia,"Classic Cars","1969 Chevrolet Camaro Z28",1,2697
+November,278,Italy,"Vintage Cars","18th Century Vintage Horse Carriage",1,2695
+June,357,"New Zealand","Classic Cars","1992 Porsche Cayenne Turbo Silver",1,2693
+October,347,USA,"Classic Cars","1948 Porsche 356-A Roadster",1,2692
+September,379,USA,"Classic Cars","1969 Dodge Super Bee",1,2692
+June,357,"New Zealand",Trains,"Collectable Wooden Train",1,2690
+November,344,Spain,Trains,"Collectable Wooden Train",1,2690
+April,148,Singapore,"Classic Cars","1970 Triumph Spitfire",1,2686
+May,141,Spain,"Classic Cars","1958 Chevy Corvette Limited Edition",2,2684
+January,124,USA,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,2683
+May,350,France,"Classic Cars","1948 Porsche 356-A Roadster",1,2682
+May,450,USA,Planes,"1900s Vintage Tri-Plane",1,2681
+July,496,"New Zealand","Classic Cars","1970 Chevy Chevelle SS 454",1,2679
+December,475,USA,Planes,"F/A 18 Hornet 1/72",1,2675
+November,484,Spain,"Trucks and Buses","1926 Ford Fire Engine",1,2674
+November,363,USA,"Classic Cars","1969 Dodge Charger",1,2674
+October,187,UK,Ships,"The USS Constitution Ship",1,2673
+October,256,France,"Vintage Cars","1936 Chrysler Airflow",1,2667
+April,328,USA,Planes,"American Airlines: MD-11S",1,2665
+November,363,USA,"Classic Cars","1970 Chevy Chevelle SS 454",1,2665
+April,424,USA,"Classic Cars","1970 Dodge Coronet",1,2662
+June,357,"New Zealand",Ships,"The Mayflower",1,2658
+September,249,Italy,"Vintage Cars","1903 Ford Model A",1,2655
+February,239,USA,Planes,"Corsair F4U ( Bird Cage)",1,2653
+November,167,"Norway  ","Classic Cars","1976 Ford Gran Torino",1,2652
+February,321,USA,"Trucks and Buses","1958 Setra Bus",1,2651
+November,424,USA,Ships,"The Mayflower",1,2650
+November,131,USA,Motorcycles,"1960 BSA Gold Star DBD34",1,2649
+July,386,Italy,"Classic Cars","1971 Alpine Renault 1600s",1,2648
+April,357,"New Zealand","Vintage Cars","1934 Ford V8 Coupe",1,2648
+June,323,"New Zealand","Classic Cars","1949 Jaguar XK 120",1,2648
+April,114,Australia,Motorcycles,"1936 Harley Davidson El Knucklehead",1,2647
+October,286,USA,"Trucks and Buses","1980â€™s GM Manhattan Express",1,2643
+May,382,Austria,"Classic Cars","1948 Porsche 356-A Roadster",1,2643
+May,406,France,"Classic Cars","1961 Chevrolet Impala",1,2642
+April,382,Austria,Planes,"1900s Vintage Bi-Plane",1,2640
+September,276,Australia,"Classic Cars","1993 Mazda RX-7",1,2637
+October,161,USA,Motorcycles,"1996 Moto Guzzi 1100i",1,2633
+February,119,France,"Vintage Cars","1928 Ford Phaeton Deluxe",1,2633
+January,489,UK,"Classic Cars","1952 Citroen-15CV",1,2632
+November,216,Spain,"Vintage Cars","1928 Ford Phaeton Deluxe",1,2629
+February,239,USA,"Vintage Cars","1937 Horch 930V Limousine",1,2629
+October,161,USA,Planes,"American Airlines: MD-11S",1,2627
+October,187,UK,Ships,"The Queen Mary",1,2622
+April,148,Singapore,Ships,"Pont Yacht",1,2621
+July,250,France,Motorcycles,"2002 Suzuki XREO",1,2621
+November,259,Germany,Motorcycles,"1957 Vespa GS150",1,2620
+November,181,USA,"Trucks and Buses","1957 Chevy Pickup",1,2619
+November,278,Italy,"Vintage Cars","1917 Maxwell Touring Car",1,2618
+October,484,Spain,"Vintage Cars","1911 Ford Town Car",1,2618
+November,398,Japan,Motorcycles,"1997 BMW R 1100 S",1,2617
+June,141,Spain,Ships,"1999 Yamaha Speed Boat",1,2615
+April,141,Spain,"Vintage Cars","1913 Ford Model T Speedster",1,2614
+November,455,USA,Trains,"1962 City of Detroit Streetcar",1,2614
+August,148,Singapore,"Classic Cars","1969 Dodge Charger",1,2612
+March,146,France,"Classic Cars","1957 Ford Thunderbird",1,2611
+March,250,France,Trains,"1962 City of Detroit Streetcar",1,2610
+April,323,"New Zealand","Classic Cars","1971 Alpine Renault 1600s",1,2610
+November,344,Spain,"Vintage Cars","1903 Ford Model A",1,2608
+November,424,USA,Ships,"The Titanic",1,2608
+March,141,Spain,Planes,"American Airlines: MD-11S",1,2606
+March,187,UK,"Classic Cars","1957 Ford Thunderbird",1,2604
+October,339,USA,"Classic Cars","1972 Alfa Romeo GTA",1,2603
+December,141,Spain,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,2602
+September,276,Australia,"Classic Cars","2002 Chevy Corvette",1,2602
+August,286,USA,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,2600
+October,202,Canada,"Trucks and Buses","1980â€™s GM Manhattan Express",1,2600
+January,177,Japan,Motorcycles,"1996 Moto Guzzi 1100i",1,2599
+August,141,Spain,"Classic Cars","1969 Chevrolet Camaro Z28",1,2599
+November,240,UK,"Vintage Cars","1937 Horch 930V Limousine",1,2596
+October,227,Denmark,"Vintage Cars","1903 Ford Model A",1,2595
+September,141,Spain,Ships,"Pont Yacht",1,2594
+March,187,UK,"Classic Cars","1970 Chevy Chevelle SS 454",1,2593
+November,363,USA,"Classic Cars","1952 Citroen-15CV",1,2593
+August,205,USA,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,2590
+September,166,Singapore,"Classic Cars","1969 Chevrolet Camaro Z28",1,2590
+November,471,Australia,"Vintage Cars","1937 Lincoln Berline",1,2589
+October,128,Germany,"Classic Cars","1948 Porsche 356-A Roadster",1,2589
+July,282,Australia,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,2589
+February,298,Switzerland,"Classic Cars","1969 Dodge Super Bee",1,2589
+March,173,USA,"Vintage Cars","1934 Ford V8 Coupe",1,2586
+November,276,Australia,"Classic Cars","1970 Plymouth Hemi Cuda",1,2586
+February,119,France,Planes,"1900s Vintage Tri-Plane",1,2586
+September,333,Australia,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,2585
+October,186,Finland,Planes,"Corsair F4U ( Bird Cage)",1,2582
+November,398,Japan,Planes,"Corsair F4U ( Bird Cage)",1,2579
+August,204,USA,"Classic Cars","1970 Plymouth Hemi Cuda",1,2578
+June,233,Canada,Ships,"The USS Constitution Ship",1,2576
+May,131,USA,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,2576
+October,286,USA,"Trucks and Buses","1962 Volkswagen Microbus",1,2576
+December,141,Spain,Ships,"The Schooner Bluenose",1,2576
+March,385,Philippines,"Classic Cars","1948 Porsche 356-A Roadster",1,2575
+April,382,Austria,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,2573
+November,339,USA,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,2566
+May,362,USA,Ships,"Pont Yacht",1,2566
+July,151,USA,"Classic Cars","1957 Ford Thunderbird",1,2566
+April,114,Australia,Planes,"ATA: B757-300",1,2563
+April,181,USA,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,2563
+February,131,USA,Motorcycles,"2002 Suzuki XREO",1,2562
+January,406,France,"Classic Cars","1969 Dodge Super Bee",1,2561
+June,151,USA,Trains,"1962 City of Detroit Streetcar",1,2560
+May,328,USA,Motorcycles,"1936 Harley Davidson El Knucklehead",1,2559
+May,386,Italy,Planes,"F/A 18 Hornet 1/72",1,2558
+October,161,USA,Planes,"American Airlines: B767-300",1,2558
+May,141,Spain,"Trucks and Buses","1954 Greyhound Scenicruiser",2,2557
+December,151,USA,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,2557
+November,259,Germany,"Classic Cars","1971 Alpine Renault 1600s",1,2557
+October,148,Singapore,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,2555
+April,382,Austria,Ships,"The USS Constitution Ship",1,2554
+February,278,Italy,Ships,"HMS Bounty",1,2553
+November,114,Australia,"Trucks and Buses","1926 Ford Fire Engine",1,2552
+January,311,Finland,Ships,"The Schooner Bluenose",1,2552
+November,216,Spain,Planes,"1900s Vintage Tri-Plane",1,2550
+January,177,Japan,Planes,"American Airlines: MD-11S",1,2549
+December,496,"New Zealand","Vintage Cars","1912 Ford Model T Delivery Wagon",1,2549
+November,240,UK,Planes,"American Airlines: B767-300",1,2547
+August,260,Canada,"Vintage Cars","1940 Ford Delivery Sedan",1,2546
+October,448,Sweden,Ships,"HMS Bounty",1,2546
+July,157,USA,Trains,"1950's Chicago Surface Lines Streetcar",1,2545
+March,385,Philippines,Motorcycles,"2002 Yamaha YZR M1",1,2545
+November,462,USA,"Classic Cars","1969 Dodge Charger",1,2543
+November,471,Australia,"Vintage Cars","1911 Ford Town Car",1,2543
+November,324,UK,"Trucks and Buses","1954 Greyhound Scenicruiser",1,2543
+July,386,Italy,"Classic Cars","1948 Porsche 356-A Roadster",1,2541
+November,157,USA,Planes,"P-51-D Mustang",1,2540
+March,276,Australia,"Trucks and Buses","1926 Ford Fire Engine",1,2540
+April,382,Austria,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,2540
+November,471,Australia,"Vintage Cars","1917 Maxwell Touring Car",1,2540
+July,119,France,Motorcycles,"1996 Moto Guzzi 1100i",1,2538
+October,259,Germany,"Classic Cars","1968 Dodge Charger",1,2537
+November,114,Australia,"Classic Cars","1995 Honda Civic",1,2535
+October,259,Germany,"Classic Cars","1969 Dodge Charger",1,2534
+April,145,Denmark,"Classic Cars","1971 Alpine Renault 1600s",1,2532
+September,148,Singapore,"Vintage Cars","18th Century Vintage Horse Carriage",1,2532
+May,362,USA,Ships,"The Mayflower",1,2532
+January,141,Spain,"Classic Cars","1970 Chevy Chevelle SS 454",1,2531
+December,357,"New Zealand",Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,2531
+January,124,USA,"Trucks and Buses","1962 Volkswagen Microbus",1,2530
+May,131,USA,"Classic Cars","1972 Alfa Romeo GTA",1,2530
+November,386,Italy,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,2529
+November,172,France,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,2529
+January,406,France,"Classic Cars","1971 Alpine Renault 1600s",1,2528
+November,276,Australia,Motorcycles,"1982 Ducati 900 Monster",1,2527
+May,334,Finland,Trains,"1962 City of Detroit Streetcar",1,2526
+February,298,Switzerland,"Classic Cars","1968 Dodge Charger",1,2525
+May,131,USA,Ships,"The Titanic",1,2524
+February,239,USA,Ships,"The Queen Mary",1,2524
+April,260,Canada,Planes,"1900s Vintage Tri-Plane",1,2521
+October,161,USA,Motorcycles,"1997 BMW F650 ST",1,2517
+February,145,Denmark,Ships,"The Mayflower",1,2512
+April,209,France,"Classic Cars","1965 Aston Martin DB5",1,2509
+May,450,USA,Planes,"American Airlines: MD-11S",1,2504
+February,141,Spain,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,2503
+June,362,USA,"Classic Cars","1957 Corvette Convertible",1,2500
+December,141,Spain,Trains,"1962 City of Detroit Streetcar",1,2500
+February,239,USA,Ships,"The USS Constitution Ship",1,2498
+September,141,Spain,Ships,"The Mayflower",1,2497
+January,475,USA,"Vintage Cars","1937 Lincoln Berline",1,2497
+October,299,"Norway  ","Classic Cars","1999 Indy 500 Monte Carlo SS",1,2497
+October,319,USA,Planes,"Corsair F4U ( Bird Cage)",1,2494
+September,141,Spain,Ships,"The Schooner Bluenose",1,2494
+October,141,Spain,"Classic Cars","1949 Jaguar XK 120",1,2493
+November,339,USA,"Trucks and Buses","1940s Ford truck",1,2492
+April,141,Spain,"Vintage Cars","18th Century Vintage Horse Carriage",1,2490
+January,121,Norway,"Vintage Cars","1913 Ford Model T Speedster",1,2489
+December,323,"New Zealand","Classic Cars","1969 Dodge Super Bee",1,2489
+December,495,USA,Trains,"1950's Chicago Surface Lines Streetcar",1,2488
+March,141,Spain,Ships,"The USS Constitution Ship",1,2487
+October,119,France,Ships,"The Schooner Bluenose",1,2487
+November,278,Italy,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,2484
+October,259,Germany,Motorcycles,"1957 Vespa GS150",1,2481
+October,321,USA,"Classic Cars","1971 Alpine Renault 1600s",1,2480
+January,311,Finland,"Vintage Cars","1937 Horch 930V Limousine",1,2480
+June,175,USA,Motorcycles,"1960 BSA Gold Star DBD34",1,2480
+June,201,UK,"Classic Cars","1965 Aston Martin DB5",1,2479
+October,286,USA,"Trucks and Buses","1940s Ford truck",1,2477
+November,489,UK,"Vintage Cars","1940 Ford Delivery Sedan",1,2476
+November,131,USA,"Classic Cars","1969 Dodge Super Bee",1,2475
+November,121,Norway,Trains,"1962 City of Detroit Streetcar",1,2475
+November,141,Spain,Motorcycles,"1982 Ducati 900 Monster",1,2473
+October,256,France,"Vintage Cars","1932 Model A Ford J-Coupe",1,2472
+March,128,Germany,Trains,"1962 City of Detroit Streetcar",1,2469
+November,167,"Norway  ",Motorcycles,"1960 BSA Gold Star DBD34",1,2468
+March,141,Spain,Ships,"HMS Bounty",1,2468
+December,141,Spain,"Classic Cars","1970 Dodge Coronet",1,2467
+September,166,Singapore,"Classic Cars","1966 Shelby Cobra 427 S/C",1,2465
+August,298,Switzerland,"Classic Cars","1969 Dodge Charger",1,2463
+May,282,Australia,"Classic Cars","1957 Ford Thunderbird",1,2463
+February,119,France,Planes,"ATA: B757-300",1,2462
+January,311,Finland,Ships,"HMS Bounty",1,2462
+January,177,Japan,Planes,"ATA: B757-300",1,2462
+November,496,"New Zealand",Planes,"ATA: B757-300",1,2462
+August,112,USA,"Classic Cars","1965 Aston Martin DB5",1,2461
+February,141,Spain,Trains,"1950's Chicago Surface Lines Streetcar",1,2461
+April,114,Australia,Motorcycles,"1960 BSA Gold Star DBD34",1,2460
+February,141,Spain,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,2459
+May,450,USA,Planes,"Corsair F4U ( Bird Cage)",1,2457
+October,319,USA,Planes,"American Airlines: MD-11S",1,2454
+July,119,France,Planes,"P-51-D Mustang",1,2454
+November,131,USA,"Classic Cars","1970 Plymouth Hemi Cuda",1,2449
+November,211,"Hong Kong",Planes,"F/A 18 Hornet 1/72",1,2448
+August,286,USA,Motorcycles,"1982 Ducati 900 Monster",1,2448
+August,260,Canada,"Vintage Cars","1904 Buick Runabout",1,2447
+March,412,"New Zealand","Vintage Cars","1940 Ford Delivery Sedan",1,2444
+November,324,UK,"Trucks and Buses","1926 Ford Fire Engine",1,2442
+May,112,USA,"Vintage Cars","1911 Ford Town Car",1,2441
+April,450,USA,"Vintage Cars","1911 Ford Town Car",1,2441
+October,148,Singapore,"Trucks and Buses","1954 Greyhound Scenicruiser",1,2441
+February,131,USA,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,2440
+July,282,Australia,"Vintage Cars","1917 Maxwell Touring Car",1,2440
+November,471,Australia,"Vintage Cars","1913 Ford Model T Speedster",1,2440
+January,177,Japan,Planes,"America West Airlines B757-200",1,2437
+September,448,Sweden,"Classic Cars","1982 Camaro Z28",1,2436
+November,161,USA,Planes,"1900s Vintage Tri-Plane",1,2434
+July,119,France,Planes,"1928 British Royal Navy Airplane",1,2434
+December,447,USA,Planes,"1900s Vintage Tri-Plane",1,2434
+December,141,Spain,Ships,"The Queen Mary",1,2433
+October,148,Singapore,Trains,"1950's Chicago Surface Lines Streetcar",1,2433
+March,173,USA,"Vintage Cars","1913 Ford Model T Speedster",1,2431
+February,473,Italy,"Trucks and Buses","1964 Mercedes Tour Bus",1,2430
+November,124,USA,"Classic Cars","1969 Chevrolet Camaro Z28",1,2429
+December,151,USA,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,2429
+July,386,Italy,"Classic Cars","1968 Dodge Charger",1,2429
+July,314,Belgium,Ships,"The USS Constitution Ship",1,2428
+November,144,Sweden,"Classic Cars","1970 Plymouth Hemi Cuda",1,2426
+September,186,Finland,Motorcycles,"1957 Vespa GS150",1,2425
+February,131,USA,Motorcycles,"1997 BMW R 1100 S",1,2423
+September,148,Singapore,"Classic Cars","1962 LanciaA Delta 16V",1,2423
+August,157,USA,"Trucks and Buses","1940s Ford truck",1,2422
+February,141,Spain,"Classic Cars","1971 Alpine Renault 1600s",1,2422
+January,311,Finland,Planes,"Corsair F4U ( Bird Cage)",1,2422
+October,321,USA,Motorcycles,"2002 Yamaha YZR M1",1,2421
+July,124,USA,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,2420
+June,151,USA,"Trucks and Buses","1957 Chevy Pickup",1,2418
+March,124,USA,Ships,"The Schooner Bluenose",1,2418
+May,141,Spain,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,2417
+October,286,USA,"Trucks and Buses","1926 Ford Fire Engine",1,2417
+December,124,USA,"Trucks and Buses","1926 Ford Fire Engine",1,2417
+May,455,USA,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,2417
+November,344,Spain,Ships,"The Mayflower",1,2416
+March,412,"New Zealand",Ships,"HMS Bounty",1,2415
+September,166,Singapore,"Classic Cars","1965 Aston Martin DB5",1,2414
+December,151,USA,"Classic Cars","1970 Dodge Coronet",1,2414
+August,334,Finland,"Trucks and Buses","1957 Chevy Pickup",1,2414
+March,141,Spain,Ships,"The Queen Mary",1,2413
+January,334,Finland,Motorcycles,"1982 Ducati 900 Monster",1,2412
+September,166,Singapore,"Classic Cars","1970 Chevy Chevelle SS 454",1,2408
+April,172,France,"Trucks and Buses","1926 Ford Fire Engine",1,2407
+November,456,USA,Motorcycles,"1957 Vespa GS150",1,2407
+November,211,"Hong Kong",Planes,"Corsair F4U ( Bird Cage)",1,2406
+August,286,USA,Motorcycles,"1960 BSA Gold Star DBD34",1,2406
+July,314,Belgium,"Vintage Cars","1904 Buick Runabout",1,2404
+August,157,USA,"Classic Cars","1982 Camaro Z28",1,2403
+February,124,USA,"Trucks and Buses","1962 Volkswagen Microbus",1,2402
+April,114,Australia,Planes,"P-51-D Mustang",1,2401
+May,353,France,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,2398
+September,141,Spain,Trains,"Collectable Wooden Train",1,2398
+October,319,USA,Motorcycles,"1997 BMW F650 ST",1,2397
+November,320,USA,Ships,"The USS Constitution Ship",1,2396
+November,146,France,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,2395
+November,167,"Norway  ",Motorcycles,"1997 BMW R 1100 S",1,2395
+December,353,France,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,2394
+November,382,Austria,Planes,"F/A 18 Hornet 1/72",1,2394
+February,298,Switzerland,"Classic Cars","1970 Plymouth Hemi Cuda",1,2392
+November,319,USA,"Classic Cars","1970 Dodge Coronet",1,2391
+April,260,Canada,Planes,"American Airlines: MD-11S",1,2391
+November,320,USA,Ships,"The Mayflower",1,2390
+February,141,Spain,"Vintage Cars","1937 Lincoln Berline",1,2386
+December,282,Australia,Planes,"America West Airlines B757-200",1,2385
+May,112,USA,"Classic Cars","1949 Jaguar XK 120",1,2384
+March,141,Spain,Planes,"Boeing X-32A JSF",1,2384
+July,119,France,Planes,"Corsair F4U ( Bird Cage)",1,2378
+March,448,Sweden,"Classic Cars","1968 Dodge Charger",1,2378
+May,131,USA,Ships,"The Schooner Bluenose",1,2376
+March,328,USA,Ships,"The Schooner Bluenose",1,2376
+March,124,USA,Motorcycles,"1982 Ducati 900 Monster",1,2375
+July,386,Italy,"Classic Cars","1970 Plymouth Hemi Cuda",1,2374
+June,450,USA,"Vintage Cars","1917 Maxwell Touring Car",1,2373
+August,205,USA,Planes,"1900s Vintage Tri-Plane",1,2367
+November,144,Sweden,Ships,"The Schooner Bluenose",1,2366
+March,124,USA,"Classic Cars","1971 Alpine Renault 1600s",1,2366
+October,187,UK,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,2360
+April,486,USA,Motorcycles,"1960 BSA Gold Star DBD34",1,2358
+May,362,USA,Ships,"The Titanic",1,2356
+November,385,Philippines,Motorcycles,"1982 Ducati 900 Monster",1,2356
+April,260,Canada,Planes,"F/A 18 Hornet 1/72",1,2355
+August,249,Italy,"Trucks and Buses","1940 Ford Pickup Truck",1,2352
+November,278,Italy,Planes,"F/A 18 Hornet 1/72",1,2350
+May,112,USA,"Classic Cars","1952 Citroen-15CV",1,2349
+September,249,Italy,Ships,"18th century schooner",1,2348
+July,161,USA,"Trucks and Buses","1926 Ford Fire Engine",1,2348
+May,406,France,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,2347
+March,353,France,Planes,"ATA: B757-300",1,2347
+August,157,USA,"Trucks and Buses","1980â€™s GM Manhattan Express",1,2346
+May,471,Australia,Ships,"HMS Bounty",1,2346
+August,299,"Norway  ",Planes,"American Airlines: MD-11S",1,2345
+October,256,France,"Vintage Cars","18th Century Vintage Horse Carriage",1,2342
+November,489,UK,Ships,"1999 Yamaha Speed Boat",1,2340
+May,455,USA,"Trucks and Buses","1940s Ford truck",1,2339
+August,249,Italy,"Vintage Cars","1934 Ford V8 Coupe",1,2337
+October,448,Sweden,Ships,"The Queen Mary",1,2336
+May,334,Finland,Trains,"1950's Chicago Surface Lines Streetcar",1,2336
+December,496,"New Zealand",Planes,"1928 British Royal Navy Airplane",1,2335
+August,299,"Norway  ","Vintage Cars","1937 Horch 930V Limousine",1,2333
+January,334,Finland,"Classic Cars","1970 Plymouth Hemi Cuda",1,2333
+October,219,USA,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,2332
+March,129,USA,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,2329
+September,415,Germany,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,2329
+April,486,USA,Motorcycles,"1996 Moto Guzzi 1100i",1,2329
+June,141,Spain,Ships,"The Mayflower",1,2328
+November,240,UK,Planes,"1928 British Royal Navy Airplane",1,2325
+November,124,USA,"Classic Cars","1952 Citroen-15CV",1,2325
+July,314,Belgium,Ships,"The Queen Mary",1,2324
+March,353,France,Planes,"Corsair F4U ( Bird Cage)",1,2322
+April,328,USA,"Vintage Cars","1930 Buick Marquette Phaeton",1,2322
+September,415,Germany,Planes,"America West Airlines B757-200",1,2322
+December,141,Spain,"Classic Cars","1982 Camaro Z28",1,2321
+December,324,UK,Planes,"Corsair F4U ( Bird Cage)",1,2320
+November,363,USA,"Classic Cars","1966 Shelby Cobra 427 S/C",1,2317
+July,157,USA,Trains,"1962 City of Detroit Streetcar",1,2317
+February,114,Australia,Motorcycles,"1960 BSA Gold Star DBD34",1,2316
+January,347,USA,Ships,"1999 Yamaha Speed Boat",1,2312
+September,189,Ireland,Motorcycles,"1997 BMW F650 ST",1,2311
+November,242,France,Planes,"1900s Vintage Bi-Plane",1,2306
+November,353,France,"Classic Cars","1961 Chevrolet Impala",1,2304
+December,141,Spain,Motorcycles,"1982 Ducati 900 Monster",1,2300
+November,146,France,"Trucks and Buses","1926 Ford Fire Engine",1,2297
+May,362,USA,Ships,"The Schooner Bluenose",1,2294
+March,141,Spain,Planes,"Corsair F4U ( Bird Cage)",1,2294
+January,398,Japan,Trains,"Collectable Wooden Train",1,2294
+March,187,UK,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,2293
+September,311,Finland,"Trucks and Buses","1980â€™s GM Manhattan Express",1,2288
+October,473,Italy,Planes,"P-51-D Mustang",1,2286
+November,240,UK,Planes,"1900s Vintage Bi-Plane",1,2283
+August,320,USA,Ships,"HMS Bounty",1,2283
+May,450,USA,Planes,"P-51-D Mustang",1,2281
+June,362,USA,Motorcycles,"1982 Ducati 900 Monster",1,2281
+July,161,USA,"Trucks and Buses","1980â€™s GM Manhattan Express",1,2279
+November,278,Italy,"Classic Cars","1957 Ford Thunderbird",1,2279
+November,339,USA,"Trucks and Buses","1940 Ford Pickup Truck",1,2278
+August,205,USA,Planes,"ATA: B757-300",1,2278
+September,311,Finland,"Trucks and Buses","1926 Ford Fire Engine",1,2275
+June,323,"New Zealand","Classic Cars","1970 Chevy Chevelle SS 454",1,2274
+July,379,USA,Planes,"1900s Vintage Bi-Plane",1,2274
+February,141,Spain,"Classic Cars","1970 Chevy Chevelle SS 454",1,2274
+March,385,Philippines,Motorcycles,"1957 Vespa GS150",1,2272
+July,314,Belgium,Ships,"18th century schooner",1,2271
+July,386,Italy,"Classic Cars","1999 Indy 500 Monte Carlo SS",1,2270
+July,314,Belgium,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,2270
+August,124,USA,Ships,"The Schooner Bluenose",1,2269
+April,260,Canada,"Vintage Cars","1928 Ford Phaeton Deluxe",1,2269
+November,278,Italy,Planes,"American Airlines: B767-300",1,2269
+November,278,Italy,"Classic Cars","1952 Citroen-15CV",1,2269
+March,452,Austria,"Vintage Cars","1934 Ford V8 Coupe",1,2265
+November,381,Belgium,Ships,"1999 Yamaha Speed Boat",1,2264
+October,227,Denmark,"Classic Cars","1970 Dodge Coronet",1,2263
+December,198,USA,Planes,"Boeing X-32A JSF",1,2263
+January,205,USA,"Vintage Cars","1911 Ford Town Car",1,2261
+September,249,Italy,Ships,"The Mayflower",1,2261
+October,161,USA,Motorcycles,"1936 Harley Davidson El Knucklehead",1,2257
+September,379,USA,"Classic Cars","1961 Chevrolet Impala",1,2256
+March,141,Spain,Ships,"Pont Yacht",1,2254
+March,385,Philippines,Motorcycles,"1982 Ducati 900 Monster",1,2254
+June,141,Spain,Planes,"American Airlines: MD-11S",1,2254
+April,357,"New Zealand","Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,2253
+December,496,"New Zealand",Ships,"The Mayflower",1,2252
+April,450,USA,"Vintage Cars","1937 Horch 930V Limousine",1,2249
+June,201,UK,"Classic Cars","1968 Dodge Charger",1,2248
+December,495,USA,"Trucks and Buses","1926 Ford Fire Engine",1,2248
+November,171,France,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,2245
+April,450,USA,Ships,"1999 Yamaha Speed Boat",1,2245
+September,189,Ireland,Motorcycles,"1960 BSA Gold Star DBD34",1,2243
+January,276,Australia,"Trucks and Buses","1964 Mercedes Tour Bus",1,2241
+November,471,Australia,"Vintage Cars","18th Century Vintage Horse Carriage",1,2240
+January,311,Finland,Planes,"1900s Vintage Bi-Plane",1,2239
+August,299,"Norway  ",Planes,"1928 British Royal Navy Airplane",1,2239
+March,353,France,Planes,"American Airlines: MD-11S",1,2239
+July,124,USA,Motorcycles,"1957 Vespa GS150",1,2238
+November,172,France,"Classic Cars","1970 Dodge Coronet",1,2237
+July,124,USA,"Classic Cars","1970 Dodge Coronet",1,2237
+November,462,USA,"Classic Cars","1949 Jaguar XK 120",1,2235
+January,406,France,"Classic Cars","1970 Plymouth Hemi Cuda",1,2234
+November,363,USA,"Trucks and Buses","1940 Ford Pickup Truck",1,2233
+December,141,Spain,"Classic Cars","1968 Dodge Charger",1,2231
+June,175,USA,Planes,"P-51-D Mustang",1,2230
+February,171,France,Motorcycles,"1982 Ducati 900 Monster",1,2230
+November,398,Japan,Planes,"1928 British Royal Navy Airplane",1,2229
+February,124,USA,"Trucks and Buses","1980â€™s GM Manhattan Express",1,2229
+June,233,Canada,Ships,"The Titanic",1,2229
+September,276,Australia,"Classic Cars","1969 Chevrolet Camaro Z28",1,2229
+March,129,USA,"Vintage Cars","1936 Chrysler Airflow",1,2228
+November,363,USA,"Vintage Cars","1934 Ford V8 Coupe",1,2228
+March,353,France,Planes,"F/A 18 Hornet 1/72",1,2227
+January,177,Japan,"Vintage Cars","1928 Ford Phaeton Deluxe",1,2227
+July,119,France,Motorcycles,"1997 BMW R 1100 S",1,2225
+May,131,USA,Ships,"The USS Constitution Ship",1,2220
+November,171,France,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,2220
+November,216,Spain,Planes,"American Airlines: B767-300",1,2220
+November,363,USA,"Classic Cars","1969 Chevrolet Camaro Z28",1,2219
+March,141,Spain,Planes,"1900s Vintage Bi-Plane",1,2218
+March,242,France,Ships,"The Mayflower",1,2217
+January,121,Norway,"Vintage Cars","1936 Chrysler Airflow",1,2216
+August,320,USA,Planes,"American Airlines: MD-11S",1,2215
+April,260,Canada,Planes,"American Airlines: B767-300",1,2215
+February,145,Denmark,Ships,"The Schooner Bluenose",1,2214
+November,424,USA,"Vintage Cars","1904 Buick Runabout",1,2214
+October,339,USA,Ships,"1999 Yamaha Speed Boat",1,2213
+October,319,USA,Planes,"P-51-D Mustang",1,2213
+March,141,Spain,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,2213
+October,462,USA,Ships,"The Mayflower",1,2210
+November,471,Australia,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,2209
+May,314,Belgium,"Vintage Cars","1936 Chrysler Airflow",1,2209
+March,240,UK,Ships,"The Mayflower",1,2207
+December,141,Spain,"Classic Cars","1969 Dodge Super Bee",1,2202
+March,124,USA,Trains,"Collectable Wooden Train",1,2202
+December,141,Spain,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,2199
+October,473,Italy,Planes,"1900s Vintage Tri-Plane",1,2199
+October,128,Germany,"Classic Cars","1969 Dodge Charger",1,2198
+May,382,Austria,"Classic Cars","1970 Plymouth Hemi Cuda",1,2198
+October,452,Austria,"Trucks and Buses","1980â€™s GM Manhattan Express",1,2196
+October,141,Spain,"Classic Cars","1966 Shelby Cobra 427 S/C",1,2196
+May,455,USA,"Vintage Cars","1939 Cadillac Limousine",1,2196
+May,382,Austria,"Classic Cars","1968 Ford Mustang",1,2195
+May,458,Spain,"Trucks and Buses","1926 Ford Fire Engine",1,2195
+November,167,"Norway  ","Classic Cars","1969 Dodge Super Bee",1,2195
+February,166,Singapore,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,2193
+November,114,Australia,"Vintage Cars","1917 Maxwell Touring Car",1,2193
+November,131,USA,Motorcycles,"1996 Moto Guzzi 1100i",1,2188
+August,141,Spain,"Classic Cars","1970 Chevy Chevelle SS 454",1,2187
+April,181,USA,Motorcycles,"1997 BMW R 1100 S",1,2186
+February,145,Denmark,Ships,"The Queen Mary",1,2185
+October,286,USA,"Classic Cars","1970 Dodge Coronet",1,2185
+November,146,France,"Trucks and Buses","1940 Ford Pickup Truck",1,2181
+November,112,USA,"Classic Cars","1949 Jaguar XK 120",1,2181
+November,462,USA,"Classic Cars","2002 Chevy Corvette",1,2181
+December,282,Australia,Planes,"American Airlines: MD-11S",1,2177
+March,141,Spain,Planes,"F/A 18 Hornet 1/72",1,2176
+September,276,Australia,"Classic Cars","1966 Shelby Cobra 427 S/C",1,2176
+February,141,Spain,Trains,"Collectable Wooden Train",1,2176
+June,233,Canada,Ships,"The Schooner Bluenose",1,2176
+February,171,France,Motorcycles,"1957 Vespa GS150",1,2174
+January,121,Norway,"Vintage Cars","18th Century Vintage Horse Carriage",1,2173
+March,187,UK,"Classic Cars","1969 Chevrolet Camaro Z28",1,2173
+March,353,France,Planes,"America West Airlines B757-200",1,2172
+November,333,Australia,"Vintage Cars","1939 Cadillac Limousine",1,2169
+January,121,Norway,"Vintage Cars","1934 Ford V8 Coupe",1,2164
+May,103,France,"Classic Cars","1966 Shelby Cobra 427 S/C",1,2164
+February,141,Spain,"Vintage Cars","1904 Buick Runabout",1,2163
+October,321,USA,Motorcycles,"1936 Harley Davidson El Knucklehead",1,2162
+February,278,Italy,"Vintage Cars","1928 Ford Phaeton Deluxe",1,2157
+August,205,USA,Planes,"P-51-D Mustang",1,2154
+January,124,USA,"Trucks and Buses","1980â€™s GM Manhattan Express",1,2154
+September,448,Sweden,"Trucks and Buses","1980â€™s GM Manhattan Express",1,2154
+June,151,USA,"Classic Cars","1992 Porsche Cayenne Turbo Silver",1,2153
+April,382,Austria,Ships,"HMS Bounty",1,2153
+January,146,France,Ships,"The Schooner Bluenose",1,2153
+May,458,Spain,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,2151
+August,320,USA,Ships,"The USS Constitution Ship",1,2151
+April,172,France,"Trucks and Buses","1962 Volkswagen Microbus",1,2147
+September,448,Sweden,"Vintage Cars","18th Century Vintage Horse Carriage",1,2144
+November,398,Japan,Planes,"P-51-D Mustang",1,2144
+August,157,USA,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,2141
+October,141,Spain,"Classic Cars","1969 Chevrolet Camaro Z28",1,2140
+October,448,Sweden,"Vintage Cars","1940 Ford Delivery Sedan",1,2140
+June,447,USA,Planes,"1900s Vintage Bi-Plane",1,2134
+October,219,USA,Ships,"The USS Constitution Ship",1,2134
+December,141,Spain,Ships,"The Mayflower",1,2134
+November,456,USA,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,2133
+November,471,Australia,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,2133
+November,171,France,Motorcycles,"1982 Ducati 900 Monster",1,2133
+March,146,France,"Vintage Cars","1937 Lincoln Berline",1,2132
+November,211,"Hong Kong",Planes,"1900s Vintage Tri-Plane",1,2128
+February,321,USA,"Trucks and Buses","1926 Ford Fire Engine",1,2127
+December,282,Australia,"Vintage Cars","1937 Horch 930V Limousine",1,2124
+January,347,USA,Planes,"Boeing X-32A JSF",1,2122
+August,299,"Norway  ",Planes,"P-51-D Mustang",1,2121
+August,112,USA,"Classic Cars","1948 Porsche 356-A Roadster",1,2121
+September,186,Finland,"Classic Cars","1961 Chevrolet Impala",1,2121
+November,344,Spain,Ships,"Pont Yacht",1,2118
+November,172,France,Trains,"Collectable Wooden Train",1,2118
+November,131,USA,Motorcycles,"1936 Harley Davidson El Knucklehead",1,2117
+May,141,Spain,Motorcycles,"1936 Harley Davidson El Knucklehead",1,2115
+April,181,USA,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,2113
+November,124,USA,"Vintage Cars","1932 Model A Ford J-Coupe",1,2110
+December,124,USA,"Vintage Cars","1917 Maxwell Touring Car",1,2108
+November,259,Germany,"Classic Cars","1970 Plymouth Hemi Cuda",1,2107
+December,141,Spain,"Vintage Cars","1904 Buick Runabout",1,2107
+December,151,USA,"Classic Cars","1966 Shelby Cobra 427 S/C",1,2106
+December,141,Spain,"Classic Cars","1961 Chevrolet Impala",1,2105
+August,299,"Norway  ",Planes,"American Airlines: B767-300",1,2105
+January,141,Spain,"Classic Cars","1969 Chevrolet Camaro Z28",1,2104
+April,311,Finland,"Classic Cars","1969 Dodge Charger",1,2104
+November,146,France,"Classic Cars","1982 Camaro Z28",1,2104
+February,298,Switzerland,"Classic Cars","1969 Dodge Charger",1,2104
+December,496,"New Zealand",Ships,"The USS Constitution Ship",1,2103
+February,114,Australia,Planes,"American Airlines: B767-300",1,2101
+February,278,Italy,Planes,"Boeing X-32A JSF",1,2098
+October,161,USA,Motorcycles,"1960 BSA Gold Star DBD34",1,2098
+May,350,France,"Classic Cars","1969 Dodge Charger",1,2096
+December,324,UK,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,2096
+February,239,USA,Ships,"HMS Bounty",1,2095
+June,151,USA,"Trucks and Buses","1954 Greyhound Scenicruiser",1,2094
+May,350,France,"Classic Cars","1970 Plymouth Hemi Cuda",1,2094
+July,496,"New Zealand","Classic Cars","2002 Chevy Corvette",1,2091
+September,198,USA,"Vintage Cars","1917 Maxwell Touring Car",1,2089
+April,114,Australia,Motorcycles,"1997 BMW F650 ST",1,2088
+November,157,USA,Motorcycles,"1936 Harley Davidson El Knucklehead",1,2086
+November,276,Australia,"Classic Cars","1969 Dodge Super Bee",1,2084
+December,211,"Hong Kong",Planes,"P-51-D Mustang",1,2082
+April,114,Australia,Planes,"1900s Vintage Tri-Plane",1,2080
+September,448,Sweden,"Vintage Cars","1934 Ford V8 Coupe",1,2080
+March,385,Philippines,"Classic Cars","1961 Chevrolet Impala",1,2080
+November,124,USA,"Vintage Cars","1937 Lincoln Berline",1,2080
+March,124,USA,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,2079
+March,353,France,"Vintage Cars","1937 Horch 930V Limousine",1,2079
+August,320,USA,Planes,"America West Airlines B757-200",1,2074
+October,121,Norway,Motorcycles,"2002 Yamaha YZR M1",1,2073
+November,124,USA,"Vintage Cars","1911 Ford Town Car",1,2071
+December,496,"New Zealand",Ships,"The Schooner Bluenose",1,2069
+July,119,France,Motorcycles,"1997 BMW F650 ST",1,2068
+May,314,Belgium,"Vintage Cars","18th Century Vintage Horse Carriage",1,2067
+May,350,France,Motorcycles,"1957 Vespa GS150",1,2067
+December,282,Australia,Ships,"HMS Bounty",1,2064
+February,314,Belgium,Trains,"Collectable Wooden Train",1,2064
+April,260,Canada,Planes,"1928 British Royal Navy Airplane",1,2064
+November,424,USA,Ships,"Pont Yacht",1,2064
+October,448,Sweden,"Vintage Cars","1937 Horch 930V Limousine",1,2062
+July,496,"New Zealand","Classic Cars","1949 Jaguar XK 120",1,2061
+November,114,Australia,"Vintage Cars","1934 Ford V8 Coupe",1,2060
+January,177,Japan,Motorcycles,"1936 Harley Davidson El Knucklehead",1,2059
+November,344,Spain,Ships,"The USS Constitution Ship",1,2059
+February,114,Australia,Planes,"F/A 18 Hornet 1/72",1,2059
+November,278,Italy,"Vintage Cars","1936 Chrysler Airflow",1,2057
+November,320,USA,Ships,"The Queen Mary",1,2054
+October,119,France,Ships,"Pont Yacht",1,2053
+November,462,USA,"Classic Cars","1966 Shelby Cobra 427 S/C",1,2052
+November,462,USA,"Classic Cars","1970 Chevy Chevelle SS 454",1,2050
+December,324,UK,"Vintage Cars","1937 Horch 930V Limousine",1,2049
+February,321,USA,"Vintage Cars","1934 Ford V8 Coupe",1,2049
+September,189,Ireland,Planes,"P-51-D Mustang",1,2049
+November,129,USA,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,2048
+November,187,UK,"Vintage Cars","1911 Ford Town Car",1,2047
+March,462,USA,"Vintage Cars","1928 Ford Phaeton Deluxe",1,2046
+December,141,Spain,"Classic Cars","1982 Lamborghini Diablo",2,2044
+April,201,UK,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,2044
+October,227,Denmark,Trains,"1950's Chicago Surface Lines Streetcar",1,2044
+October,448,Sweden,Ships,"The Titanic",1,2043
+February,166,Singapore,"Trucks and Buses","1926 Ford Fire Engine",1,2042
+November,216,Spain,Ships,"Pont Yacht",1,2041
+January,128,Germany,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,2040
+November,456,USA,Motorcycles,"1982 Ducati 900 Monster",1,2040
+October,321,USA,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,2038
+May,386,Italy,Planes,"American Airlines: B767-300",1,2038
+January,347,USA,"Vintage Cars","1937 Horch 930V Limousine",1,2036
+December,323,"New Zealand",Motorcycles,"1997 BMW R 1100 S",1,2035
+October,121,Norway,Motorcycles,"1997 BMW R 1100 S",1,2035
+May,458,Spain,"Vintage Cars","1939 Cadillac Limousine",1,2033
+April,114,Australia,"Vintage Cars","1930 Buick Marquette Phaeton",1,2032
+March,448,Sweden,Motorcycles,"1936 Harley Davidson El Knucklehead",1,2032
+December,250,France,Motorcycles,"2002 Yamaha YZR M1",1,2031
+September,415,Germany,Planes,"Corsair F4U ( Bird Cage)",1,2031
+May,233,Canada,"Trucks and Buses","1980â€™s GM Manhattan Express",1,2028
+November,240,UK,Planes,"Corsair F4U ( Bird Cage)",1,2027
+May,450,USA,Motorcycles,"1960 BSA Gold Star DBD34",1,2023
+September,249,Italy,Trains,"Collectable Wooden Train",1,2019
+January,146,France,Ships,"Pont Yacht",1,2018
+April,328,USA,Planes,"ATA: B757-300",1,2018
+November,242,France,Planes,"America West Airlines B757-200",1,2018
+April,201,UK,Motorcycles,"2002 Yamaha YZR M1",1,2018
+November,382,Austria,Motorcycles,"1982 Ducati 900 Monster",1,2017
+November,276,Australia,Motorcycles,"1957 Vespa GS150",1,2008
+November,344,Spain,Ships,"The Queen Mary",1,2002
+November,363,USA,"Trucks and Buses","1926 Ford Fire Engine",1,1999
+May,386,Italy,Motorcycles,"1960 BSA Gold Star DBD34",1,1999
+November,339,USA,"Vintage Cars","1934 Ford V8 Coupe",1,1998
+April,114,Australia,"Vintage Cars","1928 Ford Phaeton Deluxe",1,1995
+October,321,USA,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,1995
+March,276,Australia,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,1992
+April,201,UK,Motorcycles,"1957 Vespa GS150",1,1992
+November,124,USA,"Trucks and Buses","1954 Greyhound Scenicruiser",1,1991
+September,131,USA,"Trucks and Buses","1957 Chevy Pickup",1,1991
+December,141,Spain,Ships,"The USS Constitution Ship",1,1991
+March,124,USA,"Classic Cars","1961 Chevrolet Impala",1,1989
+December,141,Spain,"Trucks and Buses","1964 Mercedes Tour Bus",1,1988
+November,496,"New Zealand",Planes,"P-51-D Mustang",1,1987
+January,177,Japan,Planes,"F/A 18 Hornet 1/72",1,1984
+June,323,"New Zealand","Vintage Cars","1911 Ford Town Car",1,1983
+November,339,USA,"Vintage Cars","18th Century Vintage Horse Carriage",1,1981
+November,386,Italy,Trains,"1962 City of Detroit Streetcar",1,1981
+November,339,USA,"Classic Cars","1982 Camaro Z28",1,1978
+December,202,Canada,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,1978
+September,415,Germany,"Vintage Cars","1937 Horch 930V Limousine",1,1977
+March,353,France,Ships,"1999 Yamaha Speed Boat",1,1975
+March,124,USA,"Trucks and Buses","1980â€™s GM Manhattan Express",1,1974
+August,320,USA,"Vintage Cars","1937 Horch 930V Limousine",1,1974
+November,240,UK,Planes,"America West Airlines B757-200",1,1972
+November,324,UK,"Trucks and Buses","1980â€™s GM Manhattan Express",1,1971
+August,320,USA,Planes,"F/A 18 Hornet 1/72",1,1971
+March,328,USA,Ships,"The USS Constitution Ship",1,1970
+January,475,USA,"Vintage Cars","1939 Cadillac Limousine",1,1967
+April,260,Canada,Planes,"P-51-D Mustang",1,1967
+March,323,"New Zealand","Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,1964
+April,114,Australia,Planes,"America West Airlines B757-200",1,1962
+November,350,France,"Vintage Cars","1911 Ford Town Car",1,1962
+August,172,France,Motorcycles,"1957 Vespa GS150",1,1961
+November,278,Italy,Planes,"Corsair F4U ( Bird Cage)",1,1959
+November,146,France,"Vintage Cars","1939 Cadillac Limousine",1,1959
+March,144,Sweden,"Vintage Cars","1913 Ford Model T Speedster",1,1957
+January,458,Spain,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1954
+September,487,USA,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1954
+August,299,"Norway  ",Planes,"1900s Vintage Bi-Plane",1,1952
+November,175,USA,"Classic Cars","1970 Chevy Chevelle SS 454",1,1952
+July,124,USA,Motorcycles,"1982 Ducati 900 Monster",1,1948
+January,347,USA,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,1948
+November,319,USA,Trains,"1950's Chicago Surface Lines Streetcar",1,1948
+October,286,USA,"Trucks and Buses","1954 Greyhound Scenicruiser",1,1948
+October,227,Denmark,Trains,"Collectable Wooden Train",1,1948
+March,124,USA,Motorcycles,"1957 Vespa GS150",1,1947
+January,141,Spain,"Classic Cars","1966 Shelby Cobra 427 S/C",1,1947
+May,350,France,"Classic Cars","1961 Chevrolet Impala",1,1946
+November,458,Spain,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,1944
+September,186,Finland,Motorcycles,"1982 Ducati 900 Monster",1,1943
+September,131,USA,"Classic Cars","1970 Dodge Coronet",1,1942
+December,447,USA,Planes,"P-51-D Mustang",1,1939
+August,260,Canada,Ships,"The Titanic",1,1939
+September,103,France,Motorcycles,"1936 Harley Davidson El Knucklehead",1,1938
+August,124,USA,Ships,"The Titanic",1,1935
+November,489,UK,Ships,"HMS Bounty",1,1933
+November,175,USA,"Classic Cars","2002 Chevy Corvette",1,1932
+November,112,USA,"Classic Cars","1969 Chevrolet Camaro Z28",1,1931
+January,311,Finland,"Vintage Cars","1940 Ford Delivery Sedan",1,1929
+December,141,Spain,"Vintage Cars","1940 Ford Delivery Sedan",1,1929
+November,240,UK,"Vintage Cars","1940 Ford Delivery Sedan",1,1929
+July,119,France,Motorcycles,"1936 Harley Davidson El Knucklehead",1,1927
+November,242,France,Planes,"Corsair F4U ( Bird Cage)",1,1925
+November,171,France,"Classic Cars","1961 Chevrolet Impala",1,1924
+October,186,Finland,"Vintage Cars","1937 Horch 930V Limousine",1,1923
+September,276,Australia,"Classic Cars","1957 Ford Thunderbird",1,1922
+November,131,USA,"Classic Cars","1948 Porsche 356-A Roadster",1,1920
+August,124,USA,"Vintage Cars","1904 Buick Runabout",1,1917
+October,227,Denmark,Trains,"1962 City of Detroit Streetcar",1,1914
+January,205,USA,"Classic Cars","1966 Shelby Cobra 427 S/C",1,1912
+October,227,Denmark,Ships,"The Mayflower",1,1912
+October,259,Germany,"Classic Cars","1969 Dodge Super Bee",1,1911
+February,186,Finland,"Classic Cars","1948 Porsche 356-A Roadster",1,1910
+March,141,Spain,"Vintage Cars","1937 Horch 930V Limousine",1,1910
+November,114,Australia,"Classic Cars","1969 Dodge Super Bee",1,1910
+May,131,USA,"Vintage Cars","1940 Ford Delivery Sedan",1,1909
+February,114,Australia,Motorcycles,"1997 BMW F650 ST",1,1909
+October,259,Germany,"Classic Cars","1971 Alpine Renault 1600s",1,1908
+October,299,"Norway  ","Classic Cars","2002 Chevy Corvette",1,1908
+October,161,USA,"Vintage Cars","1930 Buick Marquette Phaeton",1,1906
+May,362,USA,Ships,"The USS Constitution Ship",1,1905
+December,323,"New Zealand",Motorcycles,"1996 Moto Guzzi 1100i",1,1903
+March,353,France,"Vintage Cars","1930 Buick Marquette Phaeton",1,1903
+October,124,USA,"Vintage Cars","1934 Ford V8 Coupe",1,1902
+March,385,Philippines,"Classic Cars","1969 Dodge Super Bee",1,1902
+September,148,Singapore,"Classic Cars","1982 Camaro Z28",1,1902
+July,314,Belgium,Ships,"Pont Yacht",1,1899
+November,211,"Hong Kong","Vintage Cars","1928 Ford Phaeton Deluxe",1,1898
+January,177,Japan,Motorcycles,"1960 BSA Gold Star DBD34",1,1897
+October,462,USA,"Vintage Cars","1904 Buick Runabout",1,1894
+November,181,USA,"Vintage Cars","1939 Cadillac Limousine",1,1893
+January,379,USA,"Vintage Cars","18th Century Vintage Horse Carriage",1,1891
+November,216,Spain,Ships,"HMS Bounty",1,1890
+October,119,France,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,1890
+October,202,Canada,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,1890
+September,333,Australia,Trains,"1950's Chicago Surface Lines Streetcar",1,1887
+November,216,Spain,"Vintage Cars","1941 Chevrolet Special Deluxe Cabriolet",1,1886
+October,256,France,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,1885
+October,148,Singapore,"Trucks and Buses","1926 Ford Fire Engine",1,1884
+February,145,Denmark,Ships,"The USS Constitution Ship",1,1882
+April,209,France,"Classic Cars","1957 Ford Thunderbird",1,1882
+August,157,USA,"Vintage Cars","1939 Cadillac Limousine",1,1881
+November,242,France,Planes,"Boeing X-32A JSF",1,1877
+July,412,"New Zealand","Vintage Cars","1911 Ford Town Car",1,1877
+May,282,Australia,"Vintage Cars","1911 Ford Town Car",1,1874
+November,145,Denmark,Ships,"1999 Yamaha Speed Boat",1,1871
+October,148,Singapore,Trains,"1962 City of Detroit Streetcar",1,1870
+November,175,USA,"Classic Cars","1969 Chevrolet Camaro Z28",1,1870
+December,141,Spain,Motorcycles,"1957 Vespa GS150",1,1869
+May,412,"New Zealand",Motorcycles,"1957 Vespa GS150",1,1867
+May,386,Italy,Planes,"America West Airlines B757-200",1,1865
+November,276,Australia,"Classic Cars","1961 Chevrolet Impala",1,1863
+January,124,USA,"Classic Cars","2002 Chevy Corvette",1,1863
+December,141,Spain,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,1862
+May,353,France,Motorcycles,"1982 Ducati 900 Monster",1,1862
+June,141,Spain,Motorcycles,"1997 BMW F650 ST",1,1861
+July,119,France,Planes,"American Airlines: MD-11S",1,1859
+October,321,USA,"Classic Cars","1961 Chevrolet Impala",1,1859
+January,177,Japan,"Vintage Cars","1930 Buick Marquette Phaeton",1,1858
+December,282,Australia,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,1857
+September,167,"Norway  ","Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1855
+October,256,France,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1853
+October,202,Canada,"Trucks and Buses","1954 Greyhound Scenicruiser",1,1851
+July,119,France,Motorcycles,"1960 BSA Gold Star DBD34",1,1851
+November,471,Australia,"Vintage Cars","1936 Chrysler Airflow",1,1850
+September,131,USA,Trains,"1950's Chicago Surface Lines Streetcar",1,1849
+February,141,Spain,Trains,"1962 City of Detroit Streetcar",1,1848
+February,278,Italy,Planes,"1900s Vintage Tri-Plane",1,1846
+September,379,USA,"Classic Cars","1948 Porsche 356-A Roadster",1,1842
+January,177,Japan,Planes,"American Airlines: B767-300",1,1841
+June,166,Singapore,"Trucks and Buses","1954 Greyhound Scenicruiser",1,1840
+July,382,Austria,"Vintage Cars","1934 Ford V8 Coupe",1,1839
+April,209,France,"Vintage Cars","1911 Ford Town Car",1,1838
+March,323,"New Zealand","Vintage Cars","1939 Cadillac Limousine",1,1837
+August,320,USA,Planes,"Boeing X-32A JSF",1,1837
+January,350,France,Motorcycles,"1982 Ducati 996 R",1,1835
+October,141,Spain,"Classic Cars","1970 Chevy Chevelle SS 454",1,1834
+August,124,USA,Ships,"Pont Yacht",1,1831
+November,172,France,Trains,"1950's Chicago Surface Lines Streetcar",1,1830
+November,181,USA,"Trucks and Buses","1980â€™s GM Manhattan Express",1,1830
+March,412,"New Zealand",Planes,"Boeing X-32A JSF",1,1828
+September,415,Germany,"Vintage Cars","1940 Ford Delivery Sedan",1,1826
+April,260,Canada,Planes,"Corsair F4U ( Bird Cage)",1,1824
+January,141,Spain,"Classic Cars","1970 Dodge Coronet",1,1821
+February,239,USA,Planes,"1900s Vintage Bi-Plane",1,1820
+July,119,France,Planes,"1900s Vintage Tri-Plane",1,1819
+January,320,USA,Motorcycles,"1974 Ducati 350 Mk3 Desmo",1,1819
+February,239,USA,Ships,"The Schooner Bluenose",1,1819
+June,324,UK,Ships,"The Schooner Bluenose",1,1819
+January,141,Spain,"Trucks and Buses","1954 Greyhound Scenicruiser",1,1818
+July,124,USA,"Trucks and Buses","1954 Greyhound Scenicruiser",1,1818
+September,141,Spain,"Vintage Cars","1904 Buick Runabout",1,1815
+May,471,Australia,Planes,"Boeing X-32A JSF",1,1814
+November,131,USA,Planes,"Boeing X-32A JSF",1,1814
+October,321,USA,Motorcycles,"1982 Ducati 900 Monster",1,1814
+November,363,USA,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,1813
+September,487,USA,"Vintage Cars","1936 Chrysler Airflow",1,1811
+November,276,Australia,"Classic Cars","1971 Alpine Renault 1600s",1,1811
+December,129,USA,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,1811
+May,282,Australia,"Classic Cars","1966 Shelby Cobra 427 S/C",1,1806
+February,124,USA,"Vintage Cars","1939 Cadillac Limousine",1,1805
+August,204,USA,Motorcycles,"1957 Vespa GS150",1,1805
+July,379,USA,Ships,"HMS Bounty",1,1803
+April,209,France,"Classic Cars","1969 Chevrolet Camaro Z28",1,1803
+March,242,France,Ships,"Pont Yacht",1,1801
+March,385,Philippines,"Classic Cars","1971 Alpine Renault 1600s",1,1800
+November,496,"New Zealand",Planes,"1900s Vintage Tri-Plane",1,1800
+October,202,Canada,"Trucks and Buses","1926 Ford Fire Engine",1,1798
+November,144,Sweden,"Trucks and Buses","1926 Ford Fire Engine",1,1798
+March,240,UK,"Vintage Cars","1904 Buick Runabout",1,1797
+June,323,"New Zealand","Classic Cars","1957 Ford Thunderbird",1,1796
+May,124,USA,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1792
+October,161,USA,"Vintage Cars","1928 Ford Phaeton Deluxe",1,1791
+March,124,USA,Motorcycles,"2002 Yamaha YZR M1",1,1790
+June,166,Singapore,"Trucks and Buses","1926 Ford Fire Engine",1,1786
+January,475,USA,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,1779
+August,141,Spain,"Classic Cars","1957 Ford Thunderbird",1,1779
+November,350,France,"Classic Cars","1957 Ford Thunderbird",1,1779
+February,131,USA,Motorcycles,"1997 BMW F650 ST",1,1778
+January,406,France,"Classic Cars","1961 Chevrolet Impala",1,1778
+November,145,Denmark,Ships,"Pont Yacht",1,1778
+April,450,USA,"Classic Cars","1970 Chevy Chevelle SS 454",1,1777
+November,141,Spain,Motorcycles,"1982 Ducati 996 R",1,1777
+February,119,France,"Vintage Cars","1930 Buick Marquette Phaeton",1,1775
+November,242,France,"Vintage Cars","1937 Horch 930V Limousine",1,1775
+September,311,Finland,"Trucks and Buses","1954 Greyhound Scenicruiser",1,1775
+November,484,Spain,"Classic Cars","1970 Dodge Coronet",1,1774
+December,282,Australia,Planes,"American Airlines: B767-300",1,1772
+September,189,Ireland,"Vintage Cars","1928 Ford Phaeton Deluxe",1,1772
+August,260,Canada,Planes,"Boeing X-32A JSF",1,1772
+May,386,Italy,"Vintage Cars","1928 Ford Phaeton Deluxe",1,1771
+July,282,Australia,"Vintage Cars","1939 Cadillac Limousine",1,1771
+November,350,France,"Classic Cars","1970 Chevy Chevelle SS 454",1,1769
+January,181,USA,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,1768
+June,151,USA,Trains,"1950's Chicago Surface Lines Streetcar",1,1766
+July,124,USA,"Classic Cars","1961 Chevrolet Impala",1,1766
+December,211,"Hong Kong","Vintage Cars","1928 Ford Phaeton Deluxe",1,1764
+March,323,"New Zealand","Classic Cars","1982 Camaro Z28",1,1763
+December,323,"New Zealand","Classic Cars","1970 Plymouth Hemi Cuda",1,1762
+September,186,Finland,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,1761
+November,175,USA,"Classic Cars","1949 Jaguar XK 120",1,1759
+April,209,France,"Classic Cars","1982 Lamborghini Diablo",1,1757
+October,186,Finland,Planes,"America West Airlines B757-200",1,1755
+October,187,UK,Trains,"1962 City of Detroit Streetcar",1,1753
+January,347,USA,"Vintage Cars","1940 Ford Delivery Sedan",1,1753
+June,233,Canada,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,1753
+June,141,Spain,Planes,"F/A 18 Hornet 1/72",1,1750
+December,323,"New Zealand",Motorcycles,"1960 BSA Gold Star DBD34",1,1749
+February,239,USA,Ships,"Pont Yacht",1,1749
+October,299,"Norway  ","Classic Cars","1970 Chevy Chevelle SS 454",1,1746
+November,496,"New Zealand",Planes,"American Airlines: B767-300",1,1744
+July,124,USA,"Classic Cars","1970 Plymouth Hemi Cuda",1,1743
+October,319,USA,"Vintage Cars","1930 Buick Marquette Phaeton",1,1743
+September,131,USA,Trains,"1962 City of Detroit Streetcar",1,1743
+January,475,USA,"Vintage Cars","1934 Ford V8 Coupe",1,1743
+May,314,Belgium,"Vintage Cars","1934 Ford V8 Coupe",1,1743
+January,146,France,Trains,"1962 City of Detroit Streetcar",1,1740
+April,382,Austria,Planes,"Corsair F4U ( Bird Cage)",1,1739
+July,161,USA,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,1737
+October,256,France,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,1735
+December,496,"New Zealand","Vintage Cars","1940 Ford Delivery Sedan",1,1734
+February,278,Italy,"Vintage Cars","1937 Horch 930V Limousine",1,1733
+November,484,Spain,"Trucks and Buses","1954 Greyhound Scenicruiser",1,1732
+January,363,USA,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,1729
+May,350,France,"Classic Cars","1971 Alpine Renault 1600s",1,1728
+December,198,USA,Ships,"HMS Bounty",1,1728
+November,171,France,Motorcycles,"1960 BSA Gold Star DBD34",1,1728
+October,124,USA,"Vintage Cars","1939 Cadillac Limousine",1,1727
+December,282,Australia,Planes,"1900s Vintage Tri-Plane",1,1721
+August,320,USA,Planes,"1900s Vintage Bi-Plane",1,1720
+February,239,USA,"Classic Cars","1966 Shelby Cobra 427 S/C",1,1720
+August,320,USA,"Vintage Cars","1940 Ford Delivery Sedan",1,1717
+April,148,Singapore,Trains,"Collectable Wooden Train",1,1715
+February,141,Spain,"Trucks and Buses","1954 Greyhound Scenicruiser",1,1714
+November,385,Philippines,Motorcycles,"1957 Vespa GS150",1,1713
+May,119,France,"Trucks and Buses","Diamond T620 Semi-Skirted Tanker",1,1709
+June,175,USA,Motorcycles,"1936 Harley Davidson El Knucklehead",1,1709
+August,112,USA,"Classic Cars","1966 Shelby Cobra 427 S/C",1,1708
+September,141,Spain,Ships,"The Queen Mary",1,1708
+October,448,Sweden,Planes,"Boeing X-32A JSF",1,1708
+January,141,Spain,Trains,"1962 City of Detroit Streetcar",1,1706
+March,128,Germany,"Classic Cars","1970 Dodge Coronet",1,1706
+February,189,Ireland,Trains,"1962 City of Detroit Streetcar",1,1705
+November,350,France,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,1701
+April,166,Singapore,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,1701
+August,299,"Norway  ",Planes,"F/A 18 Hornet 1/72",1,1700
+May,131,USA,Ships,"1999 Yamaha Speed Boat",1,1698
+January,458,Spain,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,1697
+April,148,Singapore,"Vintage Cars","1904 Buick Runabout",1,1696
+September,448,Sweden,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,1696
+March,141,Spain,"Trucks and Buses","1954 Greyhound Scenicruiser",1,1695
+March,187,UK,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,1694
+June,447,USA,Ships,"HMS Bounty",1,1693
+November,339,USA,"Vintage Cars","1939 Cadillac Limousine",1,1690
+February,141,Spain,Motorcycles,"1957 Vespa GS150",1,1688
+March,353,France,Planes,"1900s Vintage Bi-Plane",1,1688
+May,314,Belgium,"Vintage Cars","1917 Maxwell Touring Car",1,1688
+September,148,Singapore,"Vintage Cars","1934 Ford V8 Coupe",1,1686
+November,121,Norway,"Trucks and Buses","1954 Greyhound Scenicruiser",1,1686
+October,128,Germany,"Classic Cars","1970 Plymouth Hemi Cuda",1,1685
+February,114,Australia,"Vintage Cars","1930 Buick Marquette Phaeton",1,1682
+October,187,UK,Ships,"Pont Yacht",1,1682
+January,124,USA,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,1680
+April,456,USA,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,1680
+March,146,France,"Vintage Cars","1911 Ford Town Car",1,1678
+November,398,Japan,"Vintage Cars","1937 Horch 930V Limousine",1,1678
+March,141,Spain,Trains,"1950's Chicago Surface Lines Streetcar",1,1678
+August,249,Italy,"Vintage Cars","1936 Chrysler Airflow",1,1677
+October,321,USA,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1676
+June,201,UK,"Classic Cars","1970 Plymouth Hemi Cuda",1,1676
+December,496,"New Zealand",Ships,"Pont Yacht",1,1676
+November,103,France,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1676
+October,141,Spain,"Classic Cars","1957 Ford Thunderbird",1,1675
+January,121,Norway,"Vintage Cars","1939 Cadillac Limousine",1,1671
+October,186,Finland,Planes,"Boeing X-32A JSF",1,1671
+January,334,Finland,Motorcycles,"1957 Vespa GS150",1,1671
+November,385,Philippines,"Vintage Cars","1937 Horch 930V Limousine",1,1669
+February,487,USA,"Trucks and Buses","1954 Greyhound Scenicruiser",1,1667
+November,167,"Norway  ",Motorcycles,"1936 Harley Davidson El Knucklehead",1,1667
+January,311,Finland,Ships,"1999 Yamaha Speed Boat",1,1665
+October,319,USA,Planes,"F/A 18 Hornet 1/72",1,1663
+November,319,USA,"Trucks and Buses","1954 Greyhound Scenicruiser",1,1662
+May,112,USA,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,1661
+December,141,Spain,Trains,"1950's Chicago Surface Lines Streetcar",1,1661
+October,339,USA,"Vintage Cars","1940 Ford Delivery Sedan",1,1660
+January,363,USA,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,1660
+October,448,Sweden,Ships,"Pont Yacht",1,1660
+December,357,"New Zealand",Motorcycles,"1957 Vespa GS150",1,1660
+February,166,Singapore,"Trucks and Buses","1980â€™s GM Manhattan Express",1,1658
+November,471,Australia,"Classic Cars","1957 Ford Thunderbird",1,1657
+December,129,USA,Motorcycles,"1960 BSA Gold Star DBD34",1,1657
+April,382,Austria,Planes,"American Airlines: MD-11S",1,1655
+June,447,USA,Planes,"American Airlines: MD-11S",1,1655
+October,227,Denmark,"Classic Cars","1949 Jaguar XK 120",1,1654
+September,141,Spain,Trains,"1962 City of Detroit Streetcar",1,1653
+September,189,Ireland,Planes,"1900s Vintage Tri-Plane",1,1650
+March,141,Spain,"Classic Cars","1970 Dodge Coronet",1,1649
+October,319,USA,Motorcycles,"1936 Harley Davidson El Knucklehead",1,1648
+March,187,UK,"Vintage Cars","1911 Ford Town Car",1,1647
+February,114,Australia,Motorcycles,"1936 Harley Davidson El Knucklehead",1,1645
+May,173,USA,"Vintage Cars","1937 Horch 930V Limousine",1,1644
+August,260,Canada,Ships,"1999 Yamaha Speed Boat",1,1644
+November,167,"Norway  ","Classic Cars","1948 Porsche 356-A Roadster",1,1643
+January,177,Japan,Planes,"Corsair F4U ( Bird Cage)",1,1643
+April,141,Spain,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1642
+September,249,Italy,Ships,"Pont Yacht",1,1642
+May,233,Canada,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,1641
+August,157,USA,"Trucks and Buses","1926 Ford Fire Engine",1,1639
+September,415,Germany,Planes,"F/A 18 Hornet 1/72",1,1637
+July,119,France,"Vintage Cars","1928 Ford Phaeton Deluxe",1,1637
+July,314,Belgium,Ships,"The Mayflower",1,1637
+December,353,France,"Trucks and Buses","1954 Greyhound Scenicruiser",1,1636
+September,276,Australia,"Classic Cars","1970 Chevy Chevelle SS 454",1,1635
+January,406,France,Motorcycles,"1982 Ducati 996 R",1,1633
+August,249,Italy,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1633
+November,324,UK,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,1631
+April,381,Belgium,Trains,"1950's Chicago Surface Lines Streetcar",1,1628
+November,211,"Hong Kong","Vintage Cars","1930 Buick Marquette Phaeton",1,1628
+November,144,Sweden,"Vintage Cars","1940 Ford Delivery Sedan",1,1627
+March,412,"New Zealand","Vintage Cars","1937 Horch 930V Limousine",1,1627
+March,141,Spain,"Classic Cars","1958 Chevy Corvette Limited Edition",1,1627
+November,278,Italy,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,1624
+October,201,UK,"Classic Cars","1957 Ford Thunderbird",1,1623
+September,276,Australia,"Classic Cars","1949 Jaguar XK 120",1,1622
+August,260,Canada,Ships,"Pont Yacht",1,1622
+April,181,USA,Motorcycles,"1982 Ducati 900 Monster",1,1621
+June,233,Canada,"Vintage Cars","1904 Buick Runabout",1,1615
+October,128,Germany,"Classic Cars","1971 Alpine Renault 1600s",1,1614
+May,458,Spain,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,1613
+September,362,USA,Ships,"The Schooner Bluenose",1,1612
+January,146,France,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,1611
+December,324,UK,Planes,"1900s Vintage Bi-Plane",1,1610
+October,321,USA,"Classic Cars","1970 Plymouth Hemi Cuda",1,1609
+February,119,France,Motorcycles,"1969 Harley Davidson Ultimate Chopper",1,1608
+February,141,Spain,"Classic Cars","1957 Ford Thunderbird",1,1608
+January,124,USA,Trains,"1950's Chicago Surface Lines Streetcar",1,1603
+December,323,"New Zealand","Classic Cars","1948 Porsche 356-A Roadster",1,1601
+January,276,Australia,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,1600
+March,124,USA,Motorcycles,"1982 Ducati 996 R",1,1600
+December,282,Australia,Planes,"Corsair F4U ( Bird Cage)",1,1597
+November,145,Denmark,Ships,"The Mayflower",1,1594
+February,314,Belgium,Ships,"The Mayflower",1,1594
+November,278,Italy,"Vintage Cars","1934 Ford V8 Coupe",1,1592
+February,171,France,Motorcycles,"1982 Ducati 996 R",1,1591
+March,187,UK,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1590
+July,379,USA,Planes,"Boeing X-32A JSF",1,1589
+November,157,USA,Motorcycles,"1960 BSA Gold Star DBD34",1,1584
+April,209,France,"Classic Cars","1970 Chevy Chevelle SS 454",1,1584
+August,205,USA,Motorcycles,"1936 Harley Davidson El Knucklehead",1,1581
+October,473,Italy,"Vintage Cars","1928 Ford Phaeton Deluxe",1,1579
+October,161,USA,Planes,"P-51-D Mustang",1,1579
+April,181,USA,Motorcycles,"2002 Yamaha YZR M1",1,1578
+November,144,Sweden,"Classic Cars","1971 Alpine Renault 1600s",1,1576
+January,124,USA,"Classic Cars","1958 Chevy Corvette Limited Edition",1,1575
+May,412,"New Zealand",Motorcycles,"1982 Ducati 996 R",1,1574
+May,173,USA,Planes,"Boeing X-32A JSF",1,1573
+November,171,France,Motorcycles,"2002 Yamaha YZR M1",1,1572
+April,382,Austria,Ships,"1999 Yamaha Speed Boat",1,1572
+February,186,Finland,"Classic Cars","1970 Plymouth Hemi Cuda",1,1571
+October,227,Denmark,"Classic Cars","1957 Ford Thunderbird",1,1568
+August,320,USA,Planes,"Corsair F4U ( Bird Cage)",1,1567
+February,114,Australia,Planes,"1900s Vintage Tri-Plane",1,1566
+February,141,Spain,"Classic Cars","1966 Shelby Cobra 427 S/C",1,1562
+July,379,USA,"Vintage Cars","1937 Horch 930V Limousine",1,1562
+May,406,France,Motorcycles,"1957 Vespa GS150",1,1561
+June,201,UK,"Classic Cars","1948 Porsche 356-A Roadster",1,1558
+September,379,USA,"Classic Cars","1970 Plymouth Hemi Cuda",1,1558
+March,146,France,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,1554
+April,201,UK,Motorcycles,"1982 Ducati 900 Monster",1,1552
+February,124,USA,Ships,"The Schooner Bluenose",1,1550
+October,161,USA,Planes,"Corsair F4U ( Bird Cage)",1,1548
+November,121,Norway,Trains,"1950's Chicago Surface Lines Streetcar",1,1548
+July,250,France,Motorcycles,"1936 Harley Davidson El Knucklehead",1,1544
+April,496,"New Zealand",Motorcycles,"1936 Harley Davidson El Knucklehead",1,1544
+February,119,France,Motorcycles,"1960 BSA Gold Star DBD34",1,1542
+October,299,"Norway  ","Classic Cars","1982 Lamborghini Diablo",1,1541
+October,448,Sweden,"Vintage Cars","1912 Ford Model T Delivery Wagon",1,1540
+November,167,"Norway  ","Classic Cars","1966 Shelby Cobra 427 S/C",1,1540
+November,496,"New Zealand","Vintage Cars","1928 Ford Phaeton Deluxe",1,1535
+October,319,USA,Planes,"American Airlines: B767-300",1,1534
+June,145,Denmark,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,1532
+June,141,Spain,Planes,"1900s Vintage Bi-Plane",1,1529
+December,250,France,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,1529
+February,131,USA,Motorcycles,"1936 Harley Davidson El Knucklehead",1,1528
+January,205,USA,"Classic Cars","1970 Chevy Chevelle SS 454",1,1528
+March,141,Spain,Planes,"P-51-D Mustang",1,1526
+July,119,France,"Vintage Cars","1930 Buick Marquette Phaeton",1,1526
+June,447,USA,"Vintage Cars","1937 Horch 930V Limousine",1,1525
+May,112,USA,"Classic Cars","1957 Ford Thunderbird",1,1524
+April,260,Canada,"Vintage Cars","1930 Buick Marquette Phaeton",1,1521
+November,240,UK,Ships,"1999 Yamaha Speed Boat",1,1517
+August,205,USA,Motorcycles,"1982 Ducati 900 Monster",1,1515
+October,256,France,"Vintage Cars","1939 Cadillac Limousine",1,1505
+October,339,USA,Planes,"Boeing X-32A JSF",1,1503
+November,114,Australia,Motorcycles,"1957 Vespa GS150",1,1503
+November,386,Italy,"Classic Cars","1970 Dodge Coronet",1,1498
+March,124,USA,"Trucks and Buses","1926 Ford Fire Engine",1,1497
+May,406,France,"Classic Cars","1969 Dodge Super Bee",1,1496
+April,145,Denmark,"Classic Cars","1961 Chevrolet Impala",1,1494
+November,216,Spain,"Vintage Cars","1940 Ford Delivery Sedan",1,1494
+June,357,"New Zealand",Trains,"1950's Chicago Surface Lines Streetcar",1,1493
+July,496,"New Zealand","Classic Cars","1957 Ford Thunderbird",1,1492
+October,121,Norway,Motorcycles,"1960 BSA Gold Star DBD34",1,1491
+July,124,USA,"Trucks and Buses","1926 Ford Fire Engine",1,1489
+March,129,USA,"Vintage Cars","1934 Ford V8 Coupe",1,1487
+November,240,UK,Planes,"Boeing X-32A JSF",1,1486
+August,260,Canada,Ships,"HMS Bounty",1,1485
+January,379,USA,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,1484
+November,216,Spain,"Vintage Cars","1930 Buick Marquette Phaeton",1,1484
+November,187,UK,"Classic Cars","1957 Ford Thunderbird",1,1482
+November,486,USA,Motorcycles,"2002 Yamaha YZR M1",1,1481
+October,286,USA,"Classic Cars","1958 Chevy Corvette Limited Edition",1,1476
+January,334,Finland,Motorcycles,"1960 BSA Gold Star DBD34",1,1472
+November,175,USA,"Classic Cars","1966 Shelby Cobra 427 S/C",1,1471
+September,379,USA,"Classic Cars","1971 Alpine Renault 1600s",1,1469
+November,496,"New Zealand","Vintage Cars","1930 Buick Marquette Phaeton",1,1469
+May,386,Italy,"Vintage Cars","1930 Buick Marquette Phaeton",1,1469
+April,145,Denmark,"Classic Cars","1970 Plymouth Hemi Cuda",1,1468
+February,141,Spain,"Classic Cars","1969 Dodge Super Bee",1,1468
+January,128,Germany,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,1464
+December,151,USA,"Trucks and Buses","1954 Greyhound Scenicruiser",1,1464
+September,415,Germany,Ships,"1999 Yamaha Speed Boat",1,1463
+January,489,UK,"Classic Cars","1957 Ford Thunderbird",1,1461
+February,298,Switzerland,"Classic Cars","1982 Lamborghini Diablo",1,1459
+September,487,USA,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,1456
+October,339,USA,Planes,"1900s Vintage Bi-Plane",1,1456
+October,227,Denmark,"Classic Cars","1969 Chevrolet Camaro Z28",1,1455
+November,398,Japan,Motorcycles,"1936 Harley Davidson El Knucklehead",1,1454
+December,129,USA,Motorcycles,"1936 Harley Davidson El Knucklehead",1,1454
+October,124,USA,"Vintage Cars","1911 Ford Town Car",1,1453
+May,350,France,"Classic Cars","1969 Dodge Super Bee",1,1452
+July,412,"New Zealand","Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1452
+January,379,USA,"Vintage Cars","1934 Ford V8 Coupe",1,1452
+December,202,Canada,"Vintage Cars","1934 Ford V8 Coupe",1,1452
+May,282,Australia,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,1449
+November,242,France,"Vintage Cars","1940 Ford Delivery Sedan",1,1444
+May,233,Canada,"Vintage Cars","1939 Cadillac Limousine",1,1444
+August,124,USA,"Classic Cars","1970 Dodge Coronet",1,1442
+November,278,Italy,"Vintage Cars","1930 Buick Marquette Phaeton",1,1439
+October,321,USA,"Vintage Cars","1911 Ford Town Car",1,1439
+April,382,Austria,Ships,"The Schooner Bluenose",1,1434
+October,186,Finland,Planes,"1900s Vintage Bi-Plane",1,1434
+November,278,Italy,"Vintage Cars","1911 Ford Town Car",1,1432
+February,141,Spain,Motorcycles,"1982 Ducati 996 R",1,1432
+December,447,USA,"Vintage Cars","1930 Buick Marquette Phaeton",1,1431
+October,121,Norway,Motorcycles,"1982 Ducati 900 Monster",1,1429
+June,175,USA,Planes,"1900s Vintage Tri-Plane",1,1426
+November,187,UK,"Classic Cars","1970 Chevy Chevelle SS 454",1,1420
+November,240,UK,"Vintage Cars","1928 Ford Phaeton Deluxe",1,1420
+September,148,Singapore,"Vintage Cars","1939 Cadillac Limousine",1,1419
+October,339,USA,"Vintage Cars","1937 Horch 930V Limousine",1,1418
+August,204,USA,Motorcycles,"2002 Yamaha YZR M1",1,1418
+November,124,USA,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,1415
+June,324,UK,Ships,"Pont Yacht",1,1415
+November,187,UK,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,1413
+February,141,Spain,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,1411
+November,344,Spain,Ships,"The Schooner Bluenose",1,1408
+September,166,Singapore,"Vintage Cars","1911 Ford Town Car",1,1407
+July,124,USA,"Classic Cars","1971 Alpine Renault 1600s",1,1405
+December,495,USA,"Trucks and Buses","1954 Greyhound Scenicruiser",1,1403
+October,321,USA,"Classic Cars","1969 Dodge Super Bee",1,1402
+November,452,Austria,"Classic Cars","1948 Porsche 356-A Roadster",1,1401
+March,353,France,Planes,"Boeing X-32A JSF",1,1401
+February,239,USA,Planes,"Boeing X-32A JSF",1,1401
+August,299,"Norway  ",Planes,"1900s Vintage Tri-Plane",1,1400
+December,151,USA,"Classic Cars","1970 Chevy Chevelle SS 454",1,1396
+February,278,Italy,"Vintage Cars","1930 Buick Marquette Phaeton",1,1395
+January,311,Finland,Ships,"Pont Yacht",1,1393
+August,157,USA,"Trucks and Buses","1954 Greyhound Scenicruiser",1,1392
+June,209,France,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1392
+June,201,UK,"Classic Cars","1982 Lamborghini Diablo",1,1390
+October,259,Germany,Motorcycles,"1982 Ducati 996 R",1,1390
+December,141,Spain,"Vintage Cars","1939 Cadillac Limousine",1,1389
+July,314,Belgium,Ships,"The Schooner Bluenose",1,1386
+June,323,"New Zealand","Classic Cars","1966 Shelby Cobra 427 S/C",1,1385
+November,187,UK,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,1383
+March,242,France,Ships,"The USS Constitution Ship",1,1383
+October,321,USA,Motorcycles,"1982 Ducati 996 R",1,1380
+November,187,UK,"Vintage Cars","1934 Ford V8 Coupe",1,1380
+November,216,Spain,Ships,"The Schooner Bluenose",1,1380
+November,486,USA,"Classic Cars","1971 Alpine Renault 1600s",1,1378
+August,299,"Norway  ",Planes,"Corsair F4U ( Bird Cage)",1,1376
+May,112,USA,"Classic Cars","1970 Chevy Chevelle SS 454",1,1374
+May,112,USA,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,1374
+December,323,"New Zealand",Motorcycles,"1936 Harley Davidson El Knucklehead",1,1374
+February,239,USA,"Classic Cars","1970 Chevy Chevelle SS 454",1,1374
+February,141,Spain,"Vintage Cars","1911 Ford Town Car",1,1373
+November,278,Italy,"Vintage Cars","1928 Ford Phaeton Deluxe",1,1370
+December,198,USA,Planes,"American Airlines: MD-11S",1,1368
+December,353,France,Trains,"1950's Chicago Surface Lines Streetcar",1,1367
+November,386,Italy,Trains,"1950's Chicago Surface Lines Streetcar",1,1367
+November,145,Denmark,Ships,"The USS Constitution Ship",1,1366
+December,151,USA,"Vintage Cars","1911 Ford Town Car",1,1365
+January,398,Japan,Trains,"1962 City of Detroit Streetcar",1,1364
+December,151,USA,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,1360
+September,448,Sweden,"Trucks and Buses","1926 Ford Fire Engine",1,1359
+November,320,USA,Ships,"The Schooner Bluenose",1,1358
+May,175,USA,Trains,"1950's Chicago Surface Lines Streetcar",1,1357
+May,350,France,"Classic Cars","1982 Lamborghini Diablo",1,1355
+January,334,Finland,"Classic Cars","1948 Porsche 356-A Roadster",1,1355
+August,286,USA,Motorcycles,"1982 Ducati 996 R",1,1355
+January,124,USA,"Classic Cars","1970 Dodge Coronet",1,1344
+November,187,UK,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,1344
+November,398,Japan,Planes,"Boeing X-32A JSF",1,1341
+November,167,"Norway  ","Classic Cars","1970 Plymouth Hemi Cuda",1,1341
+October,259,Germany,"Classic Cars","1948 Porsche 356-A Roadster",1,1340
+January,141,Spain,"Classic Cars","1958 Chevy Corvette Limited Edition",1,1338
+June,151,USA,"Classic Cars","1958 Chevy Corvette Limited Edition",1,1338
+September,131,USA,"Classic Cars","1958 Chevy Corvette Limited Edition",1,1338
+February,114,Australia,"Vintage Cars","1928 Ford Phaeton Deluxe",1,1335
+April,450,USA,Planes,"1900s Vintage Bi-Plane",1,1332
+March,353,France,"Vintage Cars","1928 Ford Phaeton Deluxe",1,1332
+August,249,Italy,"Vintage Cars","1911 Ford Town Car",1,1332
+February,141,Spain,"Classic Cars","1958 Chevy Corvette Limited Edition",1,1330
+November,320,USA,Ships,"Pont Yacht",1,1330
+March,124,USA,"Classic Cars","1982 Lamborghini Diablo",1,1327
+November,489,UK,Planes,"1900s Vintage Bi-Plane",1,1326
+January,276,Australia,"Trucks and Buses","1926 Ford Fire Engine",1,1324
+May,450,USA,"Vintage Cars","1930 Buick Marquette Phaeton",1,1320
+April,141,Spain,"Vintage Cars","1934 Ford V8 Coupe",1,1319
+April,357,"New Zealand","Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1319
+September,448,Sweden,"Vintage Cars","1939 Cadillac Limousine",1,1313
+September,166,Singapore,"Classic Cars","1957 Ford Thunderbird",1,1311
+June,166,Singapore,"Classic Cars","1970 Dodge Coronet",1,1311
+January,406,France,Motorcycles,"1982 Ducati 900 Monster",1,1309
+January,205,USA,"Classic Cars","1982 Lamborghini Diablo",1,1305
+October,256,France,"Vintage Cars","1934 Ford V8 Coupe",1,1304
+May,406,France,Motorcycles,"1982 Ducati 996 R",1,1304
+January,141,Spain,"Classic Cars","1948 Porsche 356-A Roadster",1,1294
+April,181,USA,Motorcycles,"1957 Vespa GS150",1,1293
+December,495,USA,"Classic Cars","1958 Chevy Corvette Limited Edition",1,1292
+October,347,USA,"Classic Cars","1982 Lamborghini Diablo",1,1285
+January,121,Norway,"Trucks and Buses","1926 Ford Fire Engine",1,1283
+August,249,Italy,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,1281
+May,471,Australia,Planes,"1900s Vintage Bi-Plane",1,1280
+September,415,Germany,Planes,"1900s Vintage Bi-Plane",1,1280
+July,124,USA,Motorcycles,"1982 Ducati 996 R",1,1274
+November,471,Australia,"Vintage Cars","1934 Ford V8 Coupe",1,1274
+August,334,Finland,"Trucks and Buses","1954 Greyhound Scenicruiser",1,1273
+July,496,"New Zealand","Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1271
+January,141,Spain,"Classic Cars","1982 Lamborghini Diablo",1,1271
+November,458,Spain,"Vintage Cars","1939 Cadillac Limousine",1,1269
+June,233,Canada,Ships,"Pont Yacht",1,1267
+November,484,Spain,"Classic Cars","1958 Chevy Corvette Limited Edition",1,1263
+April,382,Austria,"Vintage Cars","1937 Horch 930V Limousine",1,1262
+February,189,Ireland,"Classic Cars","1970 Dodge Coronet",1,1262
+November,489,UK,"Vintage Cars","1937 Horch 930V Limousine",1,1256
+March,187,UK,"Classic Cars","1966 Shelby Cobra 427 S/C",1,1255
+February,141,Spain,"Classic Cars","1982 Lamborghini Diablo",1,1254
+December,141,Spain,Motorcycles,"1982 Ducati 996 R",1,1254
+June,398,Japan,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,1254
+November,167,"Norway  ","Classic Cars","1971 Alpine Renault 1600s",1,1253
+November,233,Canada,"Classic Cars","1982 Lamborghini Diablo",1,1251
+November,278,Italy,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,1250
+October,124,USA,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,1247
+September,166,Singapore,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,1246
+November,240,UK,"Vintage Cars","1930 Buick Marquette Phaeton",1,1246
+November,124,USA,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,1243
+November,181,USA,"Classic Cars","1970 Dodge Coronet",1,1243
+October,227,Denmark,"Classic Cars","1958 Chevy Corvette Limited Edition",1,1241
+November,171,France,Motorcycles,"1957 Vespa GS150",1,1240
+February,321,USA,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,1240
+January,161,USA,Motorcycles,"1936 Harley Davidson El Knucklehead",1,1240
+November,124,USA,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1236
+February,298,Switzerland,"Classic Cars","1971 Alpine Renault 1600s",1,1234
+May,131,USA,Ships,"Pont Yacht",1,1231
+September,333,Australia,"Classic Cars","1970 Dodge Coronet",1,1228
+April,172,France,"Trucks and Buses","1954 Greyhound Scenicruiser",1,1227
+November,363,USA,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1223
+August,205,USA,Motorcycles,"1982 Ducati 996 R",1,1222
+June,201,UK,"Classic Cars","1971 Alpine Renault 1600s",1,1220
+September,487,USA,"Vintage Cars","1911 Ford Town Car",1,1220
+November,167,"Norway  ","Classic Cars","1982 Lamborghini Diablo",1,1215
+October,321,USA,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,1214
+April,486,USA,Motorcycles,"1936 Harley Davidson El Knucklehead",1,1212
+November,171,France,Motorcycles,"1936 Harley Davidson El Knucklehead",1,1212
+December,141,Spain,"Classic Cars","1958 Chevy Corvette Limited Edition",1,1209
+November,353,France,"Classic Cars","1966 Shelby Cobra 427 S/C",1,1209
+February,119,France,Motorcycles,"1982 Ducati 900 Monster",1,1205
+January,205,USA,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1204
+November,489,UK,Planes,"Boeing X-32A JSF",1,1196
+July,386,Italy,"Classic Cars","1982 Lamborghini Diablo",1,1194
+November,114,Australia,"Classic Cars","1982 Lamborghini Diablo",1,1193
+July,412,"New Zealand","Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,1191
+November,324,UK,"Classic Cars","1958 Chevy Corvette Limited Edition",1,1191
+August,320,USA,"Vintage Cars","1930 Buick Marquette Phaeton",1,1187
+December,353,France,Trains,"1962 City of Detroit Streetcar",1,1186
+May,157,USA,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,1186
+December,282,Australia,"Vintage Cars","1930 Buick Marquette Phaeton",1,1181
+August,299,"Norway  ","Vintage Cars","1930 Buick Marquette Phaeton",1,1181
+June,357,"New Zealand",Trains,"1962 City of Detroit Streetcar",1,1181
+November,462,USA,"Classic Cars","1982 Lamborghini Diablo",1,1174
+November,398,Japan,Ships,"The Schooner Bluenose",1,1173
+October,148,Singapore,"Classic Cars","1970 Dodge Coronet",1,1170
+April,148,Singapore,Trains,"1962 City of Detroit Streetcar",1,1169
+July,161,USA,"Vintage Cars","1939 Cadillac Limousine",1,1167
+May,386,Italy,Planes,"Corsair F4U ( Bird Cage)",1,1167
+March,240,UK,Ships,"Pont Yacht",1,1166
+August,249,Italy,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,1165
+August,298,Switzerland,"Classic Cars","1971 Alpine Renault 1600s",1,1163
+August,204,USA,"Classic Cars","1971 Alpine Renault 1600s",1,1163
+August,112,USA,"Classic Cars","1982 Lamborghini Diablo",1,1159
+October,452,Austria,"Vintage Cars","1939 Cadillac Limousine",1,1157
+February,141,Spain,"Classic Cars","1970 Dodge Coronet",1,1157
+November,216,Spain,Planes,"Boeing X-32A JSF",1,1152
+October,448,Sweden,Planes,"1900s Vintage Bi-Plane",1,1151
+October,321,USA,Motorcycles,"1957 Vespa GS150",1,1149
+March,124,USA,"Trucks and Buses","1954 Greyhound Scenicruiser",1,1145
+November,424,USA,Trains,"1962 City of Detroit Streetcar",1,1144
+March,146,France,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,1143
+March,124,USA,"Classic Cars","1958 Chevy Corvette Limited Edition",1,1143
+November,171,France,Motorcycles,"1982 Ducati 996 R",1,1135
+December,151,USA,"Classic Cars","1958 Chevy Corvette Limited Edition",1,1133
+May,412,"New Zealand","Classic Cars","1969 Dodge Super Bee",1,1132
+July,496,"New Zealand","Vintage Cars","1911 Ford Town Car",1,1132
+July,412,"New Zealand","Vintage Cars","1936 Mercedes Benz 500k Roadster",1,1132
+November,278,Italy,"Vintage Cars","1937 Horch 930V Limousine",1,1131
+August,381,Belgium,"Vintage Cars","1928 Ford Phaeton Deluxe",1,1128
+August,298,Switzerland,"Classic Cars","1982 Lamborghini Diablo",1,1128
+July,386,Italy,"Classic Cars","1966 Shelby Cobra 427 S/C",1,1127
+April,382,Austria,Planes,"Boeing X-32A JSF",1,1126
+September,487,USA,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,1123
+February,145,Denmark,Ships,"Pont Yacht",1,1119
+January,458,Spain,"Vintage Cars","1911 Ford Town Car",1,1119
+November,187,UK,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1118
+May,382,Austria,"Classic Cars","1968 Dodge Charger",1,1116
+March,462,USA,"Vintage Cars","1930 Buick Marquette Phaeton",1,1108
+January,311,Finland,Planes,"Boeing X-32A JSF",1,1105
+December,475,USA,"Vintage Cars","1930 Buick Marquette Phaeton",1,1101
+July,282,Australia,"Trucks and Buses","1996 Peterbilt 379 Stake Bed with Outrigger",1,1100
+June,323,"New Zealand","Vintage Cars","1939 Chevrolet Deluxe Coupe",1,1097
+October,259,Germany,"Classic Cars","1982 Lamborghini Diablo",1,1097
+May,173,USA,Planes,"1900s Vintage Bi-Plane",1,1096
+December,282,Australia,Planes,"Boeing X-32A JSF",1,1096
+December,250,France,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1095
+January,334,Finland,"Classic Cars","1971 Alpine Renault 1600s",1,1093
+October,124,USA,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,1092
+October,227,Denmark,"Classic Cars","1966 Shelby Cobra 427 S/C",1,1088
+July,124,USA,"Classic Cars","1958 Chevy Corvette Limited Edition",1,1088
+October,124,USA,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,1087
+November,353,France,Motorcycles,"1982 Ducati 996 R",1,1085
+November,124,USA,"Classic Cars","1958 Chevy Corvette Limited Edition",1,1085
+May,471,Australia,"Vintage Cars","1937 Horch 930V Limousine",1,1077
+April,201,UK,Motorcycles,"1982 Ducati 996 R",1,1074
+September,167,"Norway  ","Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,1074
+September,415,Germany,"Vintage Cars","1930 Buick Marquette Phaeton",1,1067
+February,333,Australia,Motorcycles,"1936 Harley Davidson El Knucklehead",1,1066
+May,386,Italy,Planes,"P-51-D Mustang",1,1064
+November,278,Italy,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1064
+July,412,"New Zealand","Vintage Cars","1939 Chevrolet Deluxe Coupe",1,1051
+July,282,Australia,"Vintage Cars","1934 Ford V8 Coupe",1,1049
+May,350,France,Motorcycles,"1982 Ducati 996 R",1,1047
+June,398,Japan,"Vintage Cars","1939 Cadillac Limousine",1,1046
+July,353,France,"Classic Cars","1966 Shelby Cobra 427 S/C",1,1046
+May,141,Spain,"Vintage Cars","1939 Cadillac Limousine",1,1046
+April,495,USA,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,1019
+October,321,USA,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,1019
+August,286,USA,Motorcycles,"1936 Harley Davidson El Knucklehead",1,1018
+November,319,USA,"Classic Cars","1958 Chevy Corvette Limited Edition",1,1018
+June,151,USA,"Classic Cars","1970 Dodge Coronet",1,1017
+August,334,Finland,"Classic Cars","1970 Dodge Coronet",1,1017
+February,141,Spain,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1016
+November,456,USA,Motorcycles,"1982 Ducati 996 R",1,1015
+November,129,USA,"Vintage Cars","1939 Cadillac Limousine",1,1014
+September,487,USA,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,1003
+April,450,USA,"Classic Cars","1969 Chevrolet Camaro Z28",1,1002
+October,124,USA,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,1000
+November,486,USA,"Classic Cars","1982 Lamborghini Diablo",1,999
+November,363,USA,"Classic Cars","1982 Lamborghini Diablo",1,997
+February,189,Ireland,Trains,"1950's Chicago Surface Lines Streetcar",1,994
+April,209,France,"Classic Cars","1966 Shelby Cobra 427 S/C",1,993
+May,119,France,"Classic Cars","1958 Chevy Corvette Limited Edition",1,986
+December,250,France,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,984
+September,415,Germany,Planes,"Boeing X-32A JSF",1,980
+March,385,Philippines,Motorcycles,"1982 Ducati 996 R",1,978
+June,166,Singapore,"Classic Cars","1958 Chevy Corvette Limited Edition",1,976
+November,114,Australia,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,974
+April,141,Spain,"Vintage Cars","1936 Mercedes-Benz 500K Special Roadster",1,970
+November,276,Australia,Motorcycles,"1982 Ducati 996 R",1,962
+December,141,Spain,Ships,"Pont Yacht",1,961
+December,202,Canada,"Vintage Cars","1939 Cadillac Limousine",1,961
+August,204,USA,Motorcycles,"1982 Ducati 996 R",1,956
+February,141,Spain,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,956
+July,496,"New Zealand","Vintage Cars","1936 Mercedes Benz 500k Roadster",1,952
+November,187,UK,"Classic Cars","1966 Shelby Cobra 427 S/C",1,946
+March,146,France,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,946
+March,146,France,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,942
+November,320,USA,Trains,"1962 City of Detroit Streetcar",1,937
+November,486,USA,Motorcycles,"1982 Ducati 996 R",1,935
+September,166,Singapore,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,934
+March,486,USA,"Classic Cars","1982 Lamborghini Diablo",1,931
+November,278,Italy,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,926
+May,119,France,"Trucks and Buses","1926 Ford Fire Engine",1,924
+April,181,USA,Motorcycles,"1982 Ducati 996 R",1,910
+December,357,"New Zealand",Motorcycles,"1982 Ducati 996 R",1,902
+November,471,Australia,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,896
+October,299,"Norway  ","Classic Cars","1966 Shelby Cobra 427 S/C",1,896
+May,314,Belgium,"Vintage Cars","1913 Ford Model T Speedster",1,892
+December,141,Spain,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,892
+January,124,USA,"Trucks and Buses","1954 Greyhound Scenicruiser",1,887
+December,141,Spain,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,882
+November,181,USA,"Classic Cars","1958 Chevy Corvette Limited Edition",1,880
+September,311,Finland,"Classic Cars","1958 Chevy Corvette Limited Edition",1,880
+March,276,Australia,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,876
+June,141,Spain,Planes,"Boeing X-32A JSF",1,876
+October,141,Spain,"Vintage Cars","1930 Buick Marquette Phaeton",1,873
+March,276,Australia,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,871
+September,186,Finland,Motorcycles,"1982 Ducati 996 R",1,869
+October,484,Spain,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,857
+April,328,USA,Planes,"American Airlines: B767-300",1,854
+November,112,USA,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,849
+June,447,USA,Planes,"Boeing X-32A JSF",1,845
+November,471,Australia,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,840
+October,148,Singapore,"Classic Cars","1958 Chevy Corvette Limited Edition",1,840
+November,471,Australia,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,837
+January,276,Australia,"Vintage Cars","1939 Cadillac Limousine",1,835
+April,450,USA,Planes,"Boeing X-32A JSF",1,834
+September,379,USA,"Classic Cars","1982 Lamborghini Diablo",1,831
+November,124,USA,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,802
+May,112,USA,"Vintage Cars","1938 Cadillac V-16 Presidential Limousine",1,798
+June,323,"New Zealand","Vintage Cars","1936 Mercedes Benz 500k Roadster",1,796
+June,362,USA,Motorcycles,"1982 Ducati 996 R",1,780
+July,496,"New Zealand","Vintage Cars","1939 Chevrolet Deluxe Coupe",1,730
+April,172,France,"Classic Cars","1958 Chevy Corvette Limited Edition",1,687
+July,124,USA,"Classic Cars","1982 Lamborghini Diablo",1,687
+August,157,USA,"Classic Cars","1958 Chevy Corvette Limited Edition",1,679
+January,205,USA,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,679
+August,334,Finland,"Classic Cars","1958 Chevy Corvette Limited Edition",1,676
+October,256,France,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,672
+May,412,"New Zealand","Classic Cars","1961 Chevrolet Impala",1,663
+February,487,USA,"Classic Cars","1958 Chevy Corvette Limited Edition",1,654
+April,311,Finland,"Classic Cars","1982 Lamborghini Diablo",1,649
+January,458,Spain,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,644
+April,166,Singapore,"Vintage Cars","1932 Model A Ford J-Coupe",1,626
+April,398,Japan,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,615
+August,249,Italy,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,597
+March,187,UK,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,578
+November,350,France,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,558
+May,119,France,"Trucks and Buses","1954 Greyhound Scenicruiser",1,554
+April,450,USA,"Vintage Cars","1932 Alfa Romeo 8C2300 Spider Sport",1,547
+November,363,USA,"Vintage Cars","1939 Chevrolet Deluxe Coupe",1,531
+May,282,Australia,"Vintage Cars","1936 Mercedes Benz 500k Roadster",1,529
+May,382,Austria,"Classic Cars","1982 Lamborghini Diablo",1,482

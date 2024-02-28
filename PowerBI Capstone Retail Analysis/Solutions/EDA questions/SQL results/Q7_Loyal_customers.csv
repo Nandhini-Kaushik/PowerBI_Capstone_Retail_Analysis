@@ -1,0 +1,350 @@
+customerNumber,productCode,count(productCode),productVendor,difference
+141,S18_3232,8,"Unimax Art Galleries",91
+141,S24_1444,6,"Highway 66 Mini Classics",25
+141,S24_2840,6,"Carousel DieCast Legends",19
+141,S50_1392,5,"Highway 66 Mini Classics",47
+141,S32_2509,5,"Classic Metal Creations",28
+141,S24_4048,5,"Exoto Designs",48
+141,S18_2319,5,"Unimax Art Galleries",48
+124,S12_4473,4,"Exoto Designs",63
+124,S32_2509,4,"Classic Metal Creations",28
+124,S32_1268,4,"Motor City Art Classics",42
+124,S24_2840,4,"Carousel DieCast Legends",19
+124,S24_2300,4,"Autoart Studio Design",66
+124,S18_4668,4,"Studio M Art Models",27
+124,S18_3320,4,"Exoto Designs",42
+124,S18_2795,4,"Gearbox Collectibles",96
+124,S18_2238,4,"Gearbox Collectibles",62
+124,S12_3891,4,"Second Gear Diecast",90
+124,S12_1108,4,"Second Gear Diecast",112
+141,S12_4473,4,"Exoto Designs",63
+141,S50_1514,4,"Classic Metal Creations",21
+141,S32_3207,4,"Gearbox Collectibles",35
+141,S24_3856,4,"Classic Metal Creations",42
+141,S24_3432,4,"Gearbox Collectibles",45
+141,S24_3191,4,"Exoto Designs",35
+141,S24_2972,4,"Second Gear Diecast",22
+141,S24_2766,4,"Classic Metal Creations",44
+141,S24_1046,4,"Unimax Art Galleries",24
+141,S18_4522,4,"Exoto Designs",35
+141,S18_4027,4,"Min Lin Diecast",52
+141,S18_3259,4,"Carousel DieCast Legends",33
+141,S18_3140,4,"Unimax Art Galleries",68
+141,S18_2238,4,"Gearbox Collectibles",62
+124,S12_3148,3,"Welly Diecast Productions",62
+124,S24_1444,3,"Highway 66 Mini Classics",25
+124,S700_2824,3,"Carousel DieCast Legends",55
+124,S700_1138,3,"Autoart Studio Design",33
+124,S50_1392,3,"Highway 66 Mini Classics",47
+124,S32_3522,3,"Red Start Diecast",31
+124,S32_3207,3,"Gearbox Collectibles",35
+124,S24_4048,3,"Exoto Designs",48
+124,S24_3969,3,"Red Start Diecast",19
+124,S24_2022,3,"Classic Metal Creations",24
+124,S18_4600,3,"Motor City Art Classics",36
+124,S18_3259,3,"Carousel DieCast Legends",33
+124,S18_3140,3,"Unimax Art Galleries",68
+124,S18_2432,3,"Carousel DieCast Legends",36
+124,S18_2325,3,"Autoart Studio Design",69
+124,S18_1097,3,"Studio M Art Models",58
+124,S12_1666,3,"Welly Diecast Productions",59
+141,S12_3148,3,"Welly Diecast Productions",62
+141,S72_3212,3,"Unimax Art Galleries",21
+141,S700_3962,3,"Welly Diecast Productions",46
+141,S700_3505,3,"Carousel DieCast Legends",49
+141,S700_1938,3,"Studio M Art Models",43
+141,S700_1691,3,"Min Lin Diecast",40
+141,S50_1341,3,"Studio M Art Models",17
+141,S32_2206,3,"Gearbox Collectibles",16
+141,S24_3371,3,"Welly Diecast Productions",23
+141,S24_2887,3,"Exoto Designs",45
+141,S24_2300,3,"Autoart Studio Design",66
+141,S24_2022,3,"Classic Metal Creations",24
+141,S24_1785,3,"Classic Metal Creations",43
+141,S24_1628,3,"Carousel DieCast Legends",21
+141,S18_4933,3,"Studio M Art Models",37
+141,S18_3685,3,"Gearbox Collectibles",79
+141,S18_3482,3,"Gearbox Collectibles",74
+141,S18_3029,3,"Min Lin Diecast",34
+141,S18_2870,3,"Red Start Diecast",75
+141,S18_2795,3,"Gearbox Collectibles",96
+141,S18_1589,3,"Classic Metal Creations",58
+141,S18_1342,3,"Motor City Art Classics",42
+112,S24_3969,2,"Red Start Diecast",19
+112,S24_3432,2,"Gearbox Collectibles",45
+112,S24_3191,2,"Exoto Designs",35
+112,S24_2887,2,"Exoto Designs",45
+112,S24_2766,2,"Classic Metal Creations",44
+114,S700_3167,2,"Motor City Art Classics",26
+114,S700_2834,2,"Highway 66 Mini Classics",59
+114,S700_1691,2,"Min Lin Diecast",40
+114,S50_1341,2,"Studio M Art Models",17
+114,S32_4289,2,"Highway 66 Mini Classics",36
+114,S32_1374,2,"Exoto Designs",33
+114,S24_4278,2,"Unimax Art Galleries",36
+114,S24_2000,2,"Highway 66 Mini Classics",39
+114,S24_1785,2,"Classic Metal Creations",43
+114,S24_1578,2,"Autoart Studio Design",52
+114,S18_2795,2,"Gearbox Collectibles",96
+114,S18_2625,2,"Welly Diecast Productions",36
+114,S18_2581,2,"Gearbox Collectibles",35
+114,S10_4698,2,"Red Start Diecast",103
+114,S10_2016,2,"Highway 66 Mini Classics",50
+119,S700_3167,2,"Motor City Art Classics",26
+119,S700_2834,2,"Highway 66 Mini Classics",59
+119,S700_2466,2,"Motor City Art Classics",31
+119,S700_1691,2,"Min Lin Diecast",40
+119,S50_1341,2,"Studio M Art Models",17
+119,S32_4289,2,"Highway 66 Mini Classics",36
+119,S32_1374,2,"Exoto Designs",33
+119,S24_4278,2,"Unimax Art Galleries",36
+119,S24_2000,2,"Highway 66 Mini Classics",39
+119,S10_1678,2,"Min Lin Diecast",47
+124,S700_1938,2,"Studio M Art Models",43
+124,S50_4713,2,"Autoart Studio Design",47
+124,S50_1514,2,"Classic Metal Creations",21
+124,S32_4485,2,"Second Gear Diecast",46
+124,S32_2206,2,"Gearbox Collectibles",16
+124,S24_4620,2,"Classic Metal Creations",49
+124,S24_4258,2,"Second Gear Diecast",40
+124,S24_3856,2,"Classic Metal Creations",42
+124,S24_3816,2,"Carousel DieCast Legends",35
+124,S24_3432,2,"Gearbox Collectibles",45
+124,S24_3371,2,"Welly Diecast Productions",23
+124,S24_3191,2,"Exoto Designs",35
+124,S24_3151,2,"Min Lin Diecast",42
+124,S24_2972,2,"Second Gear Diecast",22
+124,S24_2887,2,"Exoto Designs",45
+124,S24_2766,2,"Classic Metal Creations",44
+124,S24_2360,2,"Highway 66 Mini Classics",22
+124,S24_2011,2,"Carousel DieCast Legends",41
+124,S24_1937,2,"Motor City Art Classics",11
+124,S18_4721,2,"Classic Metal Creations",79
+124,S18_4522,2,"Exoto Designs",35
+124,S18_4027,2,"Min Lin Diecast",52
+124,S18_3782,2,"Studio M Art Models",29
+124,S18_3482,2,"Gearbox Collectibles",74
+124,S18_3278,2,"Min Lin Diecast",31
+124,S18_3232,2,"Unimax Art Galleries",91
+124,S18_3136,2,"Red Start Diecast",44
+124,S18_2957,2,"Min Lin Diecast",28
+124,S18_2949,2,"Carousel DieCast Legends",41
+124,S18_2319,2,"Unimax Art Galleries",48
+124,S18_2248,2,"Motor City Art Classics",27
+124,S18_1749,2,"Welly Diecast Productions",83
+124,S18_1367,2,"Studio M Art Models",30
+124,S18_1342,2,"Motor City Art Classics",42
+124,S10_4962,2,"Second Gear Diecast",44
+124,S10_1949,2,"Classic Metal Creations",116
+129,S24_4258,2,"Second Gear Diecast",40
+129,S18_3320,2,"Exoto Designs",42
+131,S32_1374,2,"Exoto Designs",33
+131,S24_2000,2,"Highway 66 Mini Classics",39
+131,S24_1578,2,"Autoart Studio Design",52
+131,S18_2625,2,"Welly Diecast Productions",36
+131,S12_2823,2,"Unimax Art Galleries",84
+131,S10_4698,2,"Red Start Diecast",103
+131,S10_2016,2,"Highway 66 Mini Classics",50
+131,S10_1678,2,"Min Lin Diecast",47
+141,S700_2610,2,"Red Start Diecast",38
+141,S72_1253,2,"Motor City Art Classics",17
+141,S700_4002,2,"Second Gear Diecast",38
+141,S700_3167,2,"Motor City Art Classics",26
+141,S700_2824,2,"Carousel DieCast Legends",55
+141,S700_2466,2,"Motor City Art Classics",31
+141,S700_2047,2,"Unimax Art Galleries",51
+141,S700_1138,2,"Autoart Studio Design",33
+141,S32_4485,2,"Second Gear Diecast",46
+141,S32_4289,2,"Highway 66 Mini Classics",36
+141,S32_3522,2,"Red Start Diecast",31
+141,S24_4620,2,"Classic Metal Creations",49
+141,S24_4278,2,"Unimax Art Galleries",36
+141,S24_4258,2,"Second Gear Diecast",40
+141,S24_3949,2,"Second Gear Diecast",39
+141,S24_3816,2,"Carousel DieCast Legends",35
+141,S24_3420,2,"Autoart Studio Design",39
+141,S24_2841,2,"Autoart Studio Design",34
+141,S24_2360,2,"Highway 66 Mini Classics",22
+141,S24_2011,2,"Carousel DieCast Legends",41
+141,S24_1937,2,"Motor City Art Classics",11
+141,S18_4721,2,"Classic Metal Creations",79
+141,S18_4668,2,"Studio M Art Models",27
+141,S18_4409,2,"Exoto Designs",49
+141,S18_3856,2,"Exoto Designs",41
+141,S18_3782,2,"Studio M Art Models",29
+141,S18_3278,2,"Min Lin Diecast",31
+141,S18_2581,2,"Gearbox Collectibles",35
+141,S18_2432,2,"Carousel DieCast Legends",36
+141,S18_1889,2,"Gearbox Collectibles",23
+141,S18_1662,2,"Red Start Diecast",80
+141,S18_1367,2,"Studio M Art Models",30
+141,S12_4675,2,"Welly Diecast Productions",56
+141,S12_3380,2,"Welly Diecast Productions",42
+145,S700_2610,2,"Red Start Diecast",38
+145,S72_3212,2,"Unimax Art Galleries",21
+145,S700_3962,2,"Welly Diecast Productions",46
+145,S700_3505,2,"Carousel DieCast Legends",49
+145,S700_1938,2,"Studio M Art Models",43
+148,S12_3148,2,"Welly Diecast Productions",62
+148,S50_1514,2,"Classic Metal Creations",21
+148,S18_4027,2,"Min Lin Diecast",52
+148,S18_3259,2,"Carousel DieCast Legends",33
+148,S12_3891,2,"Second Gear Diecast",90
+148,S12_1108,2,"Second Gear Diecast",112
+151,S12_4473,2,"Exoto Designs",63
+151,S24_1444,2,"Highway 66 Mini Classics",25
+151,S32_2509,2,"Classic Metal Creations",28
+151,S24_4048,2,"Exoto Designs",48
+151,S24_3432,2,"Gearbox Collectibles",45
+151,S24_3191,2,"Exoto Designs",35
+151,S24_2887,2,"Exoto Designs",45
+151,S24_2840,2,"Carousel DieCast Legends",19
+151,S24_2766,2,"Classic Metal Creations",44
+151,S24_1046,2,"Unimax Art Galleries",24
+151,S18_4933,2,"Studio M Art Models",37
+151,S18_4027,2,"Min Lin Diecast",52
+151,S18_3232,2,"Unimax Art Galleries",91
+151,S18_2319,2,"Unimax Art Galleries",48
+151,S18_2238,2,"Gearbox Collectibles",62
+151,S12_3891,2,"Second Gear Diecast",90
+161,S24_4278,2,"Unimax Art Galleries",36
+161,S24_1578,2,"Autoart Studio Design",52
+161,S18_2625,2,"Welly Diecast Productions",36
+161,S10_4698,2,"Red Start Diecast",103
+166,S32_1268,2,"Motor City Art Classics",42
+166,S24_2300,2,"Autoart Studio Design",66
+166,S24_1937,2,"Motor City Art Classics",11
+166,S18_4600,2,"Motor City Art Classics",36
+166,S18_2432,2,"Carousel DieCast Legends",36
+166,S18_2325,2,"Autoart Studio Design",69
+166,S10_4962,2,"Second Gear Diecast",44
+171,S50_4713,2,"Autoart Studio Design",47
+171,S32_4485,2,"Second Gear Diecast",46
+171,S32_2206,2,"Gearbox Collectibles",16
+171,S24_2360,2,"Highway 66 Mini Classics",22
+171,S18_3782,2,"Studio M Art Models",29
+171,S12_2823,2,"Unimax Art Galleries",84
+172,S700_2824,2,"Carousel DieCast Legends",55
+187,S24_3969,2,"Red Start Diecast",19
+187,S24_3432,2,"Gearbox Collectibles",45
+187,S24_3191,2,"Exoto Designs",35
+187,S24_2887,2,"Exoto Designs",45
+187,S24_2766,2,"Classic Metal Creations",44
+187,S24_2022,2,"Classic Metal Creations",24
+187,S24_1937,2,"Motor City Art Classics",11
+187,S24_1628,2,"Carousel DieCast Legends",21
+187,S24_1046,2,"Unimax Art Galleries",24
+187,S18_4933,2,"Studio M Art Models",37
+187,S18_4409,2,"Exoto Designs",49
+187,S18_2795,2,"Gearbox Collectibles",96
+187,S18_2325,2,"Autoart Studio Design",69
+187,S18_2248,2,"Motor City Art Classics",27
+202,S700_2824,2,"Carousel DieCast Legends",55
+202,S32_3522,2,"Red Start Diecast",31
+202,S12_1666,2,"Welly Diecast Productions",59
+205,S12_2823,2,"Unimax Art Galleries",84
+211,S32_4289,2,"Highway 66 Mini Classics",36
+211,S24_4278,2,"Unimax Art Galleries",36
+211,S24_1785,2,"Classic Metal Creations",43
+211,S18_2581,2,"Gearbox Collectibles",35
+216,S700_3505,2,"Carousel DieCast Legends",49
+256,S12_1666,2,"Welly Diecast Productions",59
+259,S24_4620,2,"Classic Metal Creations",49
+259,S24_3371,2,"Welly Diecast Productions",23
+259,S18_4721,2,"Classic Metal Creations",79
+259,S18_3782,2,"Studio M Art Models",29
+259,S18_3482,2,"Gearbox Collectibles",74
+259,S18_3278,2,"Min Lin Diecast",31
+259,S12_3990,2,"Studio M Art Models",48
+259,S12_3380,2,"Welly Diecast Productions",42
+259,S12_1099,2,"Autoart Studio Design",99
+276,S18_3232,2,"Unimax Art Galleries",91
+276,S18_2432,2,"Carousel DieCast Legends",36
+276,S18_1097,2,"Studio M Art Models",58
+276,S12_1666,2,"Welly Diecast Productions",59
+276,S10_4962,2,"Second Gear Diecast",44
+278,S700_4002,2,"Second Gear Diecast",38
+278,S700_3167,2,"Motor City Art Classics",26
+278,S700_2834,2,"Highway 66 Mini Classics",59
+278,S700_2466,2,"Motor City Art Classics",31
+278,S700_2047,2,"Unimax Art Galleries",51
+278,S700_1691,2,"Min Lin Diecast",40
+278,S50_1341,2,"Studio M Art Models",17
+278,S32_4289,2,"Highway 66 Mini Classics",36
+278,S24_4278,2,"Unimax Art Galleries",36
+278,S24_3949,2,"Second Gear Diecast",39
+278,S24_3420,2,"Autoart Studio Design",39
+278,S24_2841,2,"Autoart Studio Design",34
+278,S24_1785,2,"Classic Metal Creations",43
+278,S18_3856,2,"Exoto Designs",41
+282,S18_3136,2,"Red Start Diecast",44
+282,S18_2949,2,"Carousel DieCast Legends",41
+298,S24_4620,2,"Classic Metal Creations",49
+298,S24_3856,2,"Classic Metal Creations",42
+298,S24_3371,2,"Welly Diecast Productions",23
+298,S24_2972,2,"Second Gear Diecast",22
+298,S18_4721,2,"Classic Metal Creations",79
+298,S18_3482,2,"Gearbox Collectibles",74
+298,S18_3278,2,"Min Lin Diecast",31
+298,S18_3232,2,"Unimax Art Galleries",91
+298,S18_1889,2,"Gearbox Collectibles",23
+298,S18_1129,2,"Highway 66 Mini Classics",58
+298,S12_4675,2,"Welly Diecast Productions",56
+298,S12_3990,2,"Studio M Art Models",48
+298,S12_3380,2,"Welly Diecast Productions",42
+298,S12_1099,2,"Autoart Studio Design",99
+311,S18_3232,2,"Unimax Art Galleries",91
+314,S700_1938,2,"Studio M Art Models",43
+314,S24_2011,2,"Carousel DieCast Legends",41
+314,S18_4522,2,"Exoto Designs",35
+314,S18_3259,2,"Carousel DieCast Legends",33
+314,S18_3140,2,"Unimax Art Galleries",68
+320,S700_2610,2,"Red Start Diecast",38
+321,S18_1367,2,"Studio M Art Models",30
+323,S18_3278,2,"Min Lin Diecast",31
+323,S12_3990,2,"Studio M Art Models",48
+323,S12_3380,2,"Welly Diecast Productions",42
+323,S12_1099,2,"Autoart Studio Design",99
+350,S32_2206,2,"Gearbox Collectibles",16
+353,S24_1628,2,"Carousel DieCast Legends",21
+353,S18_3685,2,"Gearbox Collectibles",79
+353,S18_2870,2,"Red Start Diecast",75
+353,S18_1589,2,"Classic Metal Creations",58
+362,S700_2610,2,"Red Start Diecast",38
+362,S700_3505,2,"Carousel DieCast Legends",49
+362,S700_1138,2,"Autoart Studio Design",33
+362,S24_3151,2,"Min Lin Diecast",42
+362,S10_4757,2,"Motor City Art Classics",50
+382,S12_4675,2,"Welly Diecast Productions",56
+382,S12_3990,2,"Studio M Art Models",48
+382,S12_3380,2,"Welly Diecast Productions",42
+382,S12_1099,2,"Autoart Studio Design",99
+385,S24_2360,2,"Highway 66 Mini Classics",22
+385,S18_4721,2,"Classic Metal Creations",79
+385,S18_3782,2,"Studio M Art Models",29
+385,S18_3482,2,"Gearbox Collectibles",74
+406,S50_4713,2,"Autoart Studio Design",47
+406,S32_4485,2,"Second Gear Diecast",46
+406,S32_2206,2,"Gearbox Collectibles",16
+406,S24_4620,2,"Classic Metal Creations",49
+406,S24_2360,2,"Highway 66 Mini Classics",22
+406,S18_4721,2,"Classic Metal Creations",79
+406,S18_3782,2,"Studio M Art Models",29
+406,S18_3482,2,"Gearbox Collectibles",74
+406,S18_3278,2,"Min Lin Diecast",31
+450,S18_1662,2,"Red Start Diecast",80
+458,S700_2824,2,"Carousel DieCast Legends",55
+458,S32_3522,2,"Red Start Diecast",31
+458,S32_1268,2,"Motor City Art Classics",42
+458,S24_4258,2,"Second Gear Diecast",40
+458,S24_2300,2,"Autoart Studio Design",66
+458,S18_4668,2,"Studio M Art Models",27
+486,S24_2972,2,"Second Gear Diecast",22
+486,S18_3685,2,"Gearbox Collectibles",79
+486,S18_3232,2,"Unimax Art Galleries",91
+486,S18_2870,2,"Red Start Diecast",75
+486,S18_1984,2,"Min Lin Diecast",48
+486,S18_1129,2,"Highway 66 Mini Classics",58
+496,S32_1374,2,"Exoto Designs",33
+496,S24_1785,2,"Classic Metal Creations",43
+496,S18_2581,2,"Gearbox Collectibles",35

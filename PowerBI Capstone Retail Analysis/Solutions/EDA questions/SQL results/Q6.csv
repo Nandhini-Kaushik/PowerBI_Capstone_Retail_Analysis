@@ -1,0 +1,8 @@
+country,city,productCode,Total_Sales,count(od.productCode),Under_Performing_products
+Italy,Torino,S24_1937,597,1,Yes
+USA,Nashua,S24_1937,531,1,Yes
+France,Marseille,S24_1937,558,1,Yes
+USA,"San Jose",S18_4409,547,1,Yes
+Austria,Salzburg,S24_2972,482,1,Yes
+Australia,Chatswood,S24_3969,529,1,Yes
+France,Nantes,S32_2509,554,1,Yes

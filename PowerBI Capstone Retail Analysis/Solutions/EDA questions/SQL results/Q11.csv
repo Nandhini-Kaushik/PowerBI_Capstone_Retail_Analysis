@@ -1,0 +1,79 @@
+city,country,unique_customers,total_orders,total_items_ordered,total_spent
+Madrid,Spain,3,304,10958,979881
+"San Rafael",USA,1,180,6366,591827
+NYC,USA,5,152,5294,497941
+"Auckland  ","New Zealand",2,94,3338,292083
+Singapore,Singapore,2,79,2760,263998
+Paris,France,3,70,2521,240650
+"San Francisco",USA,2,62,2139,199051
+"New Bedford",USA,2,61,2043,190500
+Nantes,France,2,60,2102,180887
+Melbourne,Australia,1,55,1926,180585
+Brickhaven,USA,3,47,1654,150665
+Boston,USA,2,44,1731,149882
+Manchester,UK,1,51,1778,148410
+"San Jose",USA,1,40,1656,143536
+Salzburg,Austria,1,40,1442,137480
+"North Sydney",Australia,1,46,1469,137034
+Philadelphia,USA,2,44,1398,135666
+Chatswood,Australia,1,46,1601,133907
+Lyon,France,1,41,1428,130305
+Kobenhavn,Denmark,1,36,1315,129085
+Bergamo,Italy,1,48,1650,127530
+Reims,France,1,41,1433,126983
+"Reggio Emilia",Italy,1,39,1280,125506
+Cambridge,USA,2,38,1333,122744
+BrÃƒÂ¤cke,Sweden,1,38,1359,120944
+Nashua,USA,1,34,1248,116449
+London,UK,2,38,1294,110143
+GenÃƒÂ¨ve,Switzerland,1,31,1078,108778
+Liverpool,UK,1,29,1046,106611
+Minato-ku,Japan,1,32,1150,105549
+Burlingame,USA,1,34,1179,104545
+Allentown,USA,1,31,1111,104359
+Stavern,Norway,1,32,1082,104225
+Espoo,Finland,1,30,1031,103897
+Bergen,"Norway  ",1,29,973,97562
+Oulu,Finland,1,32,1110,95706
+Helsinki,Finland,1,30,1051,95546
+Bridgewater,USA,1,25,903,95425
+Auckland,"New Zealand",1,26,1003,94432
+Pasadena,USA,1,30,1060,93803
+Wellington,"New Zealand",1,29,1055,90332
+Ãƒâ€¦rhus,Denmark,1,27,882,89910
+KÃƒÂ¶ln,Germany,1,26,936,89223
+"Makati City",Philippines,1,26,961,87468
+Torino,Italy,1,26,843,82223
+Newark,USA,1,21,988,81807
+"San Diego",USA,1,25,954,80375
+"Las Vegas",USA,1,29,929,80181
+"White Plains",USA,1,26,929,78432
+Frankfurt,Germany,1,22,811,75938
+Strasbourg,France,1,19,779,75859
+Cowes,UK,1,26,895,71784
+Marseille,France,1,25,804,71548
+Bruxelles,Belgium,1,25,796,70852
+"New Haven",USA,1,17,636,70379
+Vancouver,Canada,1,22,703,70122
+Oslo,"Norway  ",1,24,787,69059
+MontrÃƒÂ©al,Canada,1,22,717,68978
+Barcelona,Spain,1,23,882,68520
+Tsawassen,Canada,1,26,873,66812
+LuleÃƒÂ¥,Sweden,1,19,647,66695
+Kita-ku,Japan,1,20,692,62361
+Lille,France,1,20,699,61782
+Toulouse,France,1,20,687,60483
+Versailles,France,1,18,637,58876
+Glendale,USA,2,22,768,57886
+"Glen Waverly",Australia,1,23,705,55866
+"South Brisbane",Australia,1,15,545,55190
+Graz,Austria,1,15,532,51060
+Sevilla,Spain,1,15,589,50988
+Dublin,Ireland,1,16,490,49898
+"Central Hong Kong","Hong Kong",1,16,596,45481
+Burbank,USA,1,13,511,43749
+Brisbane,USA,1,15,514,42570
+"Los Angeles",USA,1,14,500,41506
+Munich,Germany,1,14,401,31310
+Charleroi,Belgium,1,8,278,29217
+Milan,Italy,1,8,272,25358

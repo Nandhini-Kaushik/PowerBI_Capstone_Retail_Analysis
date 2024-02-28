@@ -1,0 +1,130 @@
+country,productLine,Total_Quantity,Sum_priceEach,Sales
+USA,"Classic Cars",11655,35761,1262947
+USA,"Vintage Cars",8279,17656,652982
+USA,Motorcycles,5150,13547,467091
+Spain,"Classic Cars",4380,12251,450543
+USA,"Trucks and Buses",3932,10408,365457
+France,"Classic Cars",3540,10730,394961
+USA,Planes,3488,7436,275545
+Spain,"Vintage Cars",2562,5788,201894
+USA,Ships,2428,5458,189664
+France,Motorcycles,2404,5614,198702
+France,"Vintage Cars",1955,4512,151656
+Australia,"Vintage Cars",1945,4449,148624
+Australia,"Classic Cars",1818,5619,187965
+Spain,"Trucks and Buses",1709,4204,156650
+"New Zealand","Vintage Cars",1697,3652,140207
+"New Zealand","Classic Cars",1526,4187,151699
+UK,"Classic Cars",1507,4504,147173
+Spain,Ships,1388,3032,108080
+UK,"Vintage Cars",1366,3157,110558
+Italy,"Vintage Cars",1331,3228,99824
+Finland,"Classic Cars",1284,4107,143593
+Germany,"Classic Cars",1281,3721,132047
+Italy,Planes,1276,2891,103733
+Denmark,"Classic Cars",1244,3739,140726
+France,Planes,1136,2523,88434
+Spain,Planes,1101,2353,86487
+Switzerland,"Classic Cars",1078,3194,108778
+France,"Trucks and Buses",1067,2731,99355
+Singapore,"Classic Cars",1043,3543,118486
+Italy,"Classic Cars",982,3469,120420
+"New Zealand",Motorcycles,976,2218,82975
+Austria,"Classic Cars",937,2716,101526
+USA,Trains,912,1631,59594
+"Norway  ","Classic Cars",891,2845,91868
+Singapore,"Trucks and Buses",888,2158,83658
+Australia,Motorcycles,876,2452,84583
+UK,Ships,831,1794,65253
+Australia,Planes,813,1992,65268
+Spain,Motorcycles,780,1505,62166
+France,Ships,766,1622,58769
+Australia,"Trucks and Buses",705,1960,69845
+Sweden,"Classic Cars",552,2109,66590
+Japan,Planes,547,1267,41535
+"New Zealand",Planes,517,1204,45210
+Canada,"Trucks and Buses",517,1452,46366
+Spain,Trains,509,936,33569
+Canada,Ships,486,1055,36605
+UK,Planes,479,1234,39590
+Philippines,"Classic Cars",478,1387,51986
+Canada,"Vintage Cars",476,1129,36014
+"Hong Kong",Planes,462,969,37359
+Canada,"Classic Cars",456,1825,59660
+Finland,Motorcycles,447,1062,36587
+Belgium,"Vintage Cars",446,1235,40314
+Singapore,"Vintage Cars",437,1103,32522
+Denmark,Ships,436,1075,33848
+Sweden,"Trucks and Buses",433,995,40834
+Finland,Planes,421,921,31962
+Sweden,"Vintage Cars",385,921,29652
+Finland,"Trucks and Buses",384,993,34483
+"New Zealand",Ships,372,871,29401
+UK,Motorcycles,371,793,37259
+Sweden,Ships,367,790,28441
+Belgium,Ships,343,884,27855
+"Norway  ",Planes,325,925,28506
+Austria,"Vintage Cars",324,775,25636
+Canada,Planes,317,773,23540
+Finland,Ships,315,679,23745
+Japan,"Classic Cars",314,1068,41139
+Japan,"Vintage Cars",313,606,21439
+Japan,Motorcycles,309,944,32643
+Norway,"Trucks and Buses",308,780,26456
+UK,"Trucks and Buses",291,691,24547
+Germany,"Vintage Cars",276,734,20662
+"Norway  ",Motorcycles,272,681,27168
+"Norway  ","Vintage Cars",272,476,19079
+Norway,"Classic Cars",267,1014,36941
+Finland,"Vintage Cars",252,558,19918
+Germany,Planes,245,626,19601
+Philippines,Motorcycles,241,431,14839
+Denmark,"Vintage Cars",240,637,20411
+Norway,"Vintage Cars",223,571,17437
+France,Trains,222,482,15497
+Philippines,Planes,215,445,18975
+Norway,Motorcycles,212,632,19368
+Japan,Ships,208,379,16112
+Austria,"Trucks and Buses",203,482,19563
+"New Zealand","Trucks and Buses",202,571,19241
+Ireland,"Classic Cars",202,783,26414
+Austria,Planes,200,452,16064
+Austria,Motorcycles,197,442,18039
+Italy,Ships,194,482,15200
+Singapore,Trains,174,327,11423
+Singapore,Ships,174,336,14394
+UK,Trains,168,293,12568
+Belgium,"Classic Cars",147,512,18460
+Denmark,Trains,134,281,9241
+Sweden,Motorcycles,133,226,10126
+Germany,Motorcycles,121,159,6491
+Ireland,Planes,115,372,11033
+Austria,Ships,113,274,7712
+Italy,Motorcycles,111,233,8762
+"New Zealand",Trains,106,299,8113
+Sweden,Planes,104,239,8962
+Japan,"Trucks and Buses",102,310,11386
+"Hong Kong","Vintage Cars",99,166,5290
+Belgium,Trains,97,238,7815
+Germany,Trains,89,116,5184
+Finland,Trains,89,110,4862
+Italy,Trains,82,206,5367
+Germany,"Trucks and Buses",81,198,7976
+Denmark,"Trucks and Buses",73,212,7561
+Norway,Trains,72,112,4023
+Denmark,Planes,70,229,7209
+Italy,"Trucks and Buses",69,318,7311
+Ireland,Motorcycles,58,159,4554
+Australia,Ships,56,159,4410
+Germany,Ships,55,159,4510
+Ireland,Trains,50,107,2699
+Japan,Trains,49,149,3658
+Singapore,Motorcycles,44,80,3516
+Belgium,Planes,41,137,5625
+Canada,Motorcycles,41,91,3727
+Ireland,"Trucks and Buses",37,93,3426
+"Hong Kong",Motorcycles,35,81,2832
+Australia,Trains,33,57,1887
+Sweden,Trains,32,95,3033
+Ireland,"Vintage Cars",28,63,1772
+Philippines,"Vintage Cars",27,62,1669

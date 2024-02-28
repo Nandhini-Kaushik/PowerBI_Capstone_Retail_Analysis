@@ -1,0 +1,360 @@
+country,city,productLine,No_of_products
+Spain,Madrid,"Classic Cars",114
+USA,"San Rafael","Classic Cars",67
+Spain,Madrid,"Vintage Cars",66
+USA,NYC,"Classic Cars",63
+USA,"San Rafael","Vintage Cars",49
+Spain,Madrid,"Trucks and Buses",39
+USA,"San Rafael","Trucks and Buses",36
+Singapore,Singapore,"Classic Cars",32
+USA,NYC,Motorcycles,31
+Switzerland,GenÃƒÂ¨ve,"Classic Cars",31
+Spain,Madrid,Ships,30
+"New Zealand","Auckland  ","Classic Cars",30
+France,Paris,"Classic Cars",26
+USA,"San Francisco","Vintage Cars",25
+Spain,Madrid,Planes,25
+France,Paris,Motorcycles,25
+Australia,"North Sydney","Classic Cars",24
+Germany,KÃƒÂ¶ln,"Classic Cars",23
+Singapore,Singapore,"Trucks and Buses",23
+UK,Manchester,"Vintage Cars",22
+Italy,"Reggio Emilia","Classic Cars",22
+"New Zealand","Auckland  ","Vintage Cars",22
+Italy,Bergamo,"Vintage Cars",22
+USA,"New Bedford","Classic Cars",21
+Italy,Bergamo,Planes,21
+USA,NYC,"Vintage Cars",20
+USA,"Las Vegas","Classic Cars",20
+Finland,Espoo,"Classic Cars",20
+Denmark,Ãƒâ€¦rhus,"Classic Cars",20
+USA,Philadelphia,"Classic Cars",20
+Australia,Chatswood,"Vintage Cars",20
+USA,Brickhaven,"Classic Cars",20
+UK,Manchester,"Classic Cars",19
+Austria,Salzburg,"Classic Cars",19
+USA,NYC,"Trucks and Buses",18
+UK,Liverpool,"Classic Cars",18
+USA,Nashua,"Classic Cars",18
+France,Lille,Motorcycles,18
+USA,"San Francisco",Motorcycles,18
+Spain,Madrid,Motorcycles,17
+"Norway  ",Bergen,"Classic Cars",17
+France,Marseille,"Classic Cars",17
+Australia,"Glen Waverly","Vintage Cars",17
+Italy,Torino,"Vintage Cars",17
+France,Nantes,Motorcycles,16
+"New Zealand","Auckland  ",Motorcycles,16
+France,Lyon,"Vintage Cars",15
+Denmark,Kobenhavn,"Classic Cars",14
+Singapore,Singapore,"Vintage Cars",14
+Australia,Melbourne,Motorcycles,14
+France,Strasbourg,"Classic Cars",14
+"New Zealand",Wellington,"Vintage Cars",14
+France,Nantes,Planes,14
+Spain,Madrid,Trains,13
+Denmark,Kobenhavn,Ships,13
+Australia,Melbourne,Planes,13
+Philippines,"Makati City","Classic Cars",13
+USA,"San Jose","Vintage Cars",13
+USA,Nashua,"Vintage Cars",13
+USA,"San Jose",Planes,13
+Germany,Frankfurt,"Classic Cars",13
+France,Reims,"Classic Cars",13
+USA,Pasadena,Motorcycles,13
+USA,NYC,Ships,13
+Australia,Melbourne,"Vintage Cars",12
+France,Reims,Planes,12
+"Hong Kong","Central Hong Kong",Planes,12
+Australia,Melbourne,"Classic Cars",12
+USA,Cambridge,Motorcycles,12
+France,Versailles,"Vintage Cars",12
+USA,Bridgewater,"Classic Cars",12
+USA,Glendale,Planes,12
+Belgium,Bruxelles,"Vintage Cars",12
+USA,Brickhaven,"Vintage Cars",11
+USA,Boston,Ships,11
+USA,Burlingame,Motorcycles,11
+USA,Brisbane,"Vintage Cars",11
+"New Zealand","Auckland  ",Planes,11
+USA,"San Francisco","Classic Cars",11
+USA,Boston,"Classic Cars",11
+"Norway  ",Oslo,"Classic Cars",11
+USA,"New Bedford","Vintage Cars",11
+USA,"New Bedford",Ships,11
+Canada,Vancouver,"Trucks and Buses",11
+France,Nantes,"Classic Cars",10
+USA,"San Rafael",Motorcycles,10
+USA,"San Jose","Classic Cars",10
+Canada,Tsawassen,Planes,10
+Belgium,Bruxelles,Ships,10
+USA,"San Rafael",Ships,10
+USA,"New Bedford",Planes,10
+"Norway  ",Oslo,Planes,10
+USA,Burlingame,Planes,10
+Australia,Chatswood,"Classic Cars",10
+France,Lyon,"Classic Cars",10
+"New Zealand",Auckland,"Vintage Cars",10
+Italy,"Reggio Emilia",Planes,10
+Japan,Kita-ku,Planes,10
+Norway,Stavern,"Trucks and Buses",9
+France,Paris,"Trucks and Buses",9
+Spain,Barcelona,Ships,9
+USA,"Las Vegas","Vintage Cars",9
+Finland,Helsinki,"Classic Cars",9
+USA,Newark,Planes,9
+Australia,"North Sydney","Trucks and Buses",9
+USA,Cambridge,"Trucks and Buses",9
+USA,Philadelphia,"Vintage Cars",9
+USA,Allentown,"Trucks and Buses",9
+USA,"White Plains",Planes,9
+Finland,Oulu,"Classic Cars",9
+USA,Burbank,"Vintage Cars",9
+Finland,Helsinki,Motorcycles,9
+UK,Liverpool,Motorcycles,9
+Sweden,BrÃƒÂ¤cke,"Classic Cars",9
+UK,Cowes,Planes,9
+Sweden,LuleÃƒÂ¥,"Classic Cars",8
+UK,London,Ships,8
+Germany,Munich,Planes,8
+Sweden,BrÃƒÂ¤cke,"Vintage Cars",8
+France,Nantes,"Trucks and Buses",8
+UK,London,"Classic Cars",8
+USA,Boston,"Trucks and Buses",8
+UK,London,"Vintage Cars",8
+USA,"San Diego","Classic Cars",8
+UK,London,"Trucks and Buses",8
+Canada,Tsawassen,Ships,8
+Canada,MontrÃƒÂ©al,"Classic Cars",8
+USA,"San Rafael",Trains,8
+USA,Bridgewater,Motorcycles,8
+"New Zealand","Auckland  ",Ships,8
+USA,Allentown,"Classic Cars",8
+Sweden,BrÃƒÂ¤cke,Ships,8
+Australia,Chatswood,Planes,8
+UK,Cowes,Ships,8
+Norway,Stavern,"Classic Cars",7
+Norway,Stavern,"Vintage Cars",7
+USA,Burlingame,"Trucks and Buses",7
+Australia,"North Sydney","Vintage Cars",7
+"Norway  ",Bergen,Motorcycles,7
+Norway,Stavern,Motorcycles,7
+Sweden,BrÃƒÂ¤cke,"Trucks and Buses",7
+France,Toulouse,Ships,7
+UK,Manchester,Ships,7
+Philippines,"Makati City",Motorcycles,7
+Japan,Minato-ku,"Vintage Cars",7
+France,Paris,"Vintage Cars",7
+Finland,Oulu,Ships,7
+USA,"Los Angeles","Classic Cars",7
+USA,Boston,"Vintage Cars",7
+USA,Allentown,Motorcycles,7
+USA,Cambridge,"Classic Cars",7
+Finland,Oulu,"Trucks and Buses",7
+France,Lyon,Ships,7
+UK,Cowes,"Vintage Cars",7
+Spain,Sevilla,"Trucks and Buses",7
+France,Lyon,"Trucks and Buses",7
+"New Zealand",Auckland,"Classic Cars",7
+USA,Pasadena,"Vintage Cars",7
+France,Nantes,"Vintage Cars",7
+USA,"San Diego",Ships,7
+Finland,Helsinki,Planes,7
+USA,"New Haven","Classic Cars",7
+USA,Newark,Motorcycles,7
+Denmark,Kobenhavn,"Vintage Cars",6
+USA,NYC,Trains,6
+France,Reims,Motorcycles,6
+Austria,Graz,"Classic Cars",6
+UK,London,Planes,6
+USA,"New Bedford",Motorcycles,6
+USA,Brickhaven,Planes,6
+Japan,Minato-ku,Planes,6
+France,Toulouse,Planes,6
+Canada,Vancouver,"Vintage Cars",6
+Austria,Salzburg,Planes,6
+Spain,Barcelona,"Vintage Cars",6
+Canada,Tsawassen,"Vintage Cars",6
+USA,Philadelphia,Motorcycles,6
+USA,Brickhaven,Motorcycles,6
+USA,Pasadena,"Classic Cars",6
+USA,"San Francisco","Trucks and Buses",6
+Australia,"North Sydney",Motorcycles,6
+Canada,MontrÃƒÂ©al,Ships,6
+USA,"San Diego",Planes,6
+"New Zealand","Auckland  ","Trucks and Buses",6
+Austria,Salzburg,"Vintage Cars",6
+USA,Cambridge,"Vintage Cars",6
+Ireland,Dublin,"Classic Cars",6
+Germany,Frankfurt,"Vintage Cars",5
+Singapore,Singapore,Trains,5
+Canada,Vancouver,"Classic Cars",5
+Australia,Chatswood,"Trucks and Buses",5
+Austria,Graz,"Trucks and Buses",5
+Japan,Kita-ku,Motorcycles,5
+France,Marseille,"Vintage Cars",5
+"New Zealand",Wellington,"Classic Cars",5
+Japan,Minato-ku,Ships,5
+Philippines,"Makati City",Planes,5
+USA,"White Plains",Motorcycles,5
+Finland,Oulu,Planes,5
+Austria,Salzburg,Motorcycles,5
+"New Zealand",Wellington,Motorcycles,5
+Spain,Sevilla,"Classic Cars",5
+USA,Boston,Motorcycles,5
+Japan,Minato-ku,"Classic Cars",5
+Canada,MontrÃƒÂ©al,"Trucks and Buses",5
+USA,"White Plains","Classic Cars",5
+USA,"New Haven","Trucks and Buses",5
+Spain,Barcelona,Planes,5
+France,Nantes,Ships,5
+"New Zealand",Auckland,Motorcycles,5
+France,Strasbourg,"Vintage Cars",5
+Sweden,LuleÃƒÂ¥,"Vintage Cars",4
+Singapore,Singapore,Ships,4
+USA,Brickhaven,Ships,4
+France,Toulouse,"Classic Cars",4
+USA,Pasadena,Planes,4
+Finland,Oulu,"Vintage Cars",4
+Finland,Espoo,"Trucks and Buses",4
+USA,"White Plains","Trucks and Buses",4
+Finland,Espoo,Motorcycles,4
+Austria,Salzburg,Ships,4
+Ireland,Dublin,Planes,4
+Japan,Minato-ku,Motorcycles,4
+USA,"San Diego","Vintage Cars",4
+USA,Glendale,"Vintage Cars",4
+Australia,"South Brisbane",Motorcycles,4
+Sweden,LuleÃƒÂ¥,"Trucks and Buses",4
+Austria,Graz,"Vintage Cars",4
+Germany,Munich,"Vintage Cars",4
+Italy,Torino,"Classic Cars",4
+Italy,Milan,Planes,4
+Australia,Melbourne,"Trucks and Buses",4
+France,Versailles,"Trucks and Buses",4
+USA,Philadelphia,"Trucks and Buses",4
+"Norway  ",Bergen,"Vintage Cars",4
+Australia,"South Brisbane","Classic Cars",4
+France,Reims,"Vintage Cars",4
+USA,Burlingame,"Classic Cars",3
+USA,Burlingame,"Vintage Cars",3
+Italy,Torino,Ships,3
+"New Zealand",Auckland,Trains,3
+USA,Cambridge,Planes,3
+"Hong Kong","Central Hong Kong","Vintage Cars",3
+UK,Manchester,Trains,3
+"Norway  ",Oslo,"Vintage Cars",3
+Sweden,BrÃƒÂ¤cke,Motorcycles,3
+USA,Allentown,"Vintage Cars",3
+USA,Philadelphia,Planes,3
+Sweden,BrÃƒÂ¤cke,Planes,3
+France,Toulouse,"Vintage Cars",3
+Japan,Kita-ku,"Classic Cars",3
+USA,"Los Angeles","Vintage Cars",3
+Germany,KÃƒÂ¶ln,Motorcycles,3
+Finland,Helsinki,"Vintage Cars",3
+"New Zealand",Wellington,Planes,3
+Australia,"Glen Waverly","Classic Cars",3
+Denmark,Ãƒâ€¦rhus,Trains,3
+Italy,Bergamo,Ships,3
+France,Paris,Trains,3
+Canada,MontrÃƒÂ©al,"Vintage Cars",3
+USA,Bridgewater,Planes,3
+USA,Newark,"Vintage Cars",3
+Japan,Minato-ku,"Trucks and Buses",3
+Belgium,Charleroi,"Classic Cars",3
+France,Marseille,Motorcycles,3
+USA,Nashua,"Trucks and Buses",3
+Germany,Munich,Ships,2
+Denmark,Kobenhavn,Planes,2
+Finland,Helsinki,Ships,2
+Spain,Barcelona,Motorcycles,2
+Australia,Chatswood,Motorcycles,2
+USA,"San Jose",Motorcycles,2
+Germany,Frankfurt,Trains,2
+Germany,Frankfurt,"Trucks and Buses",2
+Belgium,Charleroi,"Vintage Cars",2
+USA,"Los Angeles",Planes,2
+Sweden,LuleÃƒÂ¥,Ships,2
+USA,Glendale,"Classic Cars",2
+USA,Brisbane,"Classic Cars",2
+Italy,"Reggio Emilia","Vintage Cars",2
+USA,Glendale,Ships,2
+USA,Bridgewater,Trains,2
+USA,Brisbane,"Trucks and Buses",2
+USA,"San Jose",Ships,2
+USA,"White Plains","Vintage Cars",2
+Finland,Espoo,Trains,2
+Australia,"Glen Waverly",Planes,2
+France,Reims,"Trucks and Buses",2
+USA,Burbank,Planes,2
+France,Lyon,Trains,2
+France,Reims,Trains,2
+USA,Newark,Ships,2
+Australia,"South Brisbane","Vintage Cars",2
+USA,Philadelphia,Ships,2
+USA,Allentown,Planes,2
+Ireland,Dublin,Motorcycles,2
+Norway,Stavern,Trains,2
+"New Zealand",Wellington,Ships,2
+Ireland,Dublin,Trains,2
+USA,Glendale,Motorcycles,2
+USA,"Los Angeles",Ships,2
+Japan,Kita-ku,"Vintage Cars",2
+UK,Liverpool,"Vintage Cars",2
+Spain,Sevilla,"Vintage Cars",2
+France,Lille,"Classic Cars",2
+France,Versailles,"Classic Cars",2
+USA,"New Bedford",Trains,2
+USA,Allentown,Trains,2
+USA,"San Francisco",Ships,2
+Australia,"South Brisbane",Planes,2
+Denmark,Ãƒâ€¦rhus,"Trucks and Buses",2
+France,Reims,Ships,2
+Belgium,Bruxelles,Trains,2
+Australia,"South Brisbane","Trucks and Buses",2
+USA,"New Haven",Trains,2
+USA,"New Haven","Vintage Cars",2
+USA,Boston,Trains,2
+Italy,Bergamo,"Classic Cars",2
+Japan,Minato-ku,Trains,2
+Italy,"Reggio Emilia",Motorcycles,2
+Italy,"Reggio Emilia",Trains,2
+Denmark,Kobenhavn,Trains,1
+Australia,"South Brisbane",Trains,1
+Belgium,Charleroi,Ships,1
+Australia,Chatswood,Ships,1
+Italy,Milan,"Vintage Cars",1
+UK,Cowes,Trains,1
+Belgium,Charleroi,Planes,1
+USA,"New Haven",Ships,1
+Belgium,Bruxelles,"Classic Cars",1
+Belgium,Charleroi,Trains,1
+USA,Burbank,"Trucks and Buses",1
+"New Zealand",Auckland,Ships,1
+Italy,Torino,Trains,1
+"Hong Kong","Central Hong Kong",Motorcycles,1
+Italy,Milan,"Trucks and Buses",1
+Sweden,LuleÃƒÂ¥,Trains,1
+Ireland,Dublin,"Vintage Cars",1
+USA,"White Plains",Trains,1
+Spain,Barcelona,"Classic Cars",1
+Denmark,Ãƒâ€¦rhus,"Vintage Cars",1
+USA,NYC,Planes,1
+UK,Cowes,"Classic Cars",1
+Philippines,"Makati City","Vintage Cars",1
+Singapore,Singapore,Motorcycles,1
+Denmark,Ãƒâ€¦rhus,Ships,1
+"New Zealand","Auckland  ",Trains,1
+Italy,Torino,"Trucks and Buses",1
+Italy,Milan,Motorcycles,1
+Canada,Tsawassen,Motorcycles,1
+USA,Cambridge,Ships,1
+Ireland,Dublin,"Trucks and Buses",1
+"Norway  ",Bergen,Planes,1
+Canada,Tsawassen,"Classic Cars",1
+Italy,"Reggio Emilia","Trucks and Buses",1
+Australia,"Glen Waverly",Ships,1
+Spain,Sevilla,Trains,1
+USA,Burbank,"Classic Cars",1
+Italy,Milan,"Classic Cars",1

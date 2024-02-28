@@ -1,0 +1,21 @@
+customerNumber,totalSpend,valueCategory,creditLimit,country,city
+141,820690,High-Value,227600,Spain,Madrid
+124,591827,High-Value,210500,USA,"San Rafael"
+114,180585,High-Value,117300,Australia,Melbourne
+151,177914,High-Value,138500,USA,NYC
+119,158573,High-Value,118200,France,Nantes
+148,156251,High-Value,103800,Singapore,Singapore
+323,154622,High-Value,88000,"New Zealand","Auckland  "
+131,149085,High-Value,114900,USA,NYC
+187,148410,High-Value,136800,UK,Manchester
+450,143536,High-Value,77600,USA,"San Jose"
+382,137480,High-Value,71700,Austria,Salzburg
+496,137461,High-Value,110000,"New Zealand","Auckland  "
+276,137034,High-Value,107800,Australia,"North Sydney"
+282,133907,High-Value,93300,Australia,Chatswood
+321,132341,High-Value,105000,USA,"San Francisco"
+146,130305,High-Value,123900,France,Lyon
+145,129085,High-Value,83400,Denmark,Kobenhavn
+278,127530,High-Value,119600,Italy,Bergamo
+353,126983,High-Value,81100,France,Reims
+386,125506,High-Value,121400,Italy,"Reggio Emilia"

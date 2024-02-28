@@ -1,0 +1,350 @@
+customerNumber,productCode,count(productCode),productVendor,difference,country,creditLimit,city
+141,S18_3232,8,"Unimax Art Galleries",91,Spain,227600,Madrid
+141,S24_1444,6,"Highway 66 Mini Classics",25,Spain,227600,Madrid
+141,S24_2840,6,"Carousel DieCast Legends",19,Spain,227600,Madrid
+141,S50_1392,5,"Highway 66 Mini Classics",47,Spain,227600,Madrid
+141,S32_2509,5,"Classic Metal Creations",28,Spain,227600,Madrid
+141,S24_4048,5,"Exoto Designs",48,Spain,227600,Madrid
+141,S18_2319,5,"Unimax Art Galleries",48,Spain,227600,Madrid
+124,S12_4473,4,"Exoto Designs",63,USA,210500,"San Rafael"
+124,S32_2509,4,"Classic Metal Creations",28,USA,210500,"San Rafael"
+124,S32_1268,4,"Motor City Art Classics",42,USA,210500,"San Rafael"
+124,S24_2840,4,"Carousel DieCast Legends",19,USA,210500,"San Rafael"
+124,S24_2300,4,"Autoart Studio Design",66,USA,210500,"San Rafael"
+124,S18_4668,4,"Studio M Art Models",27,USA,210500,"San Rafael"
+124,S18_3320,4,"Exoto Designs",42,USA,210500,"San Rafael"
+124,S18_2795,4,"Gearbox Collectibles",96,USA,210500,"San Rafael"
+124,S18_2238,4,"Gearbox Collectibles",62,USA,210500,"San Rafael"
+124,S12_3891,4,"Second Gear Diecast",90,USA,210500,"San Rafael"
+124,S12_1108,4,"Second Gear Diecast",112,USA,210500,"San Rafael"
+141,S12_4473,4,"Exoto Designs",63,Spain,227600,Madrid
+141,S50_1514,4,"Classic Metal Creations",21,Spain,227600,Madrid
+141,S32_3207,4,"Gearbox Collectibles",35,Spain,227600,Madrid
+141,S24_3856,4,"Classic Metal Creations",42,Spain,227600,Madrid
+141,S24_3432,4,"Gearbox Collectibles",45,Spain,227600,Madrid
+141,S24_3191,4,"Exoto Designs",35,Spain,227600,Madrid
+141,S24_2972,4,"Second Gear Diecast",22,Spain,227600,Madrid
+141,S24_2766,4,"Classic Metal Creations",44,Spain,227600,Madrid
+141,S24_1046,4,"Unimax Art Galleries",24,Spain,227600,Madrid
+141,S18_4522,4,"Exoto Designs",35,Spain,227600,Madrid
+141,S18_4027,4,"Min Lin Diecast",52,Spain,227600,Madrid
+141,S18_3259,4,"Carousel DieCast Legends",33,Spain,227600,Madrid
+141,S18_3140,4,"Unimax Art Galleries",68,Spain,227600,Madrid
+141,S18_2238,4,"Gearbox Collectibles",62,Spain,227600,Madrid
+124,S12_3148,3,"Welly Diecast Productions",62,USA,210500,"San Rafael"
+124,S24_1444,3,"Highway 66 Mini Classics",25,USA,210500,"San Rafael"
+124,S700_2824,3,"Carousel DieCast Legends",55,USA,210500,"San Rafael"
+124,S700_1138,3,"Autoart Studio Design",33,USA,210500,"San Rafael"
+124,S50_1392,3,"Highway 66 Mini Classics",47,USA,210500,"San Rafael"
+124,S32_3522,3,"Red Start Diecast",31,USA,210500,"San Rafael"
+124,S32_3207,3,"Gearbox Collectibles",35,USA,210500,"San Rafael"
+124,S24_4048,3,"Exoto Designs",48,USA,210500,"San Rafael"
+124,S24_3969,3,"Red Start Diecast",19,USA,210500,"San Rafael"
+124,S24_2022,3,"Classic Metal Creations",24,USA,210500,"San Rafael"
+124,S18_4600,3,"Motor City Art Classics",36,USA,210500,"San Rafael"
+124,S18_3259,3,"Carousel DieCast Legends",33,USA,210500,"San Rafael"
+124,S18_3140,3,"Unimax Art Galleries",68,USA,210500,"San Rafael"
+124,S18_2432,3,"Carousel DieCast Legends",36,USA,210500,"San Rafael"
+124,S18_2325,3,"Autoart Studio Design",69,USA,210500,"San Rafael"
+124,S18_1097,3,"Studio M Art Models",58,USA,210500,"San Rafael"
+124,S12_1666,3,"Welly Diecast Productions",59,USA,210500,"San Rafael"
+141,S12_3148,3,"Welly Diecast Productions",62,Spain,227600,Madrid
+141,S72_3212,3,"Unimax Art Galleries",21,Spain,227600,Madrid
+141,S700_3962,3,"Welly Diecast Productions",46,Spain,227600,Madrid
+141,S700_3505,3,"Carousel DieCast Legends",49,Spain,227600,Madrid
+141,S700_1938,3,"Studio M Art Models",43,Spain,227600,Madrid
+141,S700_1691,3,"Min Lin Diecast",40,Spain,227600,Madrid
+141,S50_1341,3,"Studio M Art Models",17,Spain,227600,Madrid
+141,S32_2206,3,"Gearbox Collectibles",16,Spain,227600,Madrid
+141,S24_3371,3,"Welly Diecast Productions",23,Spain,227600,Madrid
+141,S24_2887,3,"Exoto Designs",45,Spain,227600,Madrid
+141,S24_2300,3,"Autoart Studio Design",66,Spain,227600,Madrid
+141,S24_2022,3,"Classic Metal Creations",24,Spain,227600,Madrid
+141,S24_1785,3,"Classic Metal Creations",43,Spain,227600,Madrid
+141,S24_1628,3,"Carousel DieCast Legends",21,Spain,227600,Madrid
+141,S18_4933,3,"Studio M Art Models",37,Spain,227600,Madrid
+141,S18_3685,3,"Gearbox Collectibles",79,Spain,227600,Madrid
+141,S18_3482,3,"Gearbox Collectibles",74,Spain,227600,Madrid
+141,S18_3029,3,"Min Lin Diecast",34,Spain,227600,Madrid
+141,S18_2870,3,"Red Start Diecast",75,Spain,227600,Madrid
+141,S18_2795,3,"Gearbox Collectibles",96,Spain,227600,Madrid
+141,S18_1589,3,"Classic Metal Creations",58,Spain,227600,Madrid
+141,S18_1342,3,"Motor City Art Classics",42,Spain,227600,Madrid
+112,S24_3969,2,"Red Start Diecast",19,USA,71800,"Las Vegas"
+112,S24_3432,2,"Gearbox Collectibles",45,USA,71800,"Las Vegas"
+112,S24_3191,2,"Exoto Designs",35,USA,71800,"Las Vegas"
+112,S24_2887,2,"Exoto Designs",45,USA,71800,"Las Vegas"
+112,S24_2766,2,"Classic Metal Creations",44,USA,71800,"Las Vegas"
+114,S700_3167,2,"Motor City Art Classics",26,Australia,117300,Melbourne
+114,S700_2834,2,"Highway 66 Mini Classics",59,Australia,117300,Melbourne
+114,S700_1691,2,"Min Lin Diecast",40,Australia,117300,Melbourne
+114,S50_1341,2,"Studio M Art Models",17,Australia,117300,Melbourne
+114,S32_4289,2,"Highway 66 Mini Classics",36,Australia,117300,Melbourne
+114,S32_1374,2,"Exoto Designs",33,Australia,117300,Melbourne
+114,S24_4278,2,"Unimax Art Galleries",36,Australia,117300,Melbourne
+114,S24_2000,2,"Highway 66 Mini Classics",39,Australia,117300,Melbourne
+114,S24_1785,2,"Classic Metal Creations",43,Australia,117300,Melbourne
+114,S24_1578,2,"Autoart Studio Design",52,Australia,117300,Melbourne
+114,S18_2795,2,"Gearbox Collectibles",96,Australia,117300,Melbourne
+114,S18_2625,2,"Welly Diecast Productions",36,Australia,117300,Melbourne
+114,S18_2581,2,"Gearbox Collectibles",35,Australia,117300,Melbourne
+114,S10_4698,2,"Red Start Diecast",103,Australia,117300,Melbourne
+114,S10_2016,2,"Highway 66 Mini Classics",50,Australia,117300,Melbourne
+119,S700_3167,2,"Motor City Art Classics",26,France,118200,Nantes
+119,S700_2834,2,"Highway 66 Mini Classics",59,France,118200,Nantes
+119,S700_2466,2,"Motor City Art Classics",31,France,118200,Nantes
+119,S700_1691,2,"Min Lin Diecast",40,France,118200,Nantes
+119,S50_1341,2,"Studio M Art Models",17,France,118200,Nantes
+119,S32_4289,2,"Highway 66 Mini Classics",36,France,118200,Nantes
+119,S32_1374,2,"Exoto Designs",33,France,118200,Nantes
+119,S24_4278,2,"Unimax Art Galleries",36,France,118200,Nantes
+119,S24_2000,2,"Highway 66 Mini Classics",39,France,118200,Nantes
+119,S10_1678,2,"Min Lin Diecast",47,France,118200,Nantes
+124,S700_1938,2,"Studio M Art Models",43,USA,210500,"San Rafael"
+124,S50_4713,2,"Autoart Studio Design",47,USA,210500,"San Rafael"
+124,S50_1514,2,"Classic Metal Creations",21,USA,210500,"San Rafael"
+124,S32_4485,2,"Second Gear Diecast",46,USA,210500,"San Rafael"
+124,S32_2206,2,"Gearbox Collectibles",16,USA,210500,"San Rafael"
+124,S24_4620,2,"Classic Metal Creations",49,USA,210500,"San Rafael"
+124,S24_4258,2,"Second Gear Diecast",40,USA,210500,"San Rafael"
+124,S24_3856,2,"Classic Metal Creations",42,USA,210500,"San Rafael"
+124,S24_3816,2,"Carousel DieCast Legends",35,USA,210500,"San Rafael"
+124,S24_3432,2,"Gearbox Collectibles",45,USA,210500,"San Rafael"
+124,S24_3371,2,"Welly Diecast Productions",23,USA,210500,"San Rafael"
+124,S24_3191,2,"Exoto Designs",35,USA,210500,"San Rafael"
+124,S24_3151,2,"Min Lin Diecast",42,USA,210500,"San Rafael"
+124,S24_2972,2,"Second Gear Diecast",22,USA,210500,"San Rafael"
+124,S24_2887,2,"Exoto Designs",45,USA,210500,"San Rafael"
+124,S24_2766,2,"Classic Metal Creations",44,USA,210500,"San Rafael"
+124,S24_2360,2,"Highway 66 Mini Classics",22,USA,210500,"San Rafael"
+124,S24_2011,2,"Carousel DieCast Legends",41,USA,210500,"San Rafael"
+124,S24_1937,2,"Motor City Art Classics",11,USA,210500,"San Rafael"
+124,S18_4721,2,"Classic Metal Creations",79,USA,210500,"San Rafael"
+124,S18_4522,2,"Exoto Designs",35,USA,210500,"San Rafael"
+124,S18_4027,2,"Min Lin Diecast",52,USA,210500,"San Rafael"
+124,S18_3782,2,"Studio M Art Models",29,USA,210500,"San Rafael"
+124,S18_3482,2,"Gearbox Collectibles",74,USA,210500,"San Rafael"
+124,S18_3278,2,"Min Lin Diecast",31,USA,210500,"San Rafael"
+124,S18_3232,2,"Unimax Art Galleries",91,USA,210500,"San Rafael"
+124,S18_3136,2,"Red Start Diecast",44,USA,210500,"San Rafael"
+124,S18_2957,2,"Min Lin Diecast",28,USA,210500,"San Rafael"
+124,S18_2949,2,"Carousel DieCast Legends",41,USA,210500,"San Rafael"
+124,S18_2319,2,"Unimax Art Galleries",48,USA,210500,"San Rafael"
+124,S18_2248,2,"Motor City Art Classics",27,USA,210500,"San Rafael"
+124,S18_1749,2,"Welly Diecast Productions",83,USA,210500,"San Rafael"
+124,S18_1367,2,"Studio M Art Models",30,USA,210500,"San Rafael"
+124,S18_1342,2,"Motor City Art Classics",42,USA,210500,"San Rafael"
+124,S10_4962,2,"Second Gear Diecast",44,USA,210500,"San Rafael"
+124,S10_1949,2,"Classic Metal Creations",116,USA,210500,"San Rafael"
+129,S24_4258,2,"Second Gear Diecast",40,USA,64600,"San Francisco"
+129,S18_3320,2,"Exoto Designs",42,USA,64600,"San Francisco"
+131,S32_1374,2,"Exoto Designs",33,USA,114900,NYC
+131,S24_2000,2,"Highway 66 Mini Classics",39,USA,114900,NYC
+131,S24_1578,2,"Autoart Studio Design",52,USA,114900,NYC
+131,S18_2625,2,"Welly Diecast Productions",36,USA,114900,NYC
+131,S12_2823,2,"Unimax Art Galleries",84,USA,114900,NYC
+131,S10_4698,2,"Red Start Diecast",103,USA,114900,NYC
+131,S10_2016,2,"Highway 66 Mini Classics",50,USA,114900,NYC
+131,S10_1678,2,"Min Lin Diecast",47,USA,114900,NYC
+141,S700_2610,2,"Red Start Diecast",38,Spain,227600,Madrid
+141,S72_1253,2,"Motor City Art Classics",17,Spain,227600,Madrid
+141,S700_4002,2,"Second Gear Diecast",38,Spain,227600,Madrid
+141,S700_3167,2,"Motor City Art Classics",26,Spain,227600,Madrid
+141,S700_2824,2,"Carousel DieCast Legends",55,Spain,227600,Madrid
+141,S700_2466,2,"Motor City Art Classics",31,Spain,227600,Madrid
+141,S700_2047,2,"Unimax Art Galleries",51,Spain,227600,Madrid
+141,S700_1138,2,"Autoart Studio Design",33,Spain,227600,Madrid
+141,S32_4485,2,"Second Gear Diecast",46,Spain,227600,Madrid
+141,S32_4289,2,"Highway 66 Mini Classics",36,Spain,227600,Madrid
+141,S32_3522,2,"Red Start Diecast",31,Spain,227600,Madrid
+141,S24_4620,2,"Classic Metal Creations",49,Spain,227600,Madrid
+141,S24_4278,2,"Unimax Art Galleries",36,Spain,227600,Madrid
+141,S24_4258,2,"Second Gear Diecast",40,Spain,227600,Madrid
+141,S24_3949,2,"Second Gear Diecast",39,Spain,227600,Madrid
+141,S24_3816,2,"Carousel DieCast Legends",35,Spain,227600,Madrid
+141,S24_3420,2,"Autoart Studio Design",39,Spain,227600,Madrid
+141,S24_2841,2,"Autoart Studio Design",34,Spain,227600,Madrid
+141,S24_2360,2,"Highway 66 Mini Classics",22,Spain,227600,Madrid
+141,S24_2011,2,"Carousel DieCast Legends",41,Spain,227600,Madrid
+141,S24_1937,2,"Motor City Art Classics",11,Spain,227600,Madrid
+141,S18_4721,2,"Classic Metal Creations",79,Spain,227600,Madrid
+141,S18_4668,2,"Studio M Art Models",27,Spain,227600,Madrid
+141,S18_4409,2,"Exoto Designs",49,Spain,227600,Madrid
+141,S18_3856,2,"Exoto Designs",41,Spain,227600,Madrid
+141,S18_3782,2,"Studio M Art Models",29,Spain,227600,Madrid
+141,S18_3278,2,"Min Lin Diecast",31,Spain,227600,Madrid
+141,S18_2581,2,"Gearbox Collectibles",35,Spain,227600,Madrid
+141,S18_2432,2,"Carousel DieCast Legends",36,Spain,227600,Madrid
+141,S18_1889,2,"Gearbox Collectibles",23,Spain,227600,Madrid
+141,S18_1662,2,"Red Start Diecast",80,Spain,227600,Madrid
+141,S18_1367,2,"Studio M Art Models",30,Spain,227600,Madrid
+141,S12_4675,2,"Welly Diecast Productions",56,Spain,227600,Madrid
+141,S12_3380,2,"Welly Diecast Productions",42,Spain,227600,Madrid
+145,S700_2610,2,"Red Start Diecast",38,Denmark,83400,Kobenhavn
+145,S72_3212,2,"Unimax Art Galleries",21,Denmark,83400,Kobenhavn
+145,S700_3962,2,"Welly Diecast Productions",46,Denmark,83400,Kobenhavn
+145,S700_3505,2,"Carousel DieCast Legends",49,Denmark,83400,Kobenhavn
+145,S700_1938,2,"Studio M Art Models",43,Denmark,83400,Kobenhavn
+148,S12_3148,2,"Welly Diecast Productions",62,Singapore,103800,Singapore
+148,S50_1514,2,"Classic Metal Creations",21,Singapore,103800,Singapore
+148,S18_4027,2,"Min Lin Diecast",52,Singapore,103800,Singapore
+148,S18_3259,2,"Carousel DieCast Legends",33,Singapore,103800,Singapore
+148,S12_3891,2,"Second Gear Diecast",90,Singapore,103800,Singapore
+148,S12_1108,2,"Second Gear Diecast",112,Singapore,103800,Singapore
+151,S12_4473,2,"Exoto Designs",63,USA,138500,NYC
+151,S24_1444,2,"Highway 66 Mini Classics",25,USA,138500,NYC
+151,S32_2509,2,"Classic Metal Creations",28,USA,138500,NYC
+151,S24_4048,2,"Exoto Designs",48,USA,138500,NYC
+151,S24_3432,2,"Gearbox Collectibles",45,USA,138500,NYC
+151,S24_3191,2,"Exoto Designs",35,USA,138500,NYC
+151,S24_2887,2,"Exoto Designs",45,USA,138500,NYC
+151,S24_2840,2,"Carousel DieCast Legends",19,USA,138500,NYC
+151,S24_2766,2,"Classic Metal Creations",44,USA,138500,NYC
+151,S24_1046,2,"Unimax Art Galleries",24,USA,138500,NYC
+151,S18_4933,2,"Studio M Art Models",37,USA,138500,NYC
+151,S18_4027,2,"Min Lin Diecast",52,USA,138500,NYC
+151,S18_3232,2,"Unimax Art Galleries",91,USA,138500,NYC
+151,S18_2319,2,"Unimax Art Galleries",48,USA,138500,NYC
+151,S18_2238,2,"Gearbox Collectibles",62,USA,138500,NYC
+151,S12_3891,2,"Second Gear Diecast",90,USA,138500,NYC
+161,S24_4278,2,"Unimax Art Galleries",36,USA,84600,Burlingame
+161,S24_1578,2,"Autoart Studio Design",52,USA,84600,Burlingame
+161,S18_2625,2,"Welly Diecast Productions",36,USA,84600,Burlingame
+161,S10_4698,2,"Red Start Diecast",103,USA,84600,Burlingame
+166,S32_1268,2,"Motor City Art Classics",42,Singapore,97900,Singapore
+166,S24_2300,2,"Autoart Studio Design",66,Singapore,97900,Singapore
+166,S24_1937,2,"Motor City Art Classics",11,Singapore,97900,Singapore
+166,S18_4600,2,"Motor City Art Classics",36,Singapore,97900,Singapore
+166,S18_2432,2,"Carousel DieCast Legends",36,Singapore,97900,Singapore
+166,S18_2325,2,"Autoart Studio Design",69,Singapore,97900,Singapore
+166,S10_4962,2,"Second Gear Diecast",44,Singapore,97900,Singapore
+171,S50_4713,2,"Autoart Studio Design",47,France,82900,Lille
+171,S32_4485,2,"Second Gear Diecast",46,France,82900,Lille
+171,S32_2206,2,"Gearbox Collectibles",16,France,82900,Lille
+171,S24_2360,2,"Highway 66 Mini Classics",22,France,82900,Lille
+171,S18_3782,2,"Studio M Art Models",29,France,82900,Lille
+171,S12_2823,2,"Unimax Art Galleries",84,France,82900,Lille
+172,S700_2824,2,"Carousel DieCast Legends",55,France,84300,Paris
+187,S24_3969,2,"Red Start Diecast",19,UK,136800,Manchester
+187,S24_3432,2,"Gearbox Collectibles",45,UK,136800,Manchester
+187,S24_3191,2,"Exoto Designs",35,UK,136800,Manchester
+187,S24_2887,2,"Exoto Designs",45,UK,136800,Manchester
+187,S24_2766,2,"Classic Metal Creations",44,UK,136800,Manchester
+187,S24_2022,2,"Classic Metal Creations",24,UK,136800,Manchester
+187,S24_1937,2,"Motor City Art Classics",11,UK,136800,Manchester
+187,S24_1628,2,"Carousel DieCast Legends",21,UK,136800,Manchester
+187,S24_1046,2,"Unimax Art Galleries",24,UK,136800,Manchester
+187,S18_4933,2,"Studio M Art Models",37,UK,136800,Manchester
+187,S18_4409,2,"Exoto Designs",49,UK,136800,Manchester
+187,S18_2795,2,"Gearbox Collectibles",96,UK,136800,Manchester
+187,S18_2325,2,"Autoart Studio Design",69,UK,136800,Manchester
+187,S18_2248,2,"Motor City Art Classics",27,UK,136800,Manchester
+202,S700_2824,2,"Carousel DieCast Legends",55,Canada,90300,Vancouver
+202,S32_3522,2,"Red Start Diecast",31,Canada,90300,Vancouver
+202,S12_1666,2,"Welly Diecast Productions",59,Canada,90300,Vancouver
+205,S12_2823,2,"Unimax Art Galleries",84,USA,90700,Pasadena
+211,S32_4289,2,"Highway 66 Mini Classics",36,"Hong Kong",58600,"Central Hong Kong"
+211,S24_4278,2,"Unimax Art Galleries",36,"Hong Kong",58600,"Central Hong Kong"
+211,S24_1785,2,"Classic Metal Creations",43,"Hong Kong",58600,"Central Hong Kong"
+211,S18_2581,2,"Gearbox Collectibles",35,"Hong Kong",58600,"Central Hong Kong"
+216,S700_3505,2,"Carousel DieCast Legends",49,Spain,60300,Barcelona
+256,S12_1666,2,"Welly Diecast Productions",59,France,77900,Versailles
+259,S24_4620,2,"Classic Metal Creations",49,Germany,120400,KÃƒÂ¶ln
+259,S24_3371,2,"Welly Diecast Productions",23,Germany,120400,KÃƒÂ¶ln
+259,S18_4721,2,"Classic Metal Creations",79,Germany,120400,KÃƒÂ¶ln
+259,S18_3782,2,"Studio M Art Models",29,Germany,120400,KÃƒÂ¶ln
+259,S18_3482,2,"Gearbox Collectibles",74,Germany,120400,KÃƒÂ¶ln
+259,S18_3278,2,"Min Lin Diecast",31,Germany,120400,KÃƒÂ¶ln
+259,S12_3990,2,"Studio M Art Models",48,Germany,120400,KÃƒÂ¶ln
+259,S12_3380,2,"Welly Diecast Productions",42,Germany,120400,KÃƒÂ¶ln
+259,S12_1099,2,"Autoart Studio Design",99,Germany,120400,KÃƒÂ¶ln
+276,S18_3232,2,"Unimax Art Galleries",91,Australia,107800,"North Sydney"
+276,S18_2432,2,"Carousel DieCast Legends",36,Australia,107800,"North Sydney"
+276,S18_1097,2,"Studio M Art Models",58,Australia,107800,"North Sydney"
+276,S12_1666,2,"Welly Diecast Productions",59,Australia,107800,"North Sydney"
+276,S10_4962,2,"Second Gear Diecast",44,Australia,107800,"North Sydney"
+278,S700_4002,2,"Second Gear Diecast",38,Italy,119600,Bergamo
+278,S700_3167,2,"Motor City Art Classics",26,Italy,119600,Bergamo
+278,S700_2834,2,"Highway 66 Mini Classics",59,Italy,119600,Bergamo
+278,S700_2466,2,"Motor City Art Classics",31,Italy,119600,Bergamo
+278,S700_2047,2,"Unimax Art Galleries",51,Italy,119600,Bergamo
+278,S700_1691,2,"Min Lin Diecast",40,Italy,119600,Bergamo
+278,S50_1341,2,"Studio M Art Models",17,Italy,119600,Bergamo
+278,S32_4289,2,"Highway 66 Mini Classics",36,Italy,119600,Bergamo
+278,S24_4278,2,"Unimax Art Galleries",36,Italy,119600,Bergamo
+278,S24_3949,2,"Second Gear Diecast",39,Italy,119600,Bergamo
+278,S24_3420,2,"Autoart Studio Design",39,Italy,119600,Bergamo
+278,S24_2841,2,"Autoart Studio Design",34,Italy,119600,Bergamo
+278,S24_1785,2,"Classic Metal Creations",43,Italy,119600,Bergamo
+278,S18_3856,2,"Exoto Designs",41,Italy,119600,Bergamo
+282,S18_3136,2,"Red Start Diecast",44,Australia,93300,Chatswood
+282,S18_2949,2,"Carousel DieCast Legends",41,Australia,93300,Chatswood
+298,S24_4620,2,"Classic Metal Creations",49,Switzerland,141300,GenÃƒÂ¨ve
+298,S24_3856,2,"Classic Metal Creations",42,Switzerland,141300,GenÃƒÂ¨ve
+298,S24_3371,2,"Welly Diecast Productions",23,Switzerland,141300,GenÃƒÂ¨ve
+298,S24_2972,2,"Second Gear Diecast",22,Switzerland,141300,GenÃƒÂ¨ve
+298,S18_4721,2,"Classic Metal Creations",79,Switzerland,141300,GenÃƒÂ¨ve
+298,S18_3482,2,"Gearbox Collectibles",74,Switzerland,141300,GenÃƒÂ¨ve
+298,S18_3278,2,"Min Lin Diecast",31,Switzerland,141300,GenÃƒÂ¨ve
+298,S18_3232,2,"Unimax Art Galleries",91,Switzerland,141300,GenÃƒÂ¨ve
+298,S18_1889,2,"Gearbox Collectibles",23,Switzerland,141300,GenÃƒÂ¨ve
+298,S18_1129,2,"Highway 66 Mini Classics",58,Switzerland,141300,GenÃƒÂ¨ve
+298,S12_4675,2,"Welly Diecast Productions",56,Switzerland,141300,GenÃƒÂ¨ve
+298,S12_3990,2,"Studio M Art Models",48,Switzerland,141300,GenÃƒÂ¨ve
+298,S12_3380,2,"Welly Diecast Productions",42,Switzerland,141300,GenÃƒÂ¨ve
+298,S12_1099,2,"Autoart Studio Design",99,Switzerland,141300,GenÃƒÂ¨ve
+311,S18_3232,2,"Unimax Art Galleries",91,Finland,90500,Oulu
+314,S700_1938,2,"Studio M Art Models",43,Belgium,79900,Bruxelles
+314,S24_2011,2,"Carousel DieCast Legends",41,Belgium,79900,Bruxelles
+314,S18_4522,2,"Exoto Designs",35,Belgium,79900,Bruxelles
+314,S18_3259,2,"Carousel DieCast Legends",33,Belgium,79900,Bruxelles
+314,S18_3140,2,"Unimax Art Galleries",68,Belgium,79900,Bruxelles
+320,S700_2610,2,"Red Start Diecast",38,USA,94500,"New Bedford"
+321,S18_1367,2,"Studio M Art Models",30,USA,105000,"San Francisco"
+323,S18_3278,2,"Min Lin Diecast",31,"New Zealand",88000,"Auckland  "
+323,S12_3990,2,"Studio M Art Models",48,"New Zealand",88000,"Auckland  "
+323,S12_3380,2,"Welly Diecast Productions",42,"New Zealand",88000,"Auckland  "
+323,S12_1099,2,"Autoart Studio Design",99,"New Zealand",88000,"Auckland  "
+350,S32_2206,2,"Gearbox Collectibles",16,France,65000,Marseille
+353,S24_1628,2,"Carousel DieCast Legends",21,France,81100,Reims
+353,S18_3685,2,"Gearbox Collectibles",79,France,81100,Reims
+353,S18_2870,2,"Red Start Diecast",75,France,81100,Reims
+353,S18_1589,2,"Classic Metal Creations",58,France,81100,Reims
+362,S700_2610,2,"Red Start Diecast",38,USA,41900,Boston
+362,S700_3505,2,"Carousel DieCast Legends",49,USA,41900,Boston
+362,S700_1138,2,"Autoart Studio Design",33,USA,41900,Boston
+362,S24_3151,2,"Min Lin Diecast",42,USA,41900,Boston
+362,S10_4757,2,"Motor City Art Classics",50,USA,41900,Boston
+382,S12_4675,2,"Welly Diecast Productions",56,Austria,71700,Salzburg
+382,S12_3990,2,"Studio M Art Models",48,Austria,71700,Salzburg
+382,S12_3380,2,"Welly Diecast Productions",42,Austria,71700,Salzburg
+382,S12_1099,2,"Autoart Studio Design",99,Austria,71700,Salzburg
+385,S24_2360,2,"Highway 66 Mini Classics",22,Philippines,81500,"Makati City"
+385,S18_4721,2,"Classic Metal Creations",79,Philippines,81500,"Makati City"
+385,S18_3782,2,"Studio M Art Models",29,Philippines,81500,"Makati City"
+385,S18_3482,2,"Gearbox Collectibles",74,Philippines,81500,"Makati City"
+406,S50_4713,2,"Autoart Studio Design",47,France,95000,Paris
+406,S32_4485,2,"Second Gear Diecast",46,France,95000,Paris
+406,S32_2206,2,"Gearbox Collectibles",16,France,95000,Paris
+406,S24_4620,2,"Classic Metal Creations",49,France,95000,Paris
+406,S24_2360,2,"Highway 66 Mini Classics",22,France,95000,Paris
+406,S18_4721,2,"Classic Metal Creations",79,France,95000,Paris
+406,S18_3782,2,"Studio M Art Models",29,France,95000,Paris
+406,S18_3482,2,"Gearbox Collectibles",74,France,95000,Paris
+406,S18_3278,2,"Min Lin Diecast",31,France,95000,Paris
+450,S18_1662,2,"Red Start Diecast",80,USA,77600,"San Jose"
+458,S700_2824,2,"Carousel DieCast Legends",55,Spain,104600,Madrid
+458,S32_3522,2,"Red Start Diecast",31,Spain,104600,Madrid
+458,S32_1268,2,"Motor City Art Classics",42,Spain,104600,Madrid
+458,S24_4258,2,"Second Gear Diecast",40,Spain,104600,Madrid
+458,S24_2300,2,"Autoart Studio Design",66,Spain,104600,Madrid
+458,S18_4668,2,"Studio M Art Models",27,Spain,104600,Madrid
+486,S24_2972,2,"Second Gear Diecast",22,USA,72600,Philadelphia
+486,S18_3685,2,"Gearbox Collectibles",79,USA,72600,Philadelphia
+486,S18_3232,2,"Unimax Art Galleries",91,USA,72600,Philadelphia
+486,S18_2870,2,"Red Start Diecast",75,USA,72600,Philadelphia
+486,S18_1984,2,"Min Lin Diecast",48,USA,72600,Philadelphia
+486,S18_1129,2,"Highway 66 Mini Classics",58,USA,72600,Philadelphia
+496,S32_1374,2,"Exoto Designs",33,"New Zealand",110000,"Auckland  "
+496,S24_1785,2,"Classic Metal Creations",43,"New Zealand",110000,"Auckland  "
+496,S18_2581,2,"Gearbox Collectibles",35,"New Zealand",110000,"Auckland  "
